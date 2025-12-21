@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<analysis>
+	<pros>
+		<argument score='`SCORE`'><![CDATA[`ARGUMENT`]]></argument>
+		<argument score='`SCORE`'><![CDATA[`ARGUMENT`]]></argument>
+	</pros>
+	<cons>
+		<argument score='`SCORE`'><![CDATA[`ARGUMENT`]]></argument>
+		<argument score='`SCORE`'><![CDATA[`ARGUMENT`]]></argument>
+	</cons>
+	<verdict score='`SCORE`'><![CDATA[`VERDICT`]]></verdict>
+</analysis>

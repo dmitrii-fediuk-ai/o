@@ -1,0 +1,2 @@
+https://storage.googleapis.com/deepmind-media/gemini/gemini_v2_5_report.pdf
+
