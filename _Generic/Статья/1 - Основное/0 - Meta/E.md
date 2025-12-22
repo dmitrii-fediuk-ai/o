@@ -1,5 +1,0 @@
-# `Aᨀ`
-`Aᨀ` ≔
-```markdown
-STUB
-```
