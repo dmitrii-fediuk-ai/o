@@ -18,17 +18,17 @@ STUB
 STUB
 ~~~~~~
 
+# `R.md`
+~~~~~~markdown
+STUB
+~~~~~~
+
 # `T.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
 
 # `A.md`
-~~~~~~markdown
-STUB
-~~~~~~
-
-# `R.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
