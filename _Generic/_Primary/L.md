@@ -346,7 +346,6 @@ T
 ### Meaning
 `T` is a citation from `A`.
 
-
 # 20. `ꘖ` (attributes / properties)
 ## 20.1. Definitions using a global symbol
 ### 20.1.1. 
