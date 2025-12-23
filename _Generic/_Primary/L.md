@@ -94,60 +94,15 @@ An ontology: a representation, formal naming, and definitions of the categories,
 В процессе анализа может выясниться, что `A` — истинно.
 В таком случае я явно пишу `⊤ A`, чтобы ты не тратил своё время на повторный анализ истинности `A` и в дальнейшем анализе считал `A` истинным.
 
-# 5. `≔!`
-## 5.1.
+# 7. ?
+## Syntax
 ~~~code
-A ≔! B
+? A
 ~~~
-means:
-```code
-(`A` ≔⊤ `B`) AND (`B` is surprising).
-```
+## Meaning
+`A` is a hypothesis.
 
-## 5.2.
-~~~code
-A ≔!⟦Rs⟧ B
-~~~
-means:
-```code
-(`A` ≔⊤⟦Rs⟧ `B`) AND (`B` is surprising).
-```
-
-# 6. `?`
-## 6.1.
-~~~code
-? B
-~~~
-means that `B` is a hypothesis.
-
-## 6.2.
-~~~code
-?⟦Rs⟧ B
-~~~
-means:
-```code
-(? `B`) AND (`Rs` are the reasons for the hypothesis)
-```
-
-## 6.3.
-~~~code
-A ≔? B
-~~~
-means:
-```code
-(? `B`) AND (`A` ≔ `B`)
-```
-
-## 6.4.
-~~~code
-A ≔?⟦Rs⟧ B
-~~~
-means:
-```code
-(?⟦Rs⟧ `B`) AND (`A` ≔ `B`)
-```
-
-# 7.
+# 8. A : S
 ## 7.1.
 ~~~code
 A : S ≔ B
