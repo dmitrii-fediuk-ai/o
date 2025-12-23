@@ -102,6 +102,21 @@ An ontology: a representation, formal naming, and definitions of the categories,
 ## Meaning
 `A` is a hypothesis.
 
+# 8. ᗉ
+## Syntax
+~~~code
+A ᗉ S
+~~~
+## Meaning
+`A` — неопределённый элемент `S`.
+При этом `S` — некоторое множество/категория сущностей.
+По смыслу `ᗉ` соответствует неопределённому артиклю «a / an» английского языка.
+## Пример
+Пусть `S` означает «balls».
+Тогда `A ᗉ S` будет означать, что `A` — это «a ball».
+## Следствие
+⊤ ⟨ `A` ∈ `S` ⟩ 
+
 # 8. A : S
 ## 7.1.
 ~~~code
