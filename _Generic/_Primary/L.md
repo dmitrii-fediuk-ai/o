@@ -1,4 +1,4 @@
-# 1. `≔`
+# 1. ≔
 ## Syntax
 ~~~code
 A ≔ B
@@ -42,19 +42,26 @@ Line 3 ❯
 # 4. Metadata: ⟪ ⟫
 ## Syntax
 ~~~code
-⟪ D ⟫ A
+⟪ M ⟫ A
 ~~~
 
 ## Meaning
-`D` — это комментарий, поясняющий роль `A`.
+`M` — мета-информация об `A`.
 
 ## Example
+### Code
 ~~~code
 ⟪ мой ответ клиенту на его письмо `X` ⟫
 ```
-содержание моего ответа
+<содержание моего ответа>
 ```
 ~~~
+### Meaning
+В этом примере:
+`M`: «мой ответ клиенту на его письмо `X`»
+`A`: <содержание моего ответа>
+Обрати внимание, что `M` не является частью `A` (не является частью моего ответа клиенту).
+Вместо этого `M` является мета-информацией, поясняющей назначение `A` (то, что `A` — это не просто текст, а моей ответ конкретному клиенту на его конкретное писмо `X`).
 
 # 5. Ⱳ
 ## Syntax
@@ -74,56 +81,18 @@ Line 3 ❯
 An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities.
 ```
 
-## 1.7.
-### Syntax
+# 6. ⊤
+## Syntax
 ~~~code
-A ≔Ⱳ B
+⊤ A
 ~~~
-### Meaning
-`A` обозначает понятие, которому посвящена статья Wikipedia по адресу `B`.
-### Note
-`A` обозначает не статью Wikipedia, а именно понятие, которое описывает эта статья.
-### Example
-~~~code
-`A` ≔Ⱳ https://en.wikipedia.org/wiki/Upwork
-~~~
-Этот пример эквивалентен следующей записи:
-~~~code
-`A` ≔ ⟨ Upwork Inc. (an American freelancing platform) ⟩
-~~~
-
-# 2. `→`
-~~~code
-A → B
-~~~
-denotes a material conditional ⟨ https://en.wikipedia.org/wiki/Material_conditional ⟩
-
-# 3. `⊢`
-~~~code
-A ⊢ B
-~~~
-denotes a logical consequence ⟨ https://en.wikipedia.org/wiki/Logical_consequence ⟩
-
-# 4. `⊤`
-### Syntax 1
-#### Variant 1
-~~~code
-⊤⟦Rs⟧ A
-~~~
-#### Variant 2
-~~~code
-⊤⟦Rs⟧ ⟨ A ⟩
-~~~
-#### Variant 3
-~~~code
-⊤⟦Rs⟧ 
-```markdown
-A
-```
-~~~
-### Meaning
-- `A` is true (is a fact).
-- `⟦Rs⟧` — опциональная секция, мотивирующая утверждение о истинности `A`.
+## Meaning
+`A` is true (is a fact).
+## Rationale
+Я обычно использую синтаксис `⊤` на поздних этапах многошагового анализа.
+На ранних этапах такого анализа истинность `A` может быть неочевидна.
+В процессе анализа может выясниться, что `A` — истинно.
+В таком случае я явно пишу `⊤ A`, чтобы ты не тратил своё время на повторный анализ истинности `A` и в дальнейшем анализе считал `A` истинным.
 
 # 5. `≔!`
 ## 5.1.
