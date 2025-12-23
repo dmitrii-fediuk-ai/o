@@ -135,7 +135,7 @@ An ontology: a representation, formal naming, and definitions of the categories,
 ⠿ ⟨ P ⟩
 ~~~
 ## Meaning
-Такая запись определяет множество как тип ( Ⱳ https://en.wikipedia.org/wiki/Type_theory ) посредством предиката `P`: формальной спецификации, которой должны соответствовать элементы этого множества/типа. 
+Такая запись определяет множество как тип ⟨ Ⱳ https://en.wikipedia.org/wiki/Type_theory ⟩, посредством предиката `P`: формальной спецификации, которой должны соответствовать элементы этого множества/типа. 
 ## Examples
 ~~~code
 ⠿ ⟨ натуральные числа ⟩
@@ -147,7 +147,7 @@ An ontology: a representation, formal naming, and definitions of the categories,
 ⠿~ D
 ~~~
 ## Meaning
-Такая запись определяет множество посредством неточного, примерного словесного описания `D`.
+Такая запись определяет множество как категорию ⟨ Ⱳ https://en.wikipedia.org/wiki/Theory_of_categories ⟩ / класс ( ⟨ Ⱳ https://en.wikipedia.org/wiki/Class_(knowledge_representation) ⟩, ⟨ Ⱳ https://en.wikipedia.org/wiki/Ontology_components#Classes ⟩ ) посредством неточного, примерного словесного описания `D`.
 ## Example
 ~~~code
 ⠿~ 
