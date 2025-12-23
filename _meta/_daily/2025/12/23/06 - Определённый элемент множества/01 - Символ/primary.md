@@ -10,6 +10,10 @@ A ʘ S
 A ⊙ S
 A 𐤈 S
 A ⦂ S
+A 𑀣 S
+A ۞ S
+A Ꚛ S
+A 𐍈 S
 A STUB S
 ~~~
 
