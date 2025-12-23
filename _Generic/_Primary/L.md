@@ -56,6 +56,23 @@ Line 3 ❯
 ```
 ~~~
 
+# 5. Ⱳ
+## Syntax
+~~~code
+Ⱳ URL
+~~~
+## Meaning
+«Понятие, которому посвящена статья Wikipedia по адресу `URL`».
+
+## Example
+### Code
+~~~code
+Ⱳ https://en.wikipedia.org/wiki/Ontology_(information_science)
+~~~
+### Meaning
+```
+An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities.
+```
 
 ## 1.7.
 ### Syntax
