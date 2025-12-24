@@ -280,15 +280,24 @@ An ontology: a representation, formal naming, and definitions of the categories,
 ## Example
 Если имя файла `᛭Dᵢ` — `sample.md`, и текст `sample.md` использует обозначение `᛭Dc`, это значит, что `᛭Dc` в данном случае обозначает документ `sample.md`.    
 
-# 15. §
+# 16. ∷
 ## Syntax
 ~~~code
-§P
+A∷B
 ~~~
-## Meaning
-Пункт `P` из `᛭Dc`.
+## Meaning 
+Информация `B` из (`A` ⦿ `᛭D⠿`).
 ## Example
-`§15` означает пункт 15 `᛭Dc`.
+A∷⟨ пункт 3 ⟩
+
+
+
+```
+Это означает «»
+
+~~~code
+᛭Dc∷§P
+~~~
 
 # 16. ∷§
 ## Syntax
@@ -297,6 +306,20 @@ A∷§P
 ~~~
 ## Meaning
 Пункт `P` из (`A` ∈ `᛭D⠿`).
+### Другими словами
+~~~code
+⟪ §P ⟫  ⦿ ⠿ ⟨ пункты ⟨ `A` ⦿ `᛭D⠿` ⟩ ⟩
+~~~
+
+# 17. § без ∷
+## Syntax
+~~~code
+§P
+~~~
+## Meaning 
+~~~code
+᛭Dc∷§P
+~~~
 
 # 17. §{P₁, P₂, …, Pₙ}
 ## Meaning
