@@ -77,7 +77,7 @@ Last Line ❯
 Ⱳ URL
 ~~~
 ## Meaning
-«Понятие, которому посвящена статья Wikipedia по адресу `URL`».
+Понятие, которому посвящена статья Wikipedia по адресу `URL`.
 ## Example
 ### Code
 ~~~code
