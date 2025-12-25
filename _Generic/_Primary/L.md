@@ -71,7 +71,7 @@ Line 2
 ## Example
 `Ⱳ https://en.wikipedia.org/wiki/Ontology_(information_science)` ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities. ⟩
 
-# 3. ⟪ … ⟫
+# 4. ⟪ … ⟫
 ## Syntax
 ~~~code
 ⟪ M ⟫ A
@@ -92,7 +92,7 @@ Line 2
 - «мой ответ клиенту на его письмо `X`» — metadata. 
 - Metadata не является частью текста моего письма клиенту: она указывает назначение текста. 
 
-# 4. ⊤
+# 5. ⊤
 ## Syntax
 ~~~code
 ⊤ A
