@@ -21,3 +21,5 @@ In mathematics and logic, a number of symbols function as variable-binding opera
 
 https://en.wikipedia.org/wiki/Free_variables_and_bound_variables#Function_definition_and_operators_as_binders
 A clear example of a variable-binding operator from mathematics is function definition
+
+In English, personal pronouns such as he, she, they, and their variants (e.g., her, him) can function as free variables
