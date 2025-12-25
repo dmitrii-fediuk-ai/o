@@ -49,8 +49,8 @@ Last Line ⟩
 ```markdown
 Line 1
 Line 2
-```
 <…>
+```
 ~~~~
 ###### Tildas
 ~~~~code
