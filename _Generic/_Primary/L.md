@@ -367,14 +367,13 @@ A⌠☷⌡ ≔ B
 Символ `§` можно пропускать, например:
 `A⌠┫2 - 5┣⌡ ≔ B` ≡ `A⌠§┫2 - 5┣⌡ ≔ B`
 
-# 24. `≔†`
+# 24. †
+## Syntax
 ~~~code
-A ≔† B
+† A
 ~~~
-means:
-```code
-(`A` ≔ `B`) AND (`B` is a **problem** to me).
-```
+## Meaning
+`A` is a ⟨«problem» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Problem_solving ⟩ ⟩.
 
 # 25. `▶`
 ```code
