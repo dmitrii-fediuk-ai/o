@@ -137,7 +137,7 @@ Line 2
 ## Meaning
 `A` is a (or a combination of):
 - ⟨ Ⱳ Proposition ⟩
-- ⟨ «statement» in the context of ⟨ Ⱳ Proposition ⟩⟩
+- ⟨ Ⱳ Proposition∷statement ⟩
 - ⟨ Ⱳ Claim_(philosophy) ⟩
 
 # 7.
@@ -145,12 +145,10 @@ Line 2
 `𝒞` ≔ ⟨ понятие «category» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Theory_of_categories ⟩ ⟩ 
 
 ##
-`ℂ` ≔ 
-```markdown
-понятие «class» в контекстах:
+`ℂ` ≔ ⟨
 - ⟨ Ⱳ Class_(knowledge_representation) ⟩ 
 - ⟨ Ⱳ Ontology_components#Classes ⟩
-``` 
+⟩
 
 ##
 `𝕀` ≔ ⟨ понятие «interval» в контексте 
