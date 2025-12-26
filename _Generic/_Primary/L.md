@@ -115,7 +115,7 @@ Line 2
 `A` is a (or a combination of):
 - ⟨ Ⱳ Proposition ⟩
 - ⟨ «statement» in the context of ⟨ Ⱳ Proposition ⟩⟩
-- ⟨ Ⱳ https://en.wikipedia.org/wiki/Claim_(philosophy) ⟩
+- ⟨ Ⱳ Claim_(philosophy) ⟩
 
 # 7.
 ##
