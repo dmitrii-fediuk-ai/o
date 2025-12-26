@@ -6,7 +6,7 @@ A ≔ B
 ## Meaning
 `B`: некое понятие.  
 `A`: краткое обозначение для `B`.  
-Таким образом, `A ≔ B` means that `A` denotes `B`.
+(`A ≔ B`) ≡ (`A` denotes `B`).
 ## Example
 ### Code
 `DOR` ≔ Florida Department of Revenue
