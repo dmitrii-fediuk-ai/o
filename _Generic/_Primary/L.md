@@ -147,7 +147,7 @@ Line 2
 ##
 `ℂ` ≔ ⟨
 - ⟨ Ⱳ Class_(knowledge_representation) ⟩ 
-- ⟨ Ⱳ Ontology_components#Classes ⟩
+- ⟨ Ⱳ Ontology_components#Classes ⟩  
 ⟩
 
 ##
