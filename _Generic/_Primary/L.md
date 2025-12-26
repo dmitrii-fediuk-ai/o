@@ -4,7 +4,7 @@
 A ≔ B
 ~~~
 ## Meaning
-`B`: некое понятие.
+`B`: некое понятие.  
 `A`: краткое обозначение для `B`.  
 Таким образом, `A ≔ B` means that `A` denotes `B`.
 ## Example
@@ -409,7 +409,7 @@ A₂ ≔ B₂
 † A
 ~~~
 ## Meaning
-`A` is a ⟨«problem» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Problem_solving ⟩ ⟩.
+`A` is a ⟨ Ⱳ https://en.wikipedia.org/wiki/Problem_solving∷problem ⟩.
 
 # 25. ▶
 ## Syntax
