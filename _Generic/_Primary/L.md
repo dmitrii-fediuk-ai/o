@@ -77,7 +77,8 @@ Line 2
 Ⱳ LPS#FI
 ~~~
 ### Meaning
-Понятие, которому посвящён раздел статьи Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>#<FI>`.  
+Понятие, которому посвящёна section статьи Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>#<FI>`.   
+`FI` — is the Fragment Identifier of the section.
 ### Example
 ⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ понятие «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
 ### Rationale
@@ -92,11 +93,7 @@ Line 2
 ### Example
 ⟨ Ⱳ Theory_of_categories∷category ⟩ ≡ ⟨ понятие «**category**» в контексте «In ontology, the theory of categories concerns itself with the **categories** of being: the highest genera or kinds of entities. To investigate the categories of being, or simply **categories** <…>» ⟩
 ### Rationale
-Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone artice in Wikipedia, и даже standalone section какой-либо статьи  Wikipedia.
-
-https://en.wikipedia.org/wiki/Type_theory#Applications
- ≡ ⟨The terms "proposition" and "**statement**" are sometimes used as synonyms.
-However, the word "**statement**" is ambiguous since it can also refer to declarative sentences themselves rather than their meanings ⟩
+Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone artice in Wikipedia, и даже standalone section (with a Fragment Identifier) какой-либо статьи Wikipedia.
 
 # 4. ⟪ … ⟫
 ## Syntax
