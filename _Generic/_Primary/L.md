@@ -129,7 +129,6 @@ Line 2
 Истинность `A` может выясниться в процессе анализа.   
 В таком случае я явно пишу `⊤ A`, чтобы ты не тратил свои ресурсы на повторный анализ истинности `A` и в дальнейшем анализе считал `A` аксиомой.
 
-# 6. ꖿ
 ## Syntax
 ~~~code
 ꖿ A
@@ -137,24 +136,32 @@ Line 2
 ## Meaning
 `A` is a (or a combination of):
 - Ⱳ Proposition
-- Ⱳ Proposition∷statement
-- Ⱳ Claim_(philosophy)
+- 
+- 
+
+# 6.
+## ꖿ
+`ꖿ` ≔ 
+```
+- ⟪ «a substantive statement about a thing» ⟫ ⟨ Ⱳ Claim_(philosophy) ⟩ 
+- ⟪ «declarative sentences themselves rather than their meanings» ⟫ ⟨ Ⱳ Proposition∷statement ⟩
+```
 
 # 7.
-##
+## 𝒞
 `𝒞` ≔ ⟨ понятие «category» в контексте ⟨ Ⱳ https://en.wikipedia.org/wiki/Theory_of_categories ⟩ ⟩ 
-
-##
+ 
+## ℂ
 `ℂ` ≔ 
 ```
 - Ⱳ Class_(knowledge_representation)
 - Ⱳ Ontology_components#Classes  
 ```
 
-##
+## 𝕀
 `𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
 
-##
+## ℙ
 `ℙ` ≔ 
 ```
 - Ⱳ https://en.wikipedia.org/wiki/Predicate_(logic) 
@@ -162,10 +169,10 @@ Line 2
 - Ⱳ https://en.wikipedia.org/wiki/Function_symbol∷predicate 
 ``` 
 
-##
-`𝕊` ≔ Ⱳ Set_(mathematics)
+## 𝕊
+` 𝕊` ≔ Ⱳ Set_(mathematics)
 
-##
+## 𝕋
 `𝕋` ≔ Ⱳ Type_theory∷type
 
 # 8. ⠿{I₁, I₂, …, Iₙ} 
