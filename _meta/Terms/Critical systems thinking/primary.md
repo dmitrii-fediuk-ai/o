@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Critical_systems_thinking
