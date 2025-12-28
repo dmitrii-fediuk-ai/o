@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Scope_(computer_programming)
