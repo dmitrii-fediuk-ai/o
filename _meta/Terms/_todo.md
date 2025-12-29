@@ -412,3 +412,4 @@ https://en.wikipedia.org/wiki/Nested_set_model
 https://en.wikipedia.org/wiki/Attribute%E2%80%93value_system
 https://en.wikipedia.org/wiki/Semantic_triple
 https://en.wikipedia.org/wiki/Sentient_computing
+https://en.wikipedia.org/wiki/Location_awareness
