@@ -198,7 +198,7 @@ https://en.wikipedia.org/wiki/Sequence_of_tenses
 https://en.wikipedia.org/wiki/Grammatical_tense
 https://en.wikipedia.org/wiki/Prosody_(linguistics)
 https://en.wikipedia.org/wiki/Indirect_object
-
+https://en.wikipedia.org/wiki/Abstracta
 
 
 
