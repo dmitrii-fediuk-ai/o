@@ -778,4 +778,4 @@ https://en.wikipedia.org/wiki/Distributed_knowledge
 https://en.wikipedia.org/wiki/Analytical_skill
 https://en.wikipedia.org/wiki/Grey_problem
 https://en.wikipedia.org/wiki/Divergent_thinking
-
+https://en.wikipedia.org/wiki/Problem_statement
