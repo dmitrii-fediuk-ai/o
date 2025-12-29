@@ -447,7 +447,7 @@ https://en.wikipedia.org/wiki/Mind
 https://en.wikipedia.org/wiki/Defeater
 https://en.wikipedia.org/wiki/Knowledge_and_Its_Limits
 https://en.wikipedia.org/wiki/Infallibility
-
+https://en.wikipedia.org/wiki/Practical_reason
 
 
 
