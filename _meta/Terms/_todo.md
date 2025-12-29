@@ -252,7 +252,7 @@ https://en.wikipedia.org/wiki/Abstraction
 https://en.wikipedia.org/wiki/Disjoint_union
 https://en.wikipedia.org/wiki/Tagged_union
 https://en.wikipedia.org/wiki/Subtyping
-
+https://en.wikipedia.org/wiki/Liskov_substitution_principle
 
 
 
