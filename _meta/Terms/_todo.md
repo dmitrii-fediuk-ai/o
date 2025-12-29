@@ -119,7 +119,7 @@ https://en.wikipedia.org/wiki/Initial
 https://en.wikipedia.org/wiki/Alphabet
 https://en.wikipedia.org/wiki/Punctuation
 https://en.wikipedia.org/wiki/Text_figures
-
+https://en.wikipedia.org/wiki/Unicase
 
 
 
