@@ -561,3 +561,4 @@ https://en.wikipedia.org/wiki/Domain-specific_language
 https://en.wikipedia.org/wiki/Aspect-oriented_programming
 https://en.wikipedia.org/wiki/Model-driven_engineering
 https://en.wikipedia.org/wiki/Model-driven_architecture
+https://en.wikipedia.org/wiki/Data_mesh
