@@ -705,5 +705,15 @@ https://en.wikipedia.org/wiki/Think_(disambiguation)
 https://en.wikipedia.org/wiki/Thought_(disambiguation)
 https://en.wikipedia.org/wiki/Thinking_(disambiguation)
 https://en.wikipedia.org/wiki/Reason
+https://en.wikipedia.org/wiki/Idea
+
+
+
+
+
+
+
+
+
 
 
