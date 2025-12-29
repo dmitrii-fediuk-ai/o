@@ -642,6 +642,6 @@ https://en.wikipedia.org/wiki/Probabilistic_logic
 https://en.wikipedia.org/wiki/Separation_logic
 https://en.wikipedia.org/wiki/Qualification_problem
 https://en.wikipedia.org/wiki/Ramification_problem
-
+https://en.wikipedia.org/wiki/Yale_shooting_problem
 
 
