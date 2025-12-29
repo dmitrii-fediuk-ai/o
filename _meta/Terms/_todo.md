@@ -4,3 +4,4 @@ https://en.wikipedia.org/wiki/Data_compression
 https://en.wikipedia.org/wiki/Deductive
 https://en.wikipedia.org/wiki/Inductive_reasoning
 https://en.wikipedia.org/wiki/Power_projection
+https://en.wikipedia.org/wiki/Display_behavior
