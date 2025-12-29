@@ -290,6 +290,6 @@ https://en.wikipedia.org/wiki/Temporary_variable
 https://en.wikipedia.org/wiki/Function_prototype
 https://en.wikipedia.org/wiki/Block_(programming)
 https://en.wikipedia.org/wiki/Assignment_(computer_science)
-
+https://en.wikipedia.org/wiki/Ternary_operation
 
 
