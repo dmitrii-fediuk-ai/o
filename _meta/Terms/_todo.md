@@ -318,7 +318,7 @@ https://en.wikipedia.org/wiki/Mixin
 https://en.wikipedia.org/wiki/Index_of_object-oriented_programming_articles
 https://en.wikipedia.org/wiki/Prototype-based_programming
 https://en.wikipedia.org/wiki/Trait_(computer_programming)
-
+https://en.wikipedia.org/wiki/Delegation_(object-oriented_programming)
 
 
 
