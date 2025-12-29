@@ -761,7 +761,7 @@ https://en.wikipedia.org/wiki/Failure_mode_and_effects_analysis
 https://en.wikipedia.org/wiki/Forensic_engineering
 https://en.wikipedia.org/wiki/Stack_(abstract_data_type)
 https://en.wikipedia.org/wiki/Critical_thinking
-
+https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
 
 
 
