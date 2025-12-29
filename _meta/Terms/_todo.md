@@ -283,7 +283,7 @@ https://en.wikipedia.org/wiki/Declaration_(computer_programming)
 https://en.wikipedia.org/wiki/Template_processor
 https://en.wikipedia.org/wiki/Transclusion
 https://en.wikipedia.org/wiki/Namespace
-
+https://en.wikipedia.org/wiki/Object_lifetime
 
 
 
