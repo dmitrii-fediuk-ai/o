@@ -568,7 +568,7 @@ https://en.wikipedia.org/wiki/C4_model
 https://en.wikipedia.org/wiki/System_dynamics
 https://en.wikipedia.org/wiki/Management_cybernetics
 https://en.wikipedia.org/wiki/Soft_systems_methodology
-
+https://en.wikipedia.org/wiki/Theory_of_constraints
 
 
 
