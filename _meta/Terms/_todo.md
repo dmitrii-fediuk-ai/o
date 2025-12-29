@@ -336,7 +336,7 @@ https://en.wikipedia.org/wiki/Code_reuse
 https://en.wikipedia.org/wiki/Object_composition
 https://en.wikipedia.org/wiki/Object-oriented_ontology
 https://en.wikipedia.org/wiki/Scenario_(computing)
-
+https://en.wikipedia.org/wiki/Composition_over_inheritance
 
 
 
