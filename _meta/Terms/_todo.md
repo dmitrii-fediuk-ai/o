@@ -854,7 +854,6 @@ https://en.wikipedia.org/wiki/Tagged_union
 https://en.wikipedia.org/wiki/Target_text
 https://en.wikipedia.org/wiki/Tautology_(logic)
 https://en.wikipedia.org/wiki/Taxonomy
-https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Teaching_to_the_test
 https://en.wikipedia.org/wiki/Technical_documentation
 https://en.wikipedia.org/wiki/Teleology
