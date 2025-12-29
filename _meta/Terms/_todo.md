@@ -654,7 +654,7 @@ https://en.wikipedia.org/wiki/Alternative
 https://en.wikipedia.org/wiki/Decision-making_paradox
 https://en.wikipedia.org/wiki/Recognition-primed_decision
 https://en.wikipedia.org/wiki/Decision-making_under_deep_uncertainty
-
+https://en.wikipedia.org/wiki/Production_planning
 
 
 
