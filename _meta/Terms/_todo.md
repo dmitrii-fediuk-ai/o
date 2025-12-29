@@ -43,7 +43,7 @@ https://en.wikipedia.org/wiki/Operator_(mathematics)
 https://en.wikipedia.org/wiki/Functional_(mathematics)
 https://en.wikipedia.org/wiki/Map_(higher-order_function)
 https://en.wikipedia.org/wiki/Filter_(higher-order_function)
-
+https://en.wikipedia.org/wiki/Fold_(higher-order_function)
 
 
 
