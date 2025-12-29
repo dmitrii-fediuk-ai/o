@@ -378,5 +378,5 @@ https://en.wikipedia.org/wiki/Information_hiding
 https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
 https://en.wikipedia.org/wiki/FOAF
 https://en.wikipedia.org/wiki/KL-ONE
-
+https://en.wikipedia.org/wiki/LOOM_(ontology)
 
