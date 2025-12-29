@@ -228,7 +228,7 @@ https://en.wikipedia.org/wiki/Switch-reference
 https://en.wikipedia.org/wiki/Anaphora_(linguistics)
 https://en.wikipedia.org/wiki/Text_(literary_theory)
 https://en.wikipedia.org/wiki/Entailment
-
+https://en.wikipedia.org/wiki/Entailment_(linguistics)
 
 
 
