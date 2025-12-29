@@ -868,7 +868,7 @@ https://en.wikipedia.org/wiki/Axiom_schema_of_specification
 https://en.wikipedia.org/wiki/Axiom_schema
 https://en.wikipedia.org/wiki/Mathematical_notation
 https://en.wikipedia.org/wiki/Set_(mathematics)
-
+https://en.wikipedia.org/wiki/Prototype_theory
 
 
 
