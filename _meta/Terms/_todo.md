@@ -742,8 +742,8 @@ https://en.wikipedia.org/wiki/Law_of_identity
 https://en.wikipedia.org/wiki/Causality
 https://en.wikipedia.org/wiki/Principle_of_sufficient_reason
 https://en.wikipedia.org/wiki/Evidence
-
-
+https://en.wikipedia.org/wiki/Rethinking
+https://en.wikipedia.org/wiki/Conceptual_framework
 
 
 
