@@ -225,7 +225,7 @@ https://en.wikipedia.org/wiki/Proform
 https://en.wikipedia.org/wiki/Cataphora
 https://en.wikipedia.org/wiki/Nearest_referent
 https://en.wikipedia.org/wiki/Switch-reference
-
+https://en.wikipedia.org/wiki/Anaphora_(linguistics)
 
 
 
