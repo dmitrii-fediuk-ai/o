@@ -157,7 +157,7 @@ https://en.wikipedia.org/wiki/Semantic_lexicon
 https://en.wikipedia.org/wiki/Rigid_designator
 https://en.wikipedia.org/wiki/Coreference_resolution
 https://en.wikipedia.org/wiki/Temporal_annotation
-
+https://en.wikipedia.org/wiki/Metonymy
 
 
 
