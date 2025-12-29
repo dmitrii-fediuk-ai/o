@@ -549,7 +549,7 @@ https://en.wikipedia.org/wiki/Domain_knowledge
 https://en.wikipedia.org/wiki/Domain_(software_engineering)
 https://en.wikipedia.org/wiki/Logical_schema
 https://en.wikipedia.org/wiki/Association_(object-oriented_programming)
-
+https://en.wikipedia.org/wiki/Cardinality_(data_modeling)
 
 
 
