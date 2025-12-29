@@ -564,7 +564,7 @@ https://en.wikipedia.org/wiki/Model-driven_architecture
 https://en.wikipedia.org/wiki/Data_mesh
 https://en.wikipedia.org/wiki/Semantic_analysis_(knowledge_representation)
 https://en.wikipedia.org/wiki/Semantic_network
-
+https://en.wikipedia.org/wiki/C4_model
 
 
 
