@@ -588,7 +588,7 @@ https://en.wikipedia.org/wiki/Heterarchy
 https://en.wikipedia.org/wiki/Goal_seeking
 https://en.wikipedia.org/wiki/Grey_box_model
 https://en.wikipedia.org/wiki/Pattern_language
-
+https://en.wikipedia.org/wiki/Reversal_theory
 
 
 
