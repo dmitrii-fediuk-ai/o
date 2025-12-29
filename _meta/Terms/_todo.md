@@ -740,7 +740,7 @@ https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Law_of_identity
 https://en.wikipedia.org/wiki/Causality
-
+https://en.wikipedia.org/wiki/Principle_of_sufficient_reason
 
 
 
