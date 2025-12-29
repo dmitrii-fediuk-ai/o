@@ -436,7 +436,7 @@ https://en.wikipedia.org/wiki/General_knowledge
 https://en.wikipedia.org/wiki/Skill
 https://en.wikipedia.org/wiki/Rote_learning
 https://en.wikipedia.org/wiki/Proof_(truth)
-
+https://en.wikipedia.org/wiki/Object_(grammar)
 
 
 
