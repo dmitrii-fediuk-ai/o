@@ -562,3 +562,17 @@ https://en.wikipedia.org/wiki/Aspect-oriented_programming
 https://en.wikipedia.org/wiki/Model-driven_engineering
 https://en.wikipedia.org/wiki/Model-driven_architecture
 https://en.wikipedia.org/wiki/Data_mesh
+https://en.wikipedia.org/wiki/Semantic_analysis_(knowledge_representation)
+https://en.wikipedia.org/wiki/Semantic_network
+
+
+
+
+
+
+
+
+
+
+
+
