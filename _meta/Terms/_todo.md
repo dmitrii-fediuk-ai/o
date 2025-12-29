@@ -849,7 +849,7 @@ https://en.wikipedia.org/wiki/Naming_convention
 https://en.wikipedia.org/wiki/Controlled_vocabulary
 https://en.wikipedia.org/wiki/Jargon_File
 https://en.wikipedia.org/wiki/Three-letter_acronym
-
+https://en.wikipedia.org/wiki/Definite_description
 
 
 
