@@ -664,7 +664,7 @@ https://en.wikipedia.org/wiki/Satisficing
 https://en.wikipedia.org/wiki/Maximization_(psychology)
 https://en.wikipedia.org/wiki/Mathematical_optimization
 https://en.wikipedia.org/wiki/Argument_from_authority
-
+https://en.wikipedia.org/wiki/Superior_orders
 
 
 
