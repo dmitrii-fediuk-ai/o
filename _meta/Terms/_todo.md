@@ -829,5 +829,5 @@ https://en.wikipedia.org/wiki/Leading_question
 https://en.wikipedia.org/wiki/Critical_discourse_analysis
 https://en.wikipedia.org/wiki/Semantic_theory_of_truth
 https://en.wikipedia.org/wiki/Principle
-
+https://en.wikipedia.org/wiki/Change_of_variables
 
