@@ -794,7 +794,7 @@ https://en.wikipedia.org/wiki/Incomplete_contracts
 https://en.wikipedia.org/wiki/Retraining
 https://en.wikipedia.org/wiki/Message
 https://en.wikipedia.org/wiki/Explicit_knowledge
-
+https://en.wikipedia.org/wiki/SWOT_analysis
 
 
 
