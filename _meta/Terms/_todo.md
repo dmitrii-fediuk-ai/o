@@ -405,7 +405,7 @@ https://en.wikipedia.org/wiki/Type%E2%80%93token_distinction
 https://en.wikipedia.org/wiki/Instance_(computer_science)
 https://en.wikipedia.org/wiki/Description_logic
 https://en.wikipedia.org/wiki/Variable_(high-level_programming)
-
+https://en.wikipedia.org/wiki/Property_(programming)
 
 
 
