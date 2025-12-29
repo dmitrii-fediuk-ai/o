@@ -429,7 +429,7 @@ https://en.wikipedia.org/wiki/Instrumental_and_intrinsic_value
 https://en.wikipedia.org/wiki/Universal_value
 https://en.wikipedia.org/wiki/Authentication
 https://en.wikipedia.org/wiki/Ad_hominem
-
+https://en.wikipedia.org/wiki/Critic
 
 
 
