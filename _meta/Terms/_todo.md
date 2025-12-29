@@ -727,7 +727,7 @@ https://en.wikipedia.org/wiki/Defeasible_reasoning
 https://en.wikipedia.org/wiki/Non-monotonic_logic
 https://en.wikipedia.org/wiki/Abductive_reasoning
 https://en.wikipedia.org/wiki/Fallacy
-
+https://en.wikipedia.org/wiki/Formal_fallacy
 
 
 
