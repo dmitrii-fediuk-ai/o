@@ -324,7 +324,7 @@ https://en.wikipedia.org/wiki/Circle%E2%80%93ellipse_problem
 https://en.wikipedia.org/wiki/Subtyping
 https://en.wikipedia.org/wiki/Separation_of_concerns
 https://en.wikipedia.org/wiki/This_(computer_programming)
-
+https://en.wikipedia.org/wiki/Software_design_pattern
 
 
 
