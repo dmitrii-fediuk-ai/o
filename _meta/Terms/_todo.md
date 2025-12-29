@@ -37,3 +37,4 @@ https://en.wikipedia.org/wiki/Empty_product
 https://en.wikipedia.org/wiki/Visitor_pattern
 https://en.wikipedia.org/wiki/Equivalence_relation
 https://en.wikipedia.org/wiki/Equivalence_class
+https://en.wikipedia.org/wiki/Modular_arithmetic
