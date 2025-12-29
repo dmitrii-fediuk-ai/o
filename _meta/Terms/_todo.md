@@ -929,7 +929,7 @@ https://en.wikipedia.org/wiki/Sentence_word
 https://en.wikipedia.org/wiki/Topicalization
 https://en.wikipedia.org/wiki/Topic_(linguistics)
 https://en.wikipedia.org/wiki/Parts_of_speech
-
+https://en.wikipedia.org/wiki/Head_(linguistics)
 
 
 
