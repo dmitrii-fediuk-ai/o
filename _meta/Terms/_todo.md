@@ -212,7 +212,7 @@ https://en.wikipedia.org/wiki/Extender_(set_theory)
 https://en.wikipedia.org/wiki/Question
 https://en.wikipedia.org/wiki/Free_choice_inference
 https://en.wikipedia.org/wiki/Inquisitive_semantics
-
+https://en.wikipedia.org/wiki/Focus_(linguistics)
 
 
 
