@@ -142,6 +142,19 @@ https://en.wikipedia.org/wiki/Transformer_(machine_learning)
 https://en.wikipedia.org/wiki/Generative_pre-trained_transformer
 https://en.wikipedia.org/wiki/Prompt_engineering
 https://en.wikipedia.org/wiki/Predictive_learning
+https://en.wikipedia.org/wiki/Algorithmic_bias
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
