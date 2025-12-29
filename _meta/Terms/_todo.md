@@ -155,7 +155,7 @@ https://en.wikipedia.org/wiki/Postediting
 https://en.wikipedia.org/wiki/Semantic_similarity
 https://en.wikipedia.org/wiki/Semantic_lexicon
 https://en.wikipedia.org/wiki/Rigid_designator
-
+https://en.wikipedia.org/wiki/Coreference_resolution
 
 
 
