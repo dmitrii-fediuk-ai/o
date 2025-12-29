@@ -247,7 +247,7 @@ https://en.wikipedia.org/wiki/Usage-based_models_of_language
 https://en.wikipedia.org/wiki/Ontology_extraction
 https://en.wikipedia.org/wiki/Table_extraction
 https://en.wikipedia.org/wiki/User_intent
-
+https://en.wikipedia.org/wiki/Filter_(mathematics)
 
 
 
