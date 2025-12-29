@@ -656,6 +656,6 @@ https://en.wikipedia.org/wiki/Recognition-primed_decision
 https://en.wikipedia.org/wiki/Decision-making_under_deep_uncertainty
 https://en.wikipedia.org/wiki/Production_planning
 https://en.wikipedia.org/wiki/Mental_energy
-
+https://en.wikipedia.org/wiki/Mental_accounting
 
 
