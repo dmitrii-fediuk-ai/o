@@ -952,7 +952,7 @@ https://en.wikipedia.org/wiki/Z_notation
 https://en.wikipedia.org/wiki/Subject_and_object_(philosophy)
 https://en.wikipedia.org/wiki/Syntax%E2%80%93semantics_interface
 https://en.wikipedia.org/wiki/Operator_(linguistics)
-
+https://en.wikipedia.org/wiki/Free_variables_and_bound_variables
 
 
 
