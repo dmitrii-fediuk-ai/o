@@ -484,3 +484,14 @@ https://en.wikipedia.org/wiki/Interval_finite_element
 https://en.wikipedia.org/wiki/Measurement_uncertainty
 https://en.wikipedia.org/wiki/Randomness
 https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance
+https://en.wikipedia.org/wiki/VUCA
+
+
+
+
+
+
+
+
+
+
