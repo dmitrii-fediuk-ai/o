@@ -688,7 +688,7 @@ https://en.wikipedia.org/wiki/Action_(philosophy)
 https://en.wikipedia.org/wiki/Availability_heuristic
 https://en.wikipedia.org/wiki/Anchoring_effect
 https://en.wikipedia.org/wiki/Representativeness_heuristic
-
+https://en.wikipedia.org/wiki/Language_acquisition
 
 
 
