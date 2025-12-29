@@ -949,7 +949,7 @@ https://en.wikipedia.org/wiki/Formal_language
 https://en.wikipedia.org/wiki/Logical_reasoning
 https://en.wikipedia.org/wiki/Composition_of_relations
 https://en.wikipedia.org/wiki/Z_notation
-
+https://en.wikipedia.org/wiki/Subject_and_object_(philosophy)
 
 
 
