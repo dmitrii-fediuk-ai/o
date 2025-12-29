@@ -2,7 +2,6 @@ https://en.wikipedia.org/wiki/A3_problem_solving
 https://en.wikipedia.org/wiki/AMA_Manual_of_Style
 https://en.wikipedia.org/wiki/APA_style
 https://en.wikipedia.org/wiki/Abductive_reasoning
-https://en.wikipedia.org/wiki/Abductive_reasoning
 https://en.wikipedia.org/wiki/Ability
 https://en.wikipedia.org/wiki/Abstract_(disambiguation)
 https://en.wikipedia.org/wiki/Abstract_and_concrete
