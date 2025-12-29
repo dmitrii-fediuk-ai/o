@@ -927,7 +927,7 @@ https://en.wikipedia.org/wiki/Dangling_modifier
 https://en.wikipedia.org/wiki/Speech_act
 https://en.wikipedia.org/wiki/Sentence_word
 https://en.wikipedia.org/wiki/Topicalization
-
+https://en.wikipedia.org/wiki/Topic_(linguistics)
 
 
 
