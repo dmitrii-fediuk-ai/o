@@ -570,7 +570,7 @@ https://en.wikipedia.org/wiki/Management_cybernetics
 https://en.wikipedia.org/wiki/Soft_systems_methodology
 https://en.wikipedia.org/wiki/Theory_of_constraints
 https://en.wikipedia.org/wiki/Adaptation
-
+https://en.wikipedia.org/wiki/Emergence
 
 
 
