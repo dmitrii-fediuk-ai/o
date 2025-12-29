@@ -721,7 +721,7 @@ https://en.wikipedia.org/wiki/Intrapersonal_communication
 https://en.wikipedia.org/wiki/Language_of_thought_hypothesis
 https://en.wikipedia.org/wiki/Modus_ponens
 https://en.wikipedia.org/wiki/Associationism
-
+https://en.wikipedia.org/wiki/Computational_theory_of_mind
 
 
 
