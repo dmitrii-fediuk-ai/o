@@ -250,7 +250,7 @@ https://en.wikipedia.org/wiki/User_intent
 https://en.wikipedia.org/wiki/Filter_(mathematics)
 https://en.wikipedia.org/wiki/Abstraction
 https://en.wikipedia.org/wiki/Disjoint_union
-
+https://en.wikipedia.org/wiki/Tagged_union
 
 
 
