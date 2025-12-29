@@ -939,7 +939,7 @@ https://en.wikipedia.org/wiki/Relational_algebra
 https://en.wikipedia.org/wiki/Relational_model
 https://en.wikipedia.org/wiki/Relation_(database)
 https://en.wikipedia.org/wiki/Relation_construction
-
+https://en.wikipedia.org/wiki/Finitary_relation
 
 
 
