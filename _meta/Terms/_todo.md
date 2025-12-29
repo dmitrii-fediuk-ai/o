@@ -322,6 +322,6 @@ https://en.wikipedia.org/wiki/Delegation_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Behavioral_subtyping
 https://en.wikipedia.org/wiki/Circle%E2%80%93ellipse_problem
 https://en.wikipedia.org/wiki/Subtyping
-
+https://en.wikipedia.org/wiki/Separation_of_concerns
 
 
