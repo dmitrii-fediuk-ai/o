@@ -638,7 +638,7 @@ https://en.wikipedia.org/wiki/Fuzzy_logic
 https://en.wikipedia.org/wiki/Reason_maintenance
 https://en.wikipedia.org/wiki/Knowledge_acquisition
 https://en.wikipedia.org/wiki/Spatial%E2%80%93temporal_reasoning
-
+https://en.wikipedia.org/wiki/Probabilistic_logic
 
 
 
