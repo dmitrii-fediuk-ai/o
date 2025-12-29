@@ -800,7 +800,7 @@ https://en.wikipedia.org/wiki/Value_presentation
 https://en.wikipedia.org/wiki/Contiguity_(psychology)
 https://en.wikipedia.org/wiki/Generalization_(learning)
 https://en.wikipedia.org/wiki/Metaphor
-
+https://en.wikipedia.org/wiki/Analogy
 
 
 
