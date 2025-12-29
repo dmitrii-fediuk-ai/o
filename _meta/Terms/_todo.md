@@ -159,3 +159,4 @@ https://en.wikipedia.org/wiki/Visitor_pattern
 https://en.wikipedia.org/wiki/Whitespace_character
 https://en.wikipedia.org/wiki/Word_embedding
 https://en.wikipedia.org/wiki/Writing_system
+https://en.wikipedia.org/wiki/Modal_logic
