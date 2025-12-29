@@ -471,7 +471,7 @@ https://en.wikipedia.org/wiki/Word_embedding
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Ambiguity
 https://en.wikipedia.org/wiki/Uncertainty_quantification
-
+https://en.wikipedia.org/wiki/Propagation_of_uncertainty
 
 
 
