@@ -936,4 +936,13 @@ https://en.wikipedia.org/wiki/Merge_(linguistics)
 https://en.wikipedia.org/wiki/Logical_consequence
 https://en.wikipedia.org/wiki/Therefore_sign
 https://en.wikipedia.org/wiki/Relational_algebra
+https://en.wikipedia.org/wiki/Relational_model
+
+
+
+
+
+
+
+
 
