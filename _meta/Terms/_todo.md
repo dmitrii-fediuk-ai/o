@@ -495,3 +495,4 @@ https://en.wikipedia.org/wiki/Prediction
 https://en.wikipedia.org/wiki/Fermi_problem
 https://en.wikipedia.org/wiki/Estimated_sign
 https://en.wikipedia.org/wiki/Conjecture
+https://en.wikipedia.org/wiki/Back-of-the-envelope_calculation
