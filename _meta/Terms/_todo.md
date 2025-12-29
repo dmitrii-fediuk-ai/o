@@ -874,5 +874,5 @@ https://en.wikipedia.org/wiki/Characterization_(mathematics)
 https://en.wikipedia.org/wiki/Frame_semantics_(linguistics)
 https://en.wikipedia.org/wiki/Property_(philosophy)
 https://en.wikipedia.org/wiki/Class_(philosophy)
-
+https://en.wikipedia.org/wiki/Extensional_and_intensional_definitions
 
