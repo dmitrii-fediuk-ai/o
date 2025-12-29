@@ -821,7 +821,7 @@ https://en.wikipedia.org/wiki/Occam%27s_razor
 https://en.wikipedia.org/wiki/Silent_synapse
 https://en.wikipedia.org/wiki/Minimum_description_length
 https://en.wikipedia.org/wiki/Memory
-
+https://en.wikipedia.org/wiki/Relational_frame_theory
 
 
 
