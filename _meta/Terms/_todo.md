@@ -92,7 +92,7 @@ https://en.wikipedia.org/wiki/Transcription_(linguistics)
 https://en.wikipedia.org/wiki/Narrative
 https://en.wikipedia.org/wiki/Illocutionary_force
 https://en.wikipedia.org/wiki/Brackets
-
+https://en.wikipedia.org/wiki/Fallacy_of_quoting_out_of_context
 
 
 
