@@ -773,7 +773,7 @@ https://en.wikipedia.org/wiki/Rigidity_(psychology)
 https://en.wikipedia.org/wiki/Functional_fixedness
 https://en.wikipedia.org/wiki/Thinking_outside_the_box
 https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity
-
+https://en.wikipedia.org/wiki/Dynamics_(mechanics)
 
 
 
