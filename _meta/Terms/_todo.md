@@ -287,7 +287,7 @@ https://en.wikipedia.org/wiki/Object_lifetime
 https://en.wikipedia.org/wiki/Variable_shadowing
 https://en.wikipedia.org/wiki/Logic_error
 https://en.wikipedia.org/wiki/Temporary_variable
-
+https://en.wikipedia.org/wiki/Function_prototype
 
 
 
