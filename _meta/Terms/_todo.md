@@ -893,7 +893,7 @@ https://en.wikipedia.org/wiki/Degree_of_truth
 https://en.wikipedia.org/wiki/Open_formula
 https://en.wikipedia.org/wiki/Quantifier_(logic)
 https://en.wikipedia.org/wiki/Existential_quantification
-
+https://en.wikipedia.org/wiki/Scope_(formal_semantics)
 
 
 
