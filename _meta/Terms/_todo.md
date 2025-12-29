@@ -13,3 +13,4 @@ https://en.wikipedia.org/wiki/Power_projection
 https://en.wikipedia.org/wiki/Strategy
 https://en.wikipedia.org/wiki/Program_refinement
 https://en.wikipedia.org/wiki/Invention
+https://en.wikipedia.org/wiki/Attribute_(object-oriented_programming)
