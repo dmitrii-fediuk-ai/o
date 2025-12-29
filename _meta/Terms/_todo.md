@@ -345,7 +345,7 @@ https://en.wikipedia.org/wiki/Technical_documentation
 https://en.wikipedia.org/wiki/Dependency_(UML)
 https://en.wikipedia.org/wiki/State_(computer_science)
 https://en.wikipedia.org/wiki/Profile_(UML)
-
+https://en.wikipedia.org/wiki/Object-modeling_technique
 
 
 
