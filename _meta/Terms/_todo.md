@@ -455,4 +455,21 @@ https://en.wikipedia.org/wiki/Conscientiousness
 https://en.wikipedia.org/wiki/Virtue_epistemology
 https://en.wikipedia.org/wiki/Eyewitness_testimony
 https://en.wikipedia.org/wiki/Doubt
+https://en.wikipedia.org/wiki/Self-refuting_idea
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
