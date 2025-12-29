@@ -358,7 +358,7 @@ https://en.wikipedia.org/wiki/Rational_Synergy
 https://en.wikipedia.org/wiki/Entity%E2%80%93control%E2%80%93boundary
 https://en.wikipedia.org/wiki/Reflexive_space
 https://en.wikipedia.org/wiki/Belief_perseverance
-
+https://en.wikipedia.org/wiki/Fundamental_attribution_error
 
 
 
