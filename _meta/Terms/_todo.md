@@ -553,7 +553,7 @@ https://en.wikipedia.org/wiki/Cardinality_(data_modeling)
 https://en.wikipedia.org/wiki/Object_model
 https://en.wikipedia.org/wiki/Business_logic
 https://en.wikipedia.org/wiki/OntoUML
-
+https://en.wikipedia.org/wiki/Value_object
 
 
 
