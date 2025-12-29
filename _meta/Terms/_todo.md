@@ -607,8 +607,8 @@ https://en.wikipedia.org/wiki/Observations_and_Measurements
 https://en.wikipedia.org/wiki/German_tank_problem
 https://en.wikipedia.org/wiki/Opaque_pointer
 https://en.wikipedia.org/wiki/Lexical_analysis
-
-
+https://en.wikipedia.org/wiki/Label_(computer_science)
+https://en.wikipedia.org/wiki/Data_descriptor
 
 
 
