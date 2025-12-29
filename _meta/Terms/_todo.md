@@ -274,7 +274,7 @@ https://en.wikipedia.org/wiki/Calling_convention
 https://en.wikipedia.org/wiki/Parameter_(computer_programming)
 https://en.wikipedia.org/wiki/Language_binding
 https://en.wikipedia.org/wiki/Stropping_(syntax)
-
+https://en.wikipedia.org/wiki/Name_resolution_(programming_languages)
 
 
 
