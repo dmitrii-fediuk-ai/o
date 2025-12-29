@@ -462,7 +462,7 @@ https://en.wikipedia.org/wiki/Knowledge_falsification
 https://en.wikipedia.org/wiki/Almost_surely
 https://en.wikipedia.org/wiki/Philosophical_skepticism
 https://en.wikipedia.org/wiki/Definitions_of_knowledge
-
+https://en.wikipedia.org/wiki/Feeling
 
 
 
