@@ -414,4 +414,4 @@ https://en.wikipedia.org/wiki/Semantic_triple
 https://en.wikipedia.org/wiki/Sentient_computing
 https://en.wikipedia.org/wiki/Location_awareness
 https://en.wikipedia.org/wiki/Accounting
-
+https://en.wikipedia.org/wiki/Attention
