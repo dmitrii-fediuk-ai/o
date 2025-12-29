@@ -539,6 +539,6 @@ https://en.wikipedia.org/wiki/Cognitive_engineering
 https://en.wikipedia.org/wiki/Artifact_(software_development)
 https://en.wikipedia.org/wiki/Operations_research
 https://en.wikipedia.org/wiki/Operation_(mathematics)
-
+https://en.wikipedia.org/wiki/Semantic_data_model
 
 
