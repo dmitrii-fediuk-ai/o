@@ -366,6 +366,6 @@ https://en.wikipedia.org/wiki/Encoding_(memory)
 https://en.wikipedia.org/wiki/Archetype
 https://en.wikipedia.org/wiki/Attribution_bias
 https://en.wikipedia.org/wiki/Base_rate_fallacy
-
+https://en.wikipedia.org/wiki/Cognitive_bias
 
 
