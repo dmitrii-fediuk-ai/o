@@ -906,7 +906,7 @@ https://en.wikipedia.org/wiki/Work_method_statement
 https://en.wikipedia.org/wiki/Writing_system
 https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Abstraction_(mathematics)
-
+https://en.wikipedia.org/wiki/Abstract_and_concrete
 
 
 
