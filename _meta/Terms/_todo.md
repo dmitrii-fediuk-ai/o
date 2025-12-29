@@ -192,5 +192,5 @@ https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style
 https://en.wikipedia.org/wiki/MLA_Handbook
 https://en.wikipedia.org/wiki/APA_style
 https://en.wikipedia.org/wiki/AMA_Manual_of_Style
-
+https://en.wikipedia.org/wiki/Bluebook
 
