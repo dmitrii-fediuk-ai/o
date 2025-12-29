@@ -830,7 +830,6 @@ https://en.wikipedia.org/wiki/Subject_and_object_(philosophy)
 https://en.wikipedia.org/wiki/Subjective_logic
 https://en.wikipedia.org/wiki/Substructural_type_system
 https://en.wikipedia.org/wiki/Subtyping
-https://en.wikipedia.org/wiki/Subtyping
 https://en.wikipedia.org/wiki/Suffix
 https://en.wikipedia.org/wiki/Sum_type
 https://en.wikipedia.org/wiki/Superior_orders
