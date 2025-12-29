@@ -590,7 +590,7 @@ https://en.wikipedia.org/wiki/Grey_box_model
 https://en.wikipedia.org/wiki/Pattern_language
 https://en.wikipedia.org/wiki/Reversal_theory
 https://en.wikipedia.org/wiki/Subject_(documents)
-
+https://en.wikipedia.org/wiki/Knowledge_worker
 
 
 
