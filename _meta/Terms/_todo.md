@@ -216,7 +216,7 @@ https://en.wikipedia.org/wiki/Focus_(linguistics)
 https://en.wikipedia.org/wiki/Type_hierarchy
 https://en.wikipedia.org/wiki/Machine-readable_dictionary
 https://en.wikipedia.org/wiki/Thesauri
-
+https://en.wikipedia.org/wiki/Judicial_interpretation
 
 
 
