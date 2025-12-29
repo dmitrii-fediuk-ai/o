@@ -154,6 +154,7 @@ https://en.wikipedia.org/wiki/Evaluation_of_machine_translation
 https://en.wikipedia.org/wiki/Postediting
 https://en.wikipedia.org/wiki/Semantic_similarity
 https://en.wikipedia.org/wiki/Semantic_lexicon
+https://en.wikipedia.org/wiki/Rigid_designator
 
 
 
