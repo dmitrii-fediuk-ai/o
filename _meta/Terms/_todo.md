@@ -478,7 +478,7 @@ https://en.wikipedia.org/wiki/Scientific_modelling
 https://en.wikipedia.org/wiki/Reasoning_system
 https://en.wikipedia.org/wiki/Further_research_is_needed
 https://en.wikipedia.org/wiki/Game_theory
-
+https://en.wikipedia.org/wiki/Fuzzy_set
 
 
 
