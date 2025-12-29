@@ -592,7 +592,7 @@ https://en.wikipedia.org/wiki/Reversal_theory
 https://en.wikipedia.org/wiki/Subject_(documents)
 https://en.wikipedia.org/wiki/Knowledge_worker
 https://en.wikipedia.org/wiki/Annotation
-
+https://en.wikipedia.org/wiki/Collective_intelligence
 
 
 
