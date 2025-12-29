@@ -587,7 +587,7 @@ https://en.wikipedia.org/wiki/Value_theory
 https://en.wikipedia.org/wiki/Heterarchy
 https://en.wikipedia.org/wiki/Goal_seeking
 https://en.wikipedia.org/wiki/Grey_box_model
-
+https://en.wikipedia.org/wiki/Pattern_language
 
 
 
