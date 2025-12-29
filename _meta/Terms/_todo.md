@@ -525,7 +525,7 @@ https://en.wikipedia.org/wiki/Procedure_(business)
 https://en.wikipedia.org/wiki/Work_method_statement
 https://en.wikipedia.org/wiki/Checklist
 https://en.wikipedia.org/wiki/Runbook
-
+https://en.wikipedia.org/wiki/Minutes
 
 
 
