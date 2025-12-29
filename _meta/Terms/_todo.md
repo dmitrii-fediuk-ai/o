@@ -149,7 +149,7 @@ https://en.wikipedia.org/wiki/Factored_language_model
 https://en.wikipedia.org/wiki/Rule-based_machine_translation
 https://en.wikipedia.org/wiki/Transfer-based_machine_translation
 https://en.wikipedia.org/wiki/Statistical_machine_translation
-
+https://en.wikipedia.org/wiki/Large_language_model
 
 
 
