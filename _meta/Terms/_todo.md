@@ -82,6 +82,6 @@ https://en.wikipedia.org/wiki/Text_normalization
 https://en.wikipedia.org/wiki/Target_text
 https://en.wikipedia.org/wiki/Lexical_markup_framework
 https://en.wikipedia.org/wiki/Idiom_(language_structure)
-
+https://en.wikipedia.org/wiki/Textualism
 
 
