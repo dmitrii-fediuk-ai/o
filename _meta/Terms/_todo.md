@@ -459,7 +459,7 @@ https://en.wikipedia.org/wiki/Self-refuting_idea
 https://en.wikipedia.org/wiki/Belief_revision
 https://en.wikipedia.org/wiki/Metanarrative
 https://en.wikipedia.org/wiki/Knowledge_falsification
-
+https://en.wikipedia.org/wiki/Almost_surely
 
 
 
