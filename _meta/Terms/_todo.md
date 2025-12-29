@@ -189,7 +189,7 @@ https://en.wikipedia.org/wiki/Headline
 https://en.wikipedia.org/wiki/Capitalization
 https://en.wikipedia.org/wiki/Text_processing
 https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style
-
+https://en.wikipedia.org/wiki/MLA_Handbook
 
 
 
