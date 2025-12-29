@@ -376,7 +376,7 @@ https://en.wikipedia.org/wiki/Data_structure
 https://en.wikipedia.org/wiki/Inheritance_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Information_hiding
 https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)
-
+https://en.wikipedia.org/wiki/FOAF
 
 
 
