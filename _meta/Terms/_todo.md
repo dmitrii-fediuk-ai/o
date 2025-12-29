@@ -205,6 +205,6 @@ https://en.wikipedia.org/wiki/S-expression
 https://en.wikipedia.org/wiki/Cognitive_dimensions_of_notations
 https://en.wikipedia.org/wiki/Symbolic_programming
 https://en.wikipedia.org/wiki/Self-modifying_code
-
+https://en.wikipedia.org/wiki/Aggregation_(object-oriented_programming)
 
 
