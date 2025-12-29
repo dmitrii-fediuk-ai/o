@@ -433,7 +433,7 @@ https://en.wikipedia.org/wiki/Critic
 https://en.wikipedia.org/wiki/Tacit_knowledge
 https://en.wikipedia.org/wiki/Domain_knowledge
 https://en.wikipedia.org/wiki/General_knowledge
-
+https://en.wikipedia.org/wiki/Skill
 
 
 
