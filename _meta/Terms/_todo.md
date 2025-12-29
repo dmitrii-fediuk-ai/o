@@ -890,7 +890,7 @@ https://en.wikipedia.org/wiki/Arity
 https://en.wikipedia.org/wiki/Relation_(philosophy)
 https://en.wikipedia.org/wiki/Identity_(philosophy)
 https://en.wikipedia.org/wiki/Degree_of_truth
-
+https://en.wikipedia.org/wiki/Open_formula
 
 
 
