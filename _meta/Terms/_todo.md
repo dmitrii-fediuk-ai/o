@@ -227,7 +227,7 @@ https://en.wikipedia.org/wiki/Nearest_referent
 https://en.wikipedia.org/wiki/Switch-reference
 https://en.wikipedia.org/wiki/Anaphora_(linguistics)
 https://en.wikipedia.org/wiki/Text_(literary_theory)
-
+https://en.wikipedia.org/wiki/Entailment
 
 
 
