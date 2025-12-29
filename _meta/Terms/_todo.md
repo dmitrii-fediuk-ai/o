@@ -243,6 +243,18 @@ https://en.wikipedia.org/wiki/Part-of-speech_tagging
 https://en.wikipedia.org/wiki/Phrase_chunking
 https://en.wikipedia.org/wiki/Lemmatisation
 https://en.wikipedia.org/wiki/Topic_model
+https://en.wikipedia.org/wiki/Usage-based_models_of_language
+
+
+
+
+
+
+
+
+
+
+
 
 
 
