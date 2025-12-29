@@ -512,7 +512,7 @@ https://en.wikipedia.org/wiki/Proportionality_(mathematics)
 https://en.wikipedia.org/wiki/Correspondence_principle
 https://en.wikipedia.org/wiki/Iteration
 https://en.wikipedia.org/wiki/Perturbation_theory
-
+https://en.wikipedia.org/wiki/Idealization_(philosophy_of_science)
 
 
 
