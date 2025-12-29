@@ -716,7 +716,7 @@ https://en.wikipedia.org/wiki/Unconscious_mind
 https://en.wikipedia.org/wiki/Phenomenology_(philosophy)
 https://en.wikipedia.org/wiki/Cognitive_psychology
 https://en.wikipedia.org/wiki/Thought_experiment
-
+https://en.wikipedia.org/wiki/Counterfactual_thinking
 
 
 
