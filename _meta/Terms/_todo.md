@@ -764,7 +764,7 @@ https://en.wikipedia.org/wiki/Critical_thinking
 https://en.wikipedia.org/wiki/Divide-and-conquer_algorithm
 https://en.wikipedia.org/wiki/Statistical_hypothesis_test
 https://en.wikipedia.org/wiki/Means%E2%80%93ends_analysis
-
+https://en.wikipedia.org/wiki/Morphological_analysis_(problem-solving)
 
 
 
