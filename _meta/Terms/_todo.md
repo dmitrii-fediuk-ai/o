@@ -41,7 +41,7 @@ https://en.wikipedia.org/wiki/Visitor_pattern
 https://en.wikipedia.org/wiki/Procedural_parameter
 https://en.wikipedia.org/wiki/Operator_(mathematics)
 https://en.wikipedia.org/wiki/Functional_(mathematics)
-
+https://en.wikipedia.org/wiki/Map_(higher-order_function)
 
 
 
