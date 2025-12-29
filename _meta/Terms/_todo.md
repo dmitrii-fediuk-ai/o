@@ -391,7 +391,7 @@ https://en.wikipedia.org/wiki/FrameNet
 https://en.wikipedia.org/wiki/Set_theory
 https://en.wikipedia.org/wiki/Deductive_classifier
 https://en.wikipedia.org/wiki/Situation_calculus
-
+https://en.wikipedia.org/wiki/Simple_Knowledge_Organization_System
 
 
 
