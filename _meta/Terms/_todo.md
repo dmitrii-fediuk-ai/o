@@ -34,3 +34,4 @@ https://en.wikipedia.org/wiki/Abstract_syntax
 https://en.wikipedia.org/wiki/Pseudocode
 https://en.wikipedia.org/wiki/Sum_type
 https://en.wikipedia.org/wiki/Empty_product
+https://en.wikipedia.org/wiki/Visitor_pattern
