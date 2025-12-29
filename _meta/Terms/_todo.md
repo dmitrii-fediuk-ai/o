@@ -775,7 +775,7 @@ https://en.wikipedia.org/wiki/Thinking_outside_the_box
 https://en.wikipedia.org/wiki/Homogeneity_and_heterogeneity
 https://en.wikipedia.org/wiki/Dynamics_(mechanics)
 https://en.wikipedia.org/wiki/Distributed_knowledge
-
+https://en.wikipedia.org/wiki/Analytical_skill
 
 
 
