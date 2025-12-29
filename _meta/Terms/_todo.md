@@ -670,7 +670,7 @@ https://en.wikipedia.org/wiki/Reinforcement
 https://en.wikipedia.org/wiki/Allais_paradox
 https://en.wikipedia.org/wiki/Slippery_slope
 https://en.wikipedia.org/wiki/Heuristic_(psychology)
-
+https://en.wikipedia.org/wiki/Affect_heuristic
 
 
 
