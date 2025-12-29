@@ -145,7 +145,7 @@ https://en.wikipedia.org/wiki/Predictive_learning
 https://en.wikipedia.org/wiki/Algorithmic_bias
 https://en.wikipedia.org/wiki/Katz%27s_back-off_model
 https://en.wikipedia.org/wiki/Cache_language_model
-
+https://en.wikipedia.org/wiki/Factored_language_model
 
 
 
