@@ -2,6 +2,7 @@ https://en.wikipedia.org/wiki/Abstract_(disambiguation)
 https://en.wikipedia.org/wiki/Abstraction_(disambiguation)
 https://en.wikipedia.org/wiki/Abstraction_(software_engineering)
 https://en.wikipedia.org/wiki/Architecture
+https://en.wikipedia.org/wiki/Attribute_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Communication
 https://en.wikipedia.org/wiki/Concrete_(philosophy)
 https://en.wikipedia.org/wiki/Data_compression
@@ -9,8 +10,8 @@ https://en.wikipedia.org/wiki/Deductive
 https://en.wikipedia.org/wiki/Display_behavior
 https://en.wikipedia.org/wiki/Individual
 https://en.wikipedia.org/wiki/Inductive_reasoning
-https://en.wikipedia.org/wiki/Power_projection
-https://en.wikipedia.org/wiki/Strategy
-https://en.wikipedia.org/wiki/Program_refinement
 https://en.wikipedia.org/wiki/Invention
-https://en.wikipedia.org/wiki/Attribute_(object-oriented_programming)
+https://en.wikipedia.org/wiki/Power_projection
+https://en.wikipedia.org/wiki/Program_refinement
+https://en.wikipedia.org/wiki/Strategy
+https://en.wikipedia.org/wiki/Business_object
