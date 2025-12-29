@@ -219,7 +219,7 @@ https://en.wikipedia.org/wiki/Thesauri
 https://en.wikipedia.org/wiki/Judicial_interpretation
 https://en.wikipedia.org/wiki/Sentence_boundary_disambiguation
 https://en.wikipedia.org/wiki/Syntactic_ambiguity
-
+https://en.wikipedia.org/wiki/Semantic_role
 
 
 
