@@ -709,7 +709,7 @@ https://en.wikipedia.org/wiki/Idea
 https://en.wikipedia.org/wiki/Deliberation
 https://en.wikipedia.org/wiki/Imagination
 https://en.wikipedia.org/wiki/Mental_event
-
+https://en.wikipedia.org/wiki/Theory_of_forms
 
 
 
