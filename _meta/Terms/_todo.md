@@ -644,4 +644,4 @@ https://en.wikipedia.org/wiki/Qualification_problem
 https://en.wikipedia.org/wiki/Ramification_problem
 https://en.wikipedia.org/wiki/Yale_shooting_problem
 https://en.wikipedia.org/wiki/Explanation
-
+https://en.wikipedia.org/wiki/Signified_and_signifier
