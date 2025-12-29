@@ -176,7 +176,7 @@ https://en.wikipedia.org/wiki/Composition_(object-oriented_programming)
 https://en.wikipedia.org/wiki/Disjoint_sets
 https://en.wikipedia.org/wiki/Constraint_logic_programming
 https://en.wikipedia.org/wiki/Decidability_(logic)
-
+https://en.wikipedia.org/wiki/Inverse_function
 
 
 
