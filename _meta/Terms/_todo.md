@@ -741,7 +741,6 @@ https://en.wikipedia.org/wiki/Rote_learning
 https://en.wikipedia.org/wiki/Rough_set
 https://en.wikipedia.org/wiki/Rule-based_machine_translation
 https://en.wikipedia.org/wiki/Rule_of_inference
-https://en.wikipedia.org/wiki/Rule_of_inference
 https://en.wikipedia.org/wiki/Runbook
 https://en.wikipedia.org/wiki/S-expression
 https://en.wikipedia.org/wiki/SKI_combinator_calculus
