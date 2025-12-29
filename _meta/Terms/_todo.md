@@ -819,7 +819,7 @@ https://en.wikipedia.org/wiki/Aging_brain
 https://en.wikipedia.org/wiki/Minimum_message_length
 https://en.wikipedia.org/wiki/Occam%27s_razor
 https://en.wikipedia.org/wiki/Silent_synapse
-
+https://en.wikipedia.org/wiki/Minimum_description_length
 
 
 
