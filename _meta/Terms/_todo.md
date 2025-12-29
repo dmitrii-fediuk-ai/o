@@ -277,7 +277,7 @@ https://en.wikipedia.org/wiki/Stropping_(syntax)
 https://en.wikipedia.org/wiki/Name_resolution_(programming_languages)
 https://en.wikipedia.org/wiki/Forward_declaration
 https://en.wikipedia.org/wiki/ECMAScript
-
+https://en.wikipedia.org/wiki/Non-local_variable
 
 
 
