@@ -667,7 +667,7 @@ https://en.wikipedia.org/wiki/Argument_from_authority
 https://en.wikipedia.org/wiki/Superior_orders
 https://en.wikipedia.org/wiki/Automated_decision_support
 https://en.wikipedia.org/wiki/Reinforcement
-
+https://en.wikipedia.org/wiki/Allais_paradox
 
 
 
