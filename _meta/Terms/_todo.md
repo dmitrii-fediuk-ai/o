@@ -845,4 +845,22 @@ https://en.wikipedia.org/wiki/Theory_(mathematical_logic)
 https://en.wikipedia.org/wiki/Deductive_closure
 https://en.wikipedia.org/wiki/Taxonomy
 https://en.wikipedia.org/wiki/Classification
+https://en.wikipedia.org/wiki/Naming_convention
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
