@@ -485,7 +485,7 @@ https://en.wikipedia.org/wiki/Measurement_uncertainty
 https://en.wikipedia.org/wiki/Randomness
 https://en.wikipedia.org/wiki/Ambiguity_tolerance%E2%80%93intolerance
 https://en.wikipedia.org/wiki/VUCA
-
+https://en.wikipedia.org/wiki/Instability
 
 
 
