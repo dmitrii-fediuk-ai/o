@@ -1010,7 +1010,7 @@ https://en.wikipedia.org/wiki/Pecking_order_theory
 https://en.wikipedia.org/wiki/Moral_hazard
 https://en.wikipedia.org/wiki/Myerson%E2%80%93Satterthwaite_theorem
 https://en.wikipedia.org/wiki/SEC_classification_of_goods_and_services
-
+https://en.wikipedia.org/wiki/Screening_(economics)
 
 
 
