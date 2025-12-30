@@ -1027,6 +1027,19 @@ https://en.wikipedia.org/wiki/Cournot_competition
 https://en.wikipedia.org/wiki/Bertrand_paradox_(economics)
 https://en.wikipedia.org/wiki/Bertrand%E2%80%93Edgeworth_model
 https://en.wikipedia.org/wiki/Edgeworth_paradox
+https://en.wikipedia.org/wiki/Substitute_good
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
