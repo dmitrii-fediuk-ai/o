@@ -1001,4 +1001,4 @@ https://en.wikipedia.org/wiki/Inequality_of_bargaining_power
 https://en.wikipedia.org/wiki/Natural_borrowing_limit
 https://en.wikipedia.org/wiki/Price_signal
 https://en.wikipedia.org/wiki/Price_discovery
-
+https://en.wikipedia.org/wiki/Hedonic_regression
