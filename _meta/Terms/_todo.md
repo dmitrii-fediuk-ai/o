@@ -249,7 +249,7 @@ https://en.wikipedia.org/wiki/Domain-specific_multimodeling
 https://en.wikipedia.org/wiki/Domain_(software_engineering)
 https://en.wikipedia.org/wiki/Domain_knowledge
 https://en.wikipedia.org/wiki/Domain_of_discourse
-https://en.wikipedia.org/wiki/Don%27t_repeat_yourself
+https://en.wikipedia.org/wiki/Don't_repeat_yourself
 https://en.wikipedia.org/wiki/Doubt
 https://en.wikipedia.org/wiki/Downcasting
 https://en.wikipedia.org/wiki/Duality_(mathematics)
@@ -447,7 +447,7 @@ https://en.wikipedia.org/wiki/Justification_(epistemology)
 https://en.wikipedia.org/wiki/KL-ONE
 https://en.wikipedia.org/wiki/KRL_(programming_language)
 https://en.wikipedia.org/wiki/Kalman_filter
-https://en.wikipedia.org/wiki/Katz%27s_back-off_model
+https://en.wikipedia.org/wiki/Katz's_back-off_model
 https://en.wikipedia.org/wiki/Kind_(type_theory)
 https://en.wikipedia.org/wiki/Knowledge_Engineering_Environment
 https://en.wikipedia.org/wiki/Knowledge_acquisition
@@ -596,7 +596,7 @@ https://en.wikipedia.org/wiki/Object_lifetime
 https://en.wikipedia.org/wiki/Object_model
 https://en.wikipedia.org/wiki/Observational_error
 https://en.wikipedia.org/wiki/Observations_and_Measurements
-https://en.wikipedia.org/wiki/Occam%27s_razor
+https://en.wikipedia.org/wiki/Occam's_razor
 https://en.wikipedia.org/wiki/One-hot
 https://en.wikipedia.org/wiki/OntoUML
 https://en.wikipedia.org/wiki/Ontology_(information_science)
