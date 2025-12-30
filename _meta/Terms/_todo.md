@@ -969,7 +969,7 @@ https://en.wikipedia.org/wiki/Social_loafing
 https://en.wikipedia.org/wiki/Social_preferences
 https://en.wikipedia.org/wiki/Reputation
 https://en.wikipedia.org/wiki/Nice_guy
-
+https://en.wikipedia.org/wiki/Noblesse_oblige
 
 
 
