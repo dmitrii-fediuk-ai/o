@@ -1114,7 +1114,7 @@ https://en.wikipedia.org/wiki/Correlative-based_fallacies
 https://en.wikipedia.org/wiki/Conflation
 https://en.wikipedia.org/wiki/Argument_from_fallacy
 https://en.wikipedia.org/wiki/Convergent_cross_mapping
-
+https://en.wikipedia.org/wiki/Necessity_and_sufficiency
 
 
 
