@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Common_value_auction
