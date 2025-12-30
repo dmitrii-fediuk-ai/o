@@ -1089,7 +1089,7 @@ https://en.wikipedia.org/wiki/Gaslighting
 https://en.wikipedia.org/wiki/False_memory
 https://en.wikipedia.org/wiki/Rosenhan_experiment
 https://en.wikipedia.org/wiki/Faulty_generalization
-
+https://en.wikipedia.org/wiki/List_of_fallacies
 
 
 
