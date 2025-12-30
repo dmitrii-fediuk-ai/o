@@ -1197,6 +1197,6 @@ https://en.wikipedia.org/wiki/Total_quality_management
 https://en.wikipedia.org/wiki/10/90_gap
 https://en.wikipedia.org/wiki/1%25_rule
 https://en.wikipedia.org/wiki/Hofstadter%27s_law
-
+https://en.wikipedia.org/wiki/Lindy_effect
 
 
