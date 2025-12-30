@@ -1,5 +1,5 @@
 #
-`Aᨀ` ≔ ⟨ https://en.wikipedia.org/wiki/Agency_cost ⟩ 
+`Aᨀ` ≔ ⟨ https://en.wikipedia.org/wiki/STUB ⟩ 
 
 # `᛭T`
 Объясни `Aᨀ` с примерами.

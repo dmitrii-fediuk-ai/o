@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Public_goods_game
