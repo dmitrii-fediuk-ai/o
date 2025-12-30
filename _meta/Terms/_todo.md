@@ -1064,7 +1064,7 @@ https://en.wikipedia.org/wiki/Stochastic_dominance
 https://en.wikipedia.org/wiki/First-price_sealed-bid_auction
 https://en.wikipedia.org/wiki/Disposition_effect
 https://en.wikipedia.org/wiki/Complete_information
-
+https://en.wikipedia.org/wiki/Regret-free_mechanism
 
 
 
