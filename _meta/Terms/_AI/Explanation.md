@@ -1,5 +1,5 @@
 #
-`Aᨀ` ≔ ⟨ https://en.wikipedia.org/wiki/Adverse_selection ⟩ 
+`Aᨀ` ≔ ⟨ https://en.wikipedia.org/wiki/Agency_cost ⟩ 
 
 # `᛭T`
 Объясни `Aᨀ` с примерами.
