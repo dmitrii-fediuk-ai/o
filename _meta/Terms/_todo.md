@@ -1162,7 +1162,7 @@ https://en.wikipedia.org/wiki/Lost_to_follow-up
 https://en.wikipedia.org/wiki/Anthropic_principle
 https://en.wikipedia.org/wiki/Global_catastrophic_risk
 https://en.wikipedia.org/wiki/Impact_event
-
+https://en.wikipedia.org/wiki/Self-selection_bias
 
 
 
