@@ -1039,6 +1039,17 @@ https://en.wikipedia.org/wiki/Equilibrium_selection
 https://en.wikipedia.org/wiki/Evolutionarily_stable_strategy
 https://en.wikipedia.org/wiki/Hotelling%27s_law
 https://en.wikipedia.org/wiki/Mexican_standoff
+https://en.wikipedia.org/wiki/Manipulated_Nash_equilibrium
+
+
+
+
+
+
+
+
+
+
 
 
 
