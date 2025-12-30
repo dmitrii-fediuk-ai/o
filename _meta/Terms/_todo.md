@@ -992,7 +992,7 @@ https://en.wikipedia.org/wiki/Aposematism
 https://en.wikipedia.org/wiki/Fisherian_runaway
 https://en.wikipedia.org/wiki/Modigliani%E2%80%93Miller_theorem
 https://en.wikipedia.org/wiki/Principal%E2%80%93agent_problem
-
+https://en.wikipedia.org/wiki/Resource-based_view
 
 
 
