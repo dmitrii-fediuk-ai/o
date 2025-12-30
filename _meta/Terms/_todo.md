@@ -1031,7 +1031,7 @@ https://en.wikipedia.org/wiki/Substitute_good
 https://en.wikipedia.org/wiki/Differentiated_Bertrand_competition
 https://en.wikipedia.org/wiki/Stackelberg_competition
 https://en.wikipedia.org/wiki/Aggregative_game
-
+https://en.wikipedia.org/wiki/Conjectural_variation
 
 
 
