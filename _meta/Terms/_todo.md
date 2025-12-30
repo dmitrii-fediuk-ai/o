@@ -1056,7 +1056,7 @@ https://en.wikipedia.org/wiki/Wisdom_of_the_crowd
 https://en.wikipedia.org/wiki/Remorse
 https://en.wikipedia.org/wiki/Opportunity_cost
 https://en.wikipedia.org/wiki/Money-back_guarantee
-
+https://en.wikipedia.org/wiki/Caveat_emptor
 
 
 
