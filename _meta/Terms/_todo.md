@@ -1130,7 +1130,7 @@ https://en.wikipedia.org/wiki/Misconceptions_about_the_normal_distribution
 https://en.wikipedia.org/wiki/Generalized_other
 https://en.wikipedia.org/wiki/Hostile_attribution_bias
 https://en.wikipedia.org/wiki/False_dilemma
-
+https://en.wikipedia.org/wiki/Denialism
 
 
 
