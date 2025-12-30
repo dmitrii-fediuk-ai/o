@@ -1084,7 +1084,7 @@ https://en.wikipedia.org/wiki/Evidence_of_absence
 https://en.wikipedia.org/wiki/Contraposition
 https://en.wikipedia.org/wiki/Autoepistemic_logic
 https://en.wikipedia.org/wiki/Argument_from_silence
-
+https://en.wikipedia.org/wiki/Goldwater_rule
 
 
 
