@@ -963,5 +963,5 @@ https://en.wikipedia.org/wiki/Tragedy_of_the_anticommons
 https://en.wikipedia.org/wiki/Cardinal_utility
 https://en.wikipedia.org/wiki/Repeated_game
 https://en.wikipedia.org/wiki/Trust_(social_science)
-
+https://en.wikipedia.org/wiki/Inequity_aversion
 
