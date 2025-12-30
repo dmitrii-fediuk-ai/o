@@ -1055,7 +1055,7 @@ https://en.wikipedia.org/wiki/Pyrrhic_victory
 https://en.wikipedia.org/wiki/Wisdom_of_the_crowd
 https://en.wikipedia.org/wiki/Remorse
 https://en.wikipedia.org/wiki/Opportunity_cost
-
+https://en.wikipedia.org/wiki/Money-back_guarantee
 
 
 
