@@ -1057,7 +1057,7 @@ https://en.wikipedia.org/wiki/Remorse
 https://en.wikipedia.org/wiki/Opportunity_cost
 https://en.wikipedia.org/wiki/Money-back_guarantee
 https://en.wikipedia.org/wiki/Caveat_emptor
-
+https://en.wikipedia.org/wiki/Risk_aversion
 
 
 
