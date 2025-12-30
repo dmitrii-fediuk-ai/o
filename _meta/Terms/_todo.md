@@ -999,6 +999,6 @@ https://en.wikipedia.org/wiki/Artificial_scarcity
 https://en.wikipedia.org/wiki/Asymmetric_competition
 https://en.wikipedia.org/wiki/Inequality_of_bargaining_power
 https://en.wikipedia.org/wiki/Natural_borrowing_limit
-
+https://en.wikipedia.org/wiki/Price_signal
 
 
