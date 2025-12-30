@@ -1047,7 +1047,7 @@ https://en.wikipedia.org/wiki/Self-confirming_equilibrium
 https://en.wikipedia.org/wiki/Solution_concept
 https://en.wikipedia.org/wiki/Revenue_equivalence
 https://en.wikipedia.org/wiki/Conditional_expectation
-
+https://en.wikipedia.org/wiki/Expected_value
 
 
 
