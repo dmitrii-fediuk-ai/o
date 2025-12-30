@@ -1021,7 +1021,7 @@ https://en.wikipedia.org/wiki/Friedman_doctrine
 https://en.wikipedia.org/wiki/Jump_bidding
 https://en.wikipedia.org/wiki/Vickrey_auction
 https://en.wikipedia.org/wiki/Continuous_uniform_distribution
-
+https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus
 
 
 
