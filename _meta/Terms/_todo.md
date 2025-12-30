@@ -1096,7 +1096,7 @@ https://en.wikipedia.org/wiki/Apophenia
 https://en.wikipedia.org/wiki/Affirming_the_consequent
 https://en.wikipedia.org/wiki/Association_fallacy
 https://en.wikipedia.org/wiki/Cargo_cult
-
+https://en.wikipedia.org/wiki/Causal_inference
 
 
 
