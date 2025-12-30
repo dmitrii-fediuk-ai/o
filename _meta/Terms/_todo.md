@@ -1193,7 +1193,7 @@ https://en.wikipedia.org/wiki/Getting_Things_Done
 https://en.wikipedia.org/wiki/Time_management
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 https://en.wikipedia.org/wiki/Six_Sigma
-
+https://en.wikipedia.org/wiki/Total_quality_management
 
 
 
