@@ -1054,7 +1054,7 @@ https://en.wikipedia.org/wiki/Auction_theory
 https://en.wikipedia.org/wiki/Pyrrhic_victory
 https://en.wikipedia.org/wiki/Wisdom_of_the_crowd
 https://en.wikipedia.org/wiki/Remorse
-
+https://en.wikipedia.org/wiki/Opportunity_cost
 
 
 
