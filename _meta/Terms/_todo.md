@@ -1116,5 +1116,5 @@ https://en.wikipedia.org/wiki/Argument_from_fallacy
 https://en.wikipedia.org/wiki/Convergent_cross_mapping
 https://en.wikipedia.org/wiki/Necessity_and_sufficiency
 https://en.wikipedia.org/wiki/Information_theory
-
+https://en.wikipedia.org/wiki/Common_cause_and_special_cause_(statistics)
 
