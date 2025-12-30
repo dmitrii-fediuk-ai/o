@@ -996,7 +996,7 @@ https://en.wikipedia.org/wiki/Resource-based_view
 https://en.wikipedia.org/wiki/Precommitment
 https://en.wikipedia.org/wiki/Intermediary
 https://en.wikipedia.org/wiki/Artificial_scarcity
-
+https://en.wikipedia.org/wiki/Asymmetric_competition
 
 
 
