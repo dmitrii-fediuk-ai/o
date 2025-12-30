@@ -1072,7 +1072,7 @@ https://en.wikipedia.org/wiki/Replication_crisis
 https://en.wikipedia.org/wiki/Argumentum_ad_populum
 https://en.wikipedia.org/wiki/Circular_reasoning
 https://en.wikipedia.org/wiki/Circular_reporting
-
+https://en.wikipedia.org/wiki/Echo_chamber_(media)
 
 
 
