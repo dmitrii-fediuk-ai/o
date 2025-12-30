@@ -1214,7 +1214,7 @@ https://en.wikipedia.org/wiki/Downside_risk
 https://en.wikipedia.org/wiki/Law_of_triviality
 https://en.wikipedia.org/wiki/Corollary
 https://en.wikipedia.org/wiki/C._Northcote_Parkinson
-https://en.wikipedia.org/wiki/Comitology
+https://en.wikipedia.org/wiki/Bureaucratic_drift
 
 
 
