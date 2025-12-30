@@ -1175,7 +1175,7 @@ https://en.wikipedia.org/wiki/Self-fulfilling_prophecy
 https://en.wikipedia.org/wiki/Selective_exposure_theory
 https://en.wikipedia.org/wiki/Action_principles
 https://en.wikipedia.org/wiki/Defensive_design
-
+https://en.wikipedia.org/wiki/Hindsight_bias
 
 
 
