@@ -1030,7 +1030,7 @@ https://en.wikipedia.org/wiki/Edgeworth_paradox
 https://en.wikipedia.org/wiki/Substitute_good
 https://en.wikipedia.org/wiki/Differentiated_Bertrand_competition
 https://en.wikipedia.org/wiki/Stackelberg_competition
-
+https://en.wikipedia.org/wiki/Aggregative_game
 
 
 
