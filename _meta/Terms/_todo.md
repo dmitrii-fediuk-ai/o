@@ -1228,6 +1228,7 @@ https://en.wikipedia.org/wiki/Student_syndrome
 https://en.wikipedia.org/wiki/List_of_eponymous_laws
 https://en.wikipedia.org/wiki/Extraordinary_claims_require_extraordinary_evidence
 https://en.wikipedia.org/wiki/Philosophical_razor
+https://en.wikipedia.org/wiki/Russell%27s_teapot
 
 
 
