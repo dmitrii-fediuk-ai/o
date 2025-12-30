@@ -1208,7 +1208,7 @@ https://en.wikipedia.org/wiki/The_Mythical_Man-Month
 https://en.wikipedia.org/wiki/Brooks%27s_law
 https://en.wikipedia.org/wiki/Asymmetry
 https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb
-
+https://en.wikipedia.org/wiki/Implementation_intention
 
 
 
