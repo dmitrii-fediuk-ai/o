@@ -1246,7 +1246,7 @@ https://en.wikipedia.org/wiki/Precision_and_recall
 https://en.wikipedia.org/wiki/Base_rate_fallacy
 https://en.wikipedia.org/wiki/Type_III_error
 https://en.wikipedia.org/wiki/Antithesis_(disambiguation)
-
+https://en.wikipedia.org/wiki/Dialectic
 
 
 
