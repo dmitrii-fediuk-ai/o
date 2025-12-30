@@ -1194,7 +1194,7 @@ https://en.wikipedia.org/wiki/Time_management
 https://en.wikipedia.org/wiki/Pomodoro_Technique
 https://en.wikipedia.org/wiki/Six_Sigma
 https://en.wikipedia.org/wiki/Total_quality_management
-
+https://en.wikipedia.org/wiki/10/90_gap
 
 
 
