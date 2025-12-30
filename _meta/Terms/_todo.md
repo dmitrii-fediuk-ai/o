@@ -150,7 +150,7 @@ https://en.wikipedia.org/wiki/Composition_over_inheritance
 https://en.wikipedia.org/wiki/Computational_theory_of_mind
 https://en.wikipedia.org/wiki/Concept_learning
 https://en.wikipedia.org/wiki/Concept_map
-https://en.wikipedia.org/wiki/Concepts_(C%2B%2B)
+https://en.wikipedia.org/wiki/Concepts_(C++)
 https://en.wikipedia.org/wiki/Conceptual_change
 https://en.wikipedia.org/wiki/Conceptual_framework
 https://en.wikipedia.org/wiki/Conceptual_model
