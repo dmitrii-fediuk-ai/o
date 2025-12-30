@@ -1046,7 +1046,7 @@ https://en.wikipedia.org/wiki/Optimum_contract_and_par_contract
 https://en.wikipedia.org/wiki/Self-confirming_equilibrium
 https://en.wikipedia.org/wiki/Solution_concept
 https://en.wikipedia.org/wiki/Revenue_equivalence
-
+https://en.wikipedia.org/wiki/Conditional_expectation
 
 
 
