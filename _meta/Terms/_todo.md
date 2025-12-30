@@ -1189,7 +1189,7 @@ https://en.wikipedia.org/wiki/Pareto_distribution
 https://en.wikipedia.org/wiki/Pareto_efficiency
 https://en.wikipedia.org/wiki/Power_law
 https://en.wikipedia.org/wiki/Normal_distribution
-
+https://en.wikipedia.org/wiki/Getting_Things_Done
 
 
 
