@@ -1184,7 +1184,7 @@ https://en.wikipedia.org/wiki/Jargon_File
 https://en.wikipedia.org/wiki/Clarke%27s_three_laws
 https://en.wikipedia.org/wiki/Finagle%27s_law
 https://en.wikipedia.org/wiki/Principle_of_charity
-
+https://en.wikipedia.org/wiki/Not_even_wrong
 
 
 
