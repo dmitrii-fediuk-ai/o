@@ -1058,7 +1058,7 @@ https://en.wikipedia.org/wiki/Opportunity_cost
 https://en.wikipedia.org/wiki/Money-back_guarantee
 https://en.wikipedia.org/wiki/Caveat_emptor
 https://en.wikipedia.org/wiki/Risk_aversion
-
+https://en.wikipedia.org/wiki/Status_quo_bias
 
 
 
