@@ -1,4 +1,4 @@
-https://en.wikipedia.org/wiki/1%25_rule
+https://en.wikipedia.org/wiki/1%_rule
 https://en.wikipedia.org/wiki/10/90_gap
 https://en.wikipedia.org/wiki/AMA_Manual_of_Style
 https://en.wikipedia.org/wiki/APA_style
