@@ -17,10 +17,10 @@ https://en.wikipedia.org/wiki/B-Method
 https://en.wikipedia.org/wiki/CADP
 https://en.wikipedia.org/wiki/Common_Algebraic_Specification_Language
 https://en.wikipedia.org/wiki/Esterel
-
-
-
-
+https://en.wikipedia.org/wiki/Java_Modeling_Language
+https://en.wikipedia.org/wiki/Knowledge_Based_Software_Assistant
+https://en.wikipedia.org/wiki/Lustre_programming_language
+https://en.wikipedia.org/wiki/MCRL2
 
 
 
