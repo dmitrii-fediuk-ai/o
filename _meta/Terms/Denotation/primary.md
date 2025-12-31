@@ -18,9 +18,12 @@ https://en.wikipedia.org/wiki/Denotation#Denotation_and_reference
 Although they have similar meanings, denotation should not be confused with reference. 
 **A reference is a specific person, place, or thing that a speaker identifies when using a word**.
 
+https://gemini.google.com/share/647099e274b1
+
 # Denotation and meaning
 https://en.wikipedia.org/wiki/Denotation#Denotation_and_meaning
 
+https://gemini.google.com/share/b2ecf4af9b55
 
 
 
