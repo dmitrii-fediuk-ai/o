@@ -6,3 +6,5 @@ https://en.wikipedia.org/wiki/Algebraic_semantics_(computer_science)
 https://en.wikipedia.org/wiki/Algebraic_expression
 https://en.wikipedia.org/wiki/Rewrite_rule
 https://en.wikipedia.org/wiki/Terminating
+https://en.wikipedia.org/wiki/Confluent_(abstract_rewriting)
+https://en.wikipedia.org/wiki/Church-Rosser
