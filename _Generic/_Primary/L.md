@@ -1,3 +1,42 @@
+# 1. ⱲA
+`ⱲA` ≔ ⟨ an article from the English Wikipedia ⟩ 
+
+# 2. Ⱳ LPS
+## Syntax
+~~~code
+Ⱳ LPS
+~~~
+### Meaning
+Понятие, которому посвящена `ⱲA` по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
+`LPS` — the Last Path Segment of the `ⱲA`'s URL.
+### Example
+⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
+
+# 3. Ⱳ LPS#FI
+## Syntax
+~~~code
+Ⱳ LPS#FI
+~~~
+### Meaning
+Понятие, которому посвящёна the `ⱲA`'s section по адресу `https://en.wikipedia.org/wiki/<LPS>#<FI>`.   
+`FI` — is the Fragment Identifier of the section.
+### Example
+⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ понятие «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
+### Rationale
+Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone artice in Wikipedia. 
+
+## Syntax 3: `Ⱳ LPS∷T`
+~~~code
+Ⱳ LPS∷T
+~~~
+### Meaning
+Понятие `T` в контексте статьи Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
+### Example
+⟨ Ⱳ Theory_of_categories∷category ⟩ ≡ ⟨ понятие «**category**» в контексте «In ontology, the theory of categories concerns itself with the **categories** of being: the highest genera or kinds of entities. To investigate the categories of being, or simply **categories** <…>» ⟩
+### Rationale
+Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone artice in Wikipedia, и даже standalone section (with a Fragment Identifier) какой-либо статьи Wikipedia.
+
+
 # 1. ≔
 ## Syntax
 ~~~code
@@ -60,40 +99,6 @@ Line 2
 <…>
 ~~~
 ~~~~ 
-
-# 3. Ⱳ
-## Syntax 1: `Ⱳ LPS`
-~~~code
-Ⱳ LPS
-~~~
-### Meaning
-Понятие, которому посвящена статья Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
-`LPS` — the Last Path Segment of the article's URL.
-### Example
-⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
-
-## Syntax 2: `Ⱳ LPS#FI`
-~~~code
-Ⱳ LPS#FI
-~~~
-### Meaning
-Понятие, которому посвящёна section статьи Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>#<FI>`.   
-`FI` — is the Fragment Identifier of the section.
-### Example
-⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ понятие «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
-### Rationale
-Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone artice in Wikipedia. 
-
-## Syntax 3: `Ⱳ LPS∷T`
-~~~code
-Ⱳ LPS∷T
-~~~
-### Meaning
-Понятие `T` в контексте статьи Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
-### Example
-⟨ Ⱳ Theory_of_categories∷category ⟩ ≡ ⟨ понятие «**category**» в контексте «In ontology, the theory of categories concerns itself with the **categories** of being: the highest genera or kinds of entities. To investigate the categories of being, or simply **categories** <…>» ⟩
-### Rationale
-Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone artice in Wikipedia, и даже standalone section (with a Fragment Identifier) какой-либо статьи Wikipedia.
 
 # 4. ⟪ … ⟫
 ## Syntax
