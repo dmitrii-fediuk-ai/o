@@ -25,16 +25,17 @@
 ### Rationale
 Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone `ⱲA`. 
 
-## Syntax 3: `Ⱳ LPS∷T`
+# 4. Ⱳ LPS∷T
+## Syntax
 ~~~code
 Ⱳ LPS∷T
 ~~~
 ### Meaning
-Понятие `T` в контексте статьи Wikipedia по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
+Понятие `T` в контексте the `ⱲA` по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
 ### Example
 ⟨ Ⱳ Theory_of_categories∷category ⟩ ≡ ⟨ понятие «**category**» в контексте «In ontology, the theory of categories concerns itself with the **categories** of being: the highest genera or kinds of entities. To investigate the categories of being, or simply **categories** <…>» ⟩
 ### Rationale
-Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone artice in Wikipedia, и даже standalone section (with a Fragment Identifier) какой-либо статьи Wikipedia.
+Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone `ⱲA`, и даже standalone section (with a Fragment Identifier) of a `ⱲA`.
 
 
 # 1. ≔
