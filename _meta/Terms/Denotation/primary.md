@@ -1,4 +1,5 @@
 https://en.wikipedia.org/wiki/Denotation
+https://en.wikipedia.org/wiki/Denotation_(semiotics)
 
 #
 In philosophy and linguistics, the denotation of **a word or expression is its strictly literal meaning**
