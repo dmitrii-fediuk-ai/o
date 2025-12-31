@@ -5,3 +5,4 @@ https://en.wikipedia.org/wiki/Predicate_transformer_semantics
 https://en.wikipedia.org/wiki/Algebraic_semantics_(computer_science)
 https://en.wikipedia.org/wiki/Algebraic_expression
 https://en.wikipedia.org/wiki/Rewrite_rule
+https://en.wikipedia.org/wiki/Terminating
