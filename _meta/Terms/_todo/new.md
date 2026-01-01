@@ -37,6 +37,7 @@ https://en.wikipedia.org/wiki/Universal_Systems_Language
 https://en.wikipedia.org/wiki/Vienna_Development_Method
 https://en.wikipedia.org/wiki/VDM_specification_language
 https://en.wikipedia.org/wiki/Operational_semantics
+https://en.wikipedia.org/wiki/Branch_predictor
 
 
 
