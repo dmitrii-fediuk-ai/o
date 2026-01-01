@@ -36,7 +36,7 @@ https://en.wikipedia.org/wiki/TLA%2B
 https://en.wikipedia.org/wiki/Universal_Systems_Language
 https://en.wikipedia.org/wiki/Vienna_Development_Method
 https://en.wikipedia.org/wiki/VDM_specification_language
-
+https://en.wikipedia.org/wiki/Operational_semantics
 
 
 
