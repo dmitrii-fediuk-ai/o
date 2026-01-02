@@ -52,7 +52,7 @@ A ≔ B
 ### Explanation
 `DOR` — краткое обозначение для «Florida Department of Revenue».
 
-# 2. ⟨ … ⟩
+# 6. ⟨ … ⟩
 ## Syntax
 ~~~code
 ⟨ A ⟩
@@ -100,7 +100,7 @@ Line 2
 ~~~
 ~~~~ 
 
-# 4. ⟪ … ⟫
+# 7. ⟪ … ⟫
 ## Syntax
 ~~~code
 ⟪ M ⟫ A
