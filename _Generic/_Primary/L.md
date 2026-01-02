@@ -176,8 +176,8 @@ One of:
 - Ⱳ https://en.wikipedia.org/wiki/Function_symbol∷predicate 
 ``` 
 
-## 𝕊
-` 𝕊` ≔ Ⱳ Set_(mathematics)
+# 16. ꑌ𝕊
+`ꑌ𝕊` ≔ Ⱳ Set_(mathematics)
 
 ## 𝕋
 `𝕋` ≔ Ⱳ Type_theory∷type
