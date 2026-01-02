@@ -179,8 +179,8 @@ One of:
 # 16. ꑌ𝕊
 `ꑌ𝕊` ≔ Ⱳ Set_(mathematics)
 
-## 𝕋
-`𝕋` ≔ Ⱳ Type_theory∷type
+# 17. ꑌ𝕋
+`ꑌ𝕋` ≔ Ⱳ Type_theory∷type
 
 # 8. ⠿{I₁, I₂, …, Iₙ} 
 ## Meaning
