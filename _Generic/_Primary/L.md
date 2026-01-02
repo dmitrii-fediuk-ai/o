@@ -158,14 +158,14 @@ One of:
 # 12. ꑌ𝒞
 `ꑌ𝒞` ≔ Ⱳ Theory_of_categories∷category 
  
-## ℂ
-`ℂ` ≔ 
+# 13. ꑌℂ
+`ꑌℂ` ≔ 
 ```
 - Ⱳ Class_(knowledge_representation)
 - Ⱳ Ontology_components#Classes  
 ```
 
-## 𝕀
+# 14. ꑌ𝕀
 `𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
 
 ## ℙ
