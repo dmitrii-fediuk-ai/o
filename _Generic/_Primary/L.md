@@ -135,12 +135,22 @@ Line 2
 В таком случае я явно пишу `⊤ A`, чтобы ты не тратил свои ресурсы на повторный анализ 
 истинности `A` и в дальнейшем анализе считал `A` аксиомой.
 
-# 9. ꖿ
-`ꖿ` ≔ 
+# 9. ꑌꖿ
+`ꑌꖿ` ≔ 
 ```
+One of:
+- ⟨ Ⱳ Proposition ⟩
 - ⟪ «a substantive statement about a thing» ⟫ ⟨ Ⱳ Claim_(philosophy) ⟩ 
 - ⟪ «declarative sentences themselves rather than their meanings» ⟫ ⟨ Ⱳ Proposition∷statement ⟩
 ```
+
+# 10. ꖿ
+## Syntax
+~~~code
+ꖿ P
+~~~
+## Meaning
+`P` is a `ꑌꖿ`.
 
 # 6.2. ꕤ
 ## Syntax
