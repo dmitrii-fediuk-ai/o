@@ -18,12 +18,12 @@ STUB
 STUB
 ~~~~~~
 
-# `R.md`
+# `T.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
 
-# `T.md`
+# `R.md`
 ~~~~~~markdown
 STUB
 ~~~~~~
