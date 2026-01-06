@@ -37,6 +37,8 @@
 ### Rationale
 Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone `ꑌⱲA`, и даже standalone section (with a Fragment Identifier) of a `ꑌⱲA`.
 
+# 5. Basic Glossary
+
 # 5. ≔
 ## Syntax
 ~~~code
@@ -134,15 +136,6 @@ Line 2
 Истинность `A` может выясниться в процессе анализа.   
 В таком случае я явно пишу `⊤ A`, чтобы ты не тратил свои ресурсы на повторный анализ 
 истинности `A` и в дальнейшем анализе считал `A` аксиомой.
-
-# 9. ꑌꖿ
-`ꑌꖿ` ≔ 
-```
-One of:
-- ⟨ Ⱳ Proposition ⟩
-- ⟪ «a substantive statement about a thing» ⟫ ⟨ Ⱳ Claim_(philosophy) ⟩ 
-- ⟪ «declarative sentences themselves rather than their meanings» ⟫ ⟨ Ⱳ Proposition∷statement ⟩
-```
 
 # 10. ꖿ
 ## Syntax
