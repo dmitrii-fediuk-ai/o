@@ -1,19 +1,20 @@
-# 1. ⱲA
+# 1. References to Wikipedia
+## 1.1. ⱲA
 `ꑌⱲA` ≔ ⟨ an article from the English Wikipedia ⟩
 
-# 2. Ⱳ LPS
-## Syntax
+## 1.2. Ⱳ LPS
+### Syntax
 ~~~code
 Ⱳ LPS
 ~~~
-### Meaning
+#### Meaning
 Понятие, которому посвящена `ꑌⱲA` по адресу `https://en.wikipedia.org/wiki/<LPS>`.  
 `LPS` — the Last Path Segment of the `ꑌⱲA`'s URL.
-### Example
+#### Example
 ⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
 
-# 3. Ⱳ LPS#FI
-## Syntax
+## 1.3. Ⱳ LPS#FI
+### Syntax
 ~~~code
 Ⱳ LPS#FI
 ~~~
@@ -25,8 +26,8 @@
 ### Rationale
 Я использую этот синтаксис, когда для описываемого мной понятия отсутствует a standalone `ꑌⱲA`. 
 
-# 4. Ⱳ LPS∷T
-## Syntax
+## 1.4. Ⱳ LPS∷T
+### Syntax
 ~~~code
 Ⱳ LPS∷T
 ~~~
@@ -37,9 +38,51 @@
 ### Rationale
 Я использую этот синтаксис в тех случаях, когда для описываемого мной понятия отсутствует и standalone `ꑌⱲA`, и даже standalone section (with a Fragment Identifier) of a `ꑌⱲA`.
 
-# 5. Basic Glossary
+# 2. Basic Glossary
 
-# 5. ≔
+## ꑌꖿ
+`ꑌꖿ` ≔ 
+```
+One of:
+- ⟨ Ⱳ Proposition ⟩
+- ⟪ «a substantive statement about a thing» ⟫ ⟨ Ⱳ Claim_(philosophy) ⟩ 
+- ⟪ «declarative sentences themselves rather than their meanings» ⟫ ⟨ Ⱳ Proposition∷statement ⟩
+```
+
+## ꑌꕤ
+`ꑌꕤ` ≔ ⟨ Ⱳ Meaning_(philosophy) ⟩
+
+## ꑌꘙ
+`ꑌꘙ` ≔ ⟨ Причина / источник беспокойства ⟩
+
+## ꑌ𝒞
+`ꑌ𝒞` ≔ Ⱳ Theory_of_categories∷category 
+ 
+## ꑌℂ
+`ꑌℂ` ≔ 
+```
+- Ⱳ Class_(knowledge_representation)
+- Ⱳ Ontology_components#Classes  
+```
+
+## ꑌ𝕀
+`𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
+
+## ꑌℙ
+`ꑌℙ` ≔ 
+```
+- Ⱳ https://en.wikipedia.org/wiki/Predicate_(logic) 
+- Ⱳ https://en.wikipedia.org/wiki/First-order_logic∷predicate 
+- Ⱳ https://en.wikipedia.org/wiki/Function_symbol∷predicate 
+``` 
+
+## ꑌ𝕊
+`ꑌ𝕊` ≔ Ⱳ Set_(mathematics)
+
+## ꑌ𝕋
+`ꑌ𝕋` ≔ Ⱳ Type_theory∷type
+
+# 3. ≔
 ## Syntax
 ~~~code
 A ≔ B
@@ -54,7 +97,7 @@ A ≔ B
 ### Explanation
 `DOR` — краткое обозначение для «Florida Department of Revenue».
 
-# 6. ⟨ … ⟩
+# 4. ⟨ … ⟩
 ## Syntax
 ~~~code
 ⟨ A ⟩
@@ -102,7 +145,7 @@ Line 2
 ~~~
 ~~~~ 
 
-# 7. ⟪ … ⟫
+# 5. ⟪ … ⟫
 ## Syntax
 ~~~code
 ⟪ M ⟫ A
@@ -123,7 +166,7 @@ Line 2
 - «мой ответ клиенту на его письмо `X`» — metadata. 
 - Metadata не является частью текста моего письма клиенту: она указывает назначение текста. 
 
-# 8. ⊤
+# 6. ⊤
 ## Syntax
 ~~~code
 ⊤ A
@@ -137,7 +180,7 @@ Line 2
 В таком случае я явно пишу `⊤ A`, чтобы ты не тратил свои ресурсы на повторный анализ 
 истинности `A` и в дальнейшем анализе считал `A` аксиомой.
 
-# 10. ꖿ
+# 7. ꖿ
 ## Syntax
 ~~~code
 ꖿ P
@@ -145,37 +188,7 @@ Line 2
 ## Meaning
 `P` is a `ꑌꖿ`.
 
-# 11. ꑌꕤ
-`ꑌꕤ` ≔ ⟨ Ⱳ Meaning_(philosophy) ⟩
-
-# 12. ꑌ𝒞
-`ꑌ𝒞` ≔ Ⱳ Theory_of_categories∷category 
- 
-# 13. ꑌℂ
-`ꑌℂ` ≔ 
-```
-- Ⱳ Class_(knowledge_representation)
-- Ⱳ Ontology_components#Classes  
-```
-
-# 14. ꑌ𝕀
-`𝕀` ≔ Ⱳ Partially_ordered_set∷interval   
-
-# 15. ꑌℙ
-`ꑌℙ` ≔ 
-```
-- Ⱳ https://en.wikipedia.org/wiki/Predicate_(logic) 
-- Ⱳ https://en.wikipedia.org/wiki/First-order_logic∷predicate 
-- Ⱳ https://en.wikipedia.org/wiki/Function_symbol∷predicate 
-``` 
-
-# 16. ꑌ𝕊
-`ꑌ𝕊` ≔ Ⱳ Set_(mathematics)
-
-# 17. ꑌ𝕋
-`ꑌ𝕋` ≔ Ⱳ Type_theory∷type
-
-# 18. ⠿{I₁, I₂, …, Iₙ} 
+# 8. ⠿{I₁, I₂, …, Iₙ} 
 ## Meaning
 Такая запись определяет `ꑌ𝕊` посредством точного (полного) перечисления его элементов. 
 ## Example
@@ -183,7 +196,7 @@ Line 2
 ⠿{1, 2, 5, 7}
 ~~~
 
-# 19. ┫…┣
+# 9. ┫…┣
 ## Syntax
 ~~~code
 ⟪ M ⟫ ┫A - B┣
@@ -198,7 +211,7 @@ Line 2
 ###
 `⠿ ⟪ месяцы ⟫ ┫январь - март┣` означает `⟪ месяцы ⟫ ⠿{январь, февраль, март}`.
 
-# 20. ⠿ ⟨ ꑌℙ ⟩
+# 10. ⠿ ⟨ ꑌℙ ⟩
 ## Syntax
 ~~~code
 ⠿ ⟨ ꑌℙ ⟩
@@ -210,7 +223,7 @@ Line 2
 ⠿ ⟨ натуральные числа ⟩
 ~~~ 
 
-# 21. ⠿~
+# 11. ⠿~
 ## Syntax
 ~~~code
 ⠿~ D 
@@ -238,7 +251,7 @@ Line 2
 ~~~
 Здесь `ꑌ𝕊` / `ꑌ𝒞` / `ꑌℂ` «social media platforms» определено неточно, примерно. 
 
-# 22. ᗉ
+# 12. ᗉ
 ## Syntax
 ~~~code
 ᗉ S
@@ -263,7 +276,7 @@ Line 2
 ### Rationale
 Используя подобный сокращённый синтаксис, я одним оператором `ᗉ` делаю сразу 2 вещи: делаю утверждение `ᗉ S` и ввожу краткое обозначение `A` для этого утверждения.
 
-# 23. ⦿
+# 13. ⦿
 ## Syntax
 ~~~code
 ⦿ S
@@ -314,16 +327,16 @@ Line 2
 ###
 По смыслу `⦿` соответствует определённому артиклю «the» английского языка.
 
-# 24. ᛭DLᵢ
+# 14. ᛭DLᵢ
 `᛭DLᵢ` ᗉ `᛭DL⠿`
 
-# 25. ᛭Dc
+# 15. ᛭Dc
 `᛭Dc` — это обозначение `᛭DLᵢ` самого себя.  
 Другими словами, если текст `᛭DLᵢ` содержит упоминание `᛭Dс` — это значит, что `᛭DLᵢ` упоминает сам себя. 
 ## Example
 Если имя файла `᛭Dᵢ` — `sample.md`, и текст `sample.md` использует обозначение `᛭Dc`, это значит, что `᛭Dc` в данном случае обозначает документ `sample.md`.    
 
-# 26. ∷
+# 16. ∷
 ## Syntax
 ~~~code
 A∷B
@@ -333,7 +346,7 @@ A∷B
 ## Example
 A∷⟨ пункт 3 ⟩
 
-# 27. ⧙ … ⧘
+# 17. ⧙ … ⧘
 ## Syntax
 ```code
 A⧙P₁, P₂, …, Pₙ⧘ ≔ ⟨ D1 ⟩ ⸨ 
@@ -350,7 +363,7 @@ A⧙P₁, P₂, …, Pₙ⧘ ≔ ⟨ D1 ⟩ ⸨
 `D2` —  опциональный блок.
 Вместо него параметры могут быть определены в `D1`.  
 
-# 28. ⧛ … ⧚
+# 18. ⧛ … ⧚
 ## Syntax
 ```code
 A⧛V₁, V₂, …, Vₙ⧚
@@ -359,13 +372,13 @@ A⧛V₁, V₂, …, Vₙ⧚
 Такой синтаксис используется в связке с синтаксисом §27.
 Он означает сущность `A` при конкретных значениях параметров `P₁, P₂, …, Pₙ`, равных `V₁, V₂, …, Vₙ`
 
-# 29. ☷⧙D⧘
+# 19. ☷⧙D⧘
 `☷⧙D⧘` ≔ ⟨ ᗉ ⠿~ ⟨ фрагмент `D`⟩ ⟩ ⸨ `D`: a document ⸩
 
-# 30. ᛭A☷
+# 20. ᛭A☷
 `᛭A☷` ≔ `☷⧛᛭A⧚`
 
-# 31. §
+# 21. §
 ## Syntax
 ~~~code
 §P
@@ -378,7 +391,7 @@ A⧛V₁, V₂, …, Vₙ⧚
 ## Сокращённый синтаксис
 `§` без `∷` означает `᛭Dc∷§`.
 
-# 32. §{P₁, P₂, …, Pₙ}
+# 22. §{P₁, P₂, …, Pₙ}
 ## Meaning
 `☷⧙᛭Dᵢ⧘` из пунктов `P₁, P₂, …, Pₙ`. 
 ## Examples
@@ -387,7 +400,7 @@ A⧛V₁, V₂, …, Vₙ⧚
 ###
 `A∷§{2, 3, 5}` означает «`☷⧛A⧚` из пунктов `⠿{2, 3, 5}`».
 
-# 33. §┫A - B┣
+# 23. §┫A - B┣
 ## Meaning
 ⟪ пункты ᛭Dᵢ ⟫ ┫A - B┣   
 Другими словами: `☷⧙᛭Dᵢ⧘` от §A до §B, включая §A и §B. 
@@ -397,19 +410,19 @@ A⧛V₁, V₂, …, Vₙ⧚
 ###
 `С∷§┫2 - 5┣` означает `⟪ ☷⧛С⧚ ⟫ ┫2 - 5┣`
 
-# 34. §┫- B┣
+# 24. §┫- B┣
 ## Meaning
 `☷⧙᛭Dᵢ⧘` от начала и до пункта `B` включительно.
 
-# 35. §┫A -┣
+# 25. §┫A -┣
 ## Meaning
 `☷⧙᛭Dᵢ⧘` от пункта `A` включительно и до конца `᛭Dᵢ`
 
-# 36. §┫-┣
+# 26. §┫-┣
 ## Meaning
 `᛭Dᵢ` целиком.
   
-# 37. ⌠…⌡
+# 27. ⌠…⌡
 ## Syntax
 ~~~code
 ⌠S⌡ ⟨ rules ⟩
@@ -443,7 +456,7 @@ A₂ ≔ B₂
 Символ `§` можно пропускать, например:
 `⌠┫2 - 5┣⌡ A ≔ B` ≡ `⌠§┫2 - 5┣⌡ A ≔ B`
 
-# 38. †
+# 28. †
 ## Syntax
 ~~~code
 † A
@@ -451,7 +464,7 @@ A₂ ≔ B₂
 ## Meaning
 `A` is a ⟨ Ⱳ Problem_solving∷problem ⟩.
 
-# 39. ▶
+# 29. ▶
 ## Syntax
 ```code
 ▶ A
@@ -463,13 +476,13 @@ A₂ ≔ B₂
 ▶ Windows 10
 ```
 
-# 40. ߷⠿
+# 30. ߷⠿
 `߷⠿` ≔ ⠿~ ⟨ приложенные к этому запросу файлы ⟩
 
-# 41. ߷ᵢ
+# 31. ߷ᵢ
 `߷ᵢ` ᗉ `߷⠿`
 
-# 42. ߷⧙F⧘
+# 32. ߷⧙F⧘
 ### Syntax
 ```code
 ߷⧙F⧘
@@ -480,7 +493,7 @@ A₂ ≔ B₂
 ### Example
 ߷⧛1⧚
 
-# 43. ⊥
+# 33. ⊥
 ## Syntax
 ~~~code
 ⊥ (A, B)
@@ -489,7 +502,7 @@ A₂ ≔ B₂
 Противоречие между `A` и `B`.
 Другими словами: `(A, B ⊢ ⊥)`.
 
-# 44. ⌖
+# 34. ⌖
 ### Syntax
 #### Variant 1
 ```
@@ -505,8 +518,8 @@ T
 ### Meaning
 `T` is a citation from `A`.
 
-# 45. ꘖ
-## 45.1. Definitions using a global symbol
+# 35. ꘖ
+## 35.1. Definitions using a global symbol
 ### 45.1.1. 
 #### Syntax
 ~~~code
@@ -515,7 +528,7 @@ T
 #### Meaning
 `B` is an attribute / property of `A`.
 
-### 45.1.2.
+### 35.1.2.
 #### Syntax
 ~~~code
 ꘖ A ∋ B ≔ ⟪ D ⟫ 
@@ -528,20 +541,20 @@ V
 (ꘖ A ∋ B) AND (B ≔ ⟪ D ⟫ V)
 ~~~
 
-## 45.2. Definitions using local keys
-### 45.2.1. Common rules
+## 35.2. Definitions using local keys
+### 35.2.1. Common rules
 ####
-В §45.1 мы описывали an attribute / property of `A` using глобально доступный затем символ `B`.
+В §35.1 мы описывали an attribute / property of `A` using глобально доступный затем символ `B`.
 ####
-В §45.2 мы описываем attributes / properties of `A` иначе: using local keys.
+В §35.2 мы описываем attributes / properties of `A` иначе: using local keys.
 ####
 Эти local keys имеют уникальное значение только в контексте `A`.
 ####
 Вне контекста `A` эти local keys могут иметь другие значения.
 Поэтому при сссылке на эти local keys надо обязательно указывать их : `A`.
-Конкретный синтаксис для указания контекста описан в §44.2.4. 
+Конкретный синтаксис для указания контекста описан в §35.2.4. 
 
-### 45.2.2.
+### 35.2.2.
 #### Syntax
 ##### Variant 1
 ~~~code
@@ -561,7 +574,7 @@ AND
 	(`D` — это комментарий, поясняющий роль `B` в `A`)	
 ~~~
 
-### 45.2.3.
+### 35.2.3.
 #### Syntax
 ~~~code
 ꘖ A ∋
@@ -580,16 +593,13 @@ AND
 <…>
 ~~~
 
-### 45.2.4.
+### 35.2.4.
 #### Syntax
 ~~~code
 A「B」
 ~~~
 #### Meaning
 #####
-Таким способом мы ссылаемся на local key `B`, определённый ранее в качестве attribute / property of `A` посредством синтаксиса §44.2.2 или §44.2.3.  
+Таким способом мы ссылаемся на local key `B`, определённый ранее в качестве attribute / property of `A` посредством синтаксиса §35.2.2 или §35.2.3.  
 #####
 Требования к `A「B」` распространяются и все подразделы внутри `A「B」` (например, `A「B」「С」`).
-
-# 46. ꑌꘙ
-`ꑌꘙ` ≔ ⟨ Причина / источник беспокойства ⟩
