@@ -610,7 +610,6 @@ https://en.wikipedia.org/wiki/Isomorphism
 https://en.wikipedia.org/wiki/Iteration
 https://en.wikipedia.org/wiki/Japanese_auction
 https://en.wikipedia.org/wiki/Jargon_File
-https://en.wikipedia.org/wiki/Jargon_File
 https://en.wikipedia.org/wiki/JavaScript
 https://en.wikipedia.org/wiki/Java_Modeling_Language
 https://en.wikipedia.org/wiki/Jevons_paradox
