@@ -23,6 +23,5 @@ The title is not longer than necessary to identify the article's subject and dis
 ## Consistency 
 The title is consistent with the pattern of similar articles' titles.
 
-
-#
+# Use commonly recognizable names
 https://en.wikipedia.org/wiki/Wikipedia:Article_titles#Use_commonly_recognizable_names
