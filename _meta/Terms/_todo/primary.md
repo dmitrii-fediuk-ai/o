@@ -314,7 +314,6 @@ https://en.wikipedia.org/wiki/Defeasible_reasoning
 https://en.wikipedia.org/wiki/Defeater
 https://en.wikipedia.org/wiki/Defensive_design
 https://en.wikipedia.org/wiki/Definite_description
-https://en.wikipedia.org/wiki/Definition
 https://en.wikipedia.org/wiki/Definitions_of_knowledge
 https://en.wikipedia.org/wiki/Defunctionalization
 https://en.wikipedia.org/wiki/Degree_of_truth
