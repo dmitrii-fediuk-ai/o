@@ -1,0 +1,1 @@
+https://en.wikipedia.org/wiki/Variable_(high-level_programming)
