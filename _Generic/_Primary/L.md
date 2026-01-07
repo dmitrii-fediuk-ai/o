@@ -42,15 +42,15 @@
 
 ## Lingustics
 
-### `ꑌJ`
-`ꑌJ` ≔ 
+### `ꑌ𐓩J`
+`ꑌ𐓩J` ≔ 
 ```
 - Ⱳ Jargon 
 - Ⱳ Slang 
 ```
 
-### `ꑌO`
-`ꑌO` ≔ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
+### `ꑌ𐓩O`
+`ꑌ𐓩O` ≔ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
 
 ## Logic
 
