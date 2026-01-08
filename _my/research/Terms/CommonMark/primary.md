@@ -9,6 +9,9 @@ https://spec.commonmark.org/0.31.2#ascii-control-character
 # ascii-punctuation-character
 https://spec.commonmark.org/0.31.2#ascii-punctuation-character
 
+# attribute
+https://spec.commonmark.org/0.31.2#attribute
+
 # atx-heading
 https://spec.commonmark.org/0.31.2#atx-heading
 
