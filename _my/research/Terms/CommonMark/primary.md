@@ -93,6 +93,9 @@ https://spec.commonmark.org/0.31.2#setext-heading-underline
 # start-condition
 https://spec.commonmark.org/0.31.2#start-condition
 
+# tab
+https://spec.commonmark.org/0.31.2#tab
+
 # thematic-break
 https://spec.commonmark.org/0.31.2#thematic-break
 
