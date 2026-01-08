@@ -42,6 +42,9 @@ https://spec.commonmark.org/0.31.2#blocks
 # bullet-list-marker
 https://spec.commonmark.org/0.31.2#bullet-list-marker
 
+# cdata-section
+https://spec.commonmark.org/0.31.2#cdata-section
+
 # character
 https://spec.commonmark.org/0.31.2#character
 
@@ -90,6 +93,9 @@ https://spec.commonmark.org/0.31.2#html-blocks
 # html-comment
 https://spec.commonmark.org/0.31.2#html-comment
 
+# html-tag
+https://spec.commonmark.org/0.31.2#html-tag
+
 # indented-code-block
 https://spec.commonmark.org/0.31.2#indented-code-block
 
@@ -119,6 +125,9 @@ https://spec.commonmark.org/0.31.2#link-destination
 
 # line-ending
 https://spec.commonmark.org/0.31.2#line-ending
+
+# link-reference-definition
+https://spec.commonmark.org/0.31.2#link-reference-definition
 
 # link-text
 https://spec.commonmark.org/0.31.2#link-text
