@@ -291,6 +291,9 @@ https://spec.commonmark.org/0.31.2#shortcut-reference-link
 # single-quoted-attribute-value
 https://spec.commonmark.org/0.31.2#single-quoted-attribute-value
 
+# soft-line-breaks
+https://spec.commonmark.org/0.31.2#soft-line-breaks
+
 # softbreak
 https://spec.commonmark.org/0.31.2#softbreak
 
