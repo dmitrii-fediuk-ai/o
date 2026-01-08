@@ -368,6 +368,7 @@ https://en.wikipedia.org/wiki/Kannada_(Unicode_block)
 ರ	ಱ	ಲ	ಳ	ವ	ಶ	ಷ	ಸ	ಹ	ಽ	ಾ	ಿ
 ೞ	ೠ	ೡ	೦	೧	೨	೩	೪	೫	೬	೭	೮	೯
 
+# Kharoshthi
 https://en.wikipedia.org/wiki/Kharoshthi_(Unicode_block)
 𐨀	 𐨁	 𐨂	 𐨃	 𐨅	 𐨆	 𐨌	 𐨍	 𐨎	 𐨏
 𐨐	𐨑	𐨒	𐨓	𐨕	𐨖	𐨗	𐨙	𐨚	𐨛	𐨜	𐨝	𐨞	𐨟
