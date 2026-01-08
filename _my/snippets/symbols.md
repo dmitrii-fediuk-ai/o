@@ -387,7 +387,7 @@ https://en.wikipedia.org/wiki/Khmer_(Unicode_block)
 ០	១	២	៣	៤	៥	៦	៧	៨	៩						
 ៰	៱	៲	៳	៴	៵	៶	៷	៸	៹
 
-#
+# Khmer Symbols
 https://en.wikipedia.org/wiki/Khmer_Symbols
 ᧠	᧡	᧢	᧣	᧤	᧥	᧦	᧧	᧨	᧩	᧪	᧫	᧬	᧭	᧮	᧯
 ᧰	᧱	᧲	᧳	᧴	᧵	᧶	᧷	᧸	᧹	᧺	᧻	᧼	᧽	᧾	᧿
