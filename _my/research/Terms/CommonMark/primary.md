@@ -54,6 +54,9 @@ https://spec.commonmark.org/0.31.2#bullet-list
 # bullet-list-marker
 https://spec.commonmark.org/0.31.2#bullet-list-marker
 
+# can-close-emphasis
+https://spec.commonmark.org/0.31.2#can-close-emphasis
+
 # can-open-emphasis
 https://spec.commonmark.org/0.31.2#can-open-emphasis
 
