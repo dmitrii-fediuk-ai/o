@@ -481,7 +481,8 @@ https://en.wikipedia.org/wiki/Latin-1_Supplement
 à	á	â	ã	ä	å	æ	ç	è	é	ê	ë	ì	í	î	ï
 ð	ñ	ò	ó	ô	õ	ö	÷	ø	ù	ú	û	ü	ý	þ	ÿ
 
-# https://en.wikipedia.org/wiki/Letterlike_Symbols
+# Letterlike Symbols 
+https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℀	℁	ℂ	℃	℄	℅	℆	ℇ	℈	℉	ℊ	ℋ	ℌ	ℍ	ℎ	ℏ
 ℐ	ℑ	ℒ	ℓ	℔	ℕ	№	℗	℘	ℙ	ℚ	ℛ	ℜ	ℝ	℞	℟
 ℠	℡	™	℣	ℤ	℥	Ω	℧	ℨ	℩	K	Å	ℬ	ℭ	℮	ℯ
