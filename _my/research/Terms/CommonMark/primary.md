@@ -237,6 +237,9 @@ https://spec.commonmark.org/0.31.2#processing-instruction
 # reference-link
 https://spec.commonmark.org/0.31.2#reference-link
 
+# right-flanking-delimiter-run
+https://spec.commonmark.org/0.31.2#right-flanking-delimiter-run
+
 # setext-heading
 https://spec.commonmark.org/0.31.2#setext-heading
 
