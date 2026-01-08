@@ -132,6 +132,9 @@ https://spec.commonmark.org/0.31.2#images
 # indented-code-block
 https://spec.commonmark.org/0.31.2#indented-code-block
 
+# indented-code-blocks
+https://spec.commonmark.org/0.31.2#indented-code-blocks
+
 # indented-chunk
 https://spec.commonmark.org/0.31.2#indented-chunk
 
