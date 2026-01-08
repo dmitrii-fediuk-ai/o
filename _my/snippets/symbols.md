@@ -303,6 +303,15 @@ https://en.wikipedia.org/wiki/Gurmukhi_(Unicode_block)
 ੦	੧	੨	੩	੪	੫	੬	੭	੮	੯
 ੲ	ੳ	ੴ	ੵ	੶
 
+#
+https://en.wikipedia.org/wiki/Hangul_Compatibility_Jamo
+ㄱ	ㄲ	ㄳ	ㄴ	ㄵ	ㄶ	ㄷ	ㄸ	ㄹ	ㄺ	ㄻ	ㄼ	ㄽ	ㄾ	ㄿ
+ㅀ	ㅁ	ㅂ	ㅃ	ㅄ	ㅅ	ㅆ	ㅇ	ㅈ	ㅉ	ㅊ	ㅋ	ㅌ	ㅍ	ㅎ	ㅏ
+ㅐ	ㅑ	ㅒ	ㅓ	ㅔ	ㅕ	ㅖ	ㅗ	ㅘ	ㅙ	ㅚ	ㅛ	ㅜ	ㅝ	ㅞ	ㅟ
+ㅠ	ㅡ	ㅢ	ㅣ	  HF  	ㅥ	ㅦ	ㅧ	ㅨ	ㅩ	ㅪ	ㅫ	ㅬ	ㅭ	ㅮ	ㅯ
+ㅰ	ㅱ	ㅲ	ㅳ	ㅴ	ㅵ	ㅶ	ㅷ	ㅸ	ㅹ	ㅺ	ㅻ	ㅼ	ㅽ	ㅾ	ㅿ
+ㆀ	ㆁ	ㆂ	ㆃ	ㆄ	ㆅ	ㆆ	ㆇ	ㆈ	ㆉ	ㆊ	ㆋ	ㆌ	ㆍ	ㆎ	
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 
