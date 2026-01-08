@@ -3,6 +3,9 @@ https://commonmark.org
 https://spec.commonmark.org/0.31.2
 https://commonmark.org/help
 
+#absolute-uri
+https://spec.commonmark.org/0.31.2#absolute-uri
+
 # ascii-control-character
 https://spec.commonmark.org/0.31.2#ascii-control-character
 
@@ -314,3 +317,6 @@ https://spec.commonmark.org/0.31.2#unicode-whitespace-character
 
 # unquoted-attribute-value
 https://spec.commonmark.org/0.31.2#unquoted-attribute-value
+
+# uri-autolink
+https://spec.commonmark.org/0.31.2#uri-autolink
