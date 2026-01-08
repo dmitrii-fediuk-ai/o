@@ -6,6 +6,9 @@ https://commonmark.org/help
 # ascii-control-character
 https://spec.commonmark.org/0.31.2#ascii-control-character
 
+# ascii-punctuation-character
+https://spec.commonmark.org/0.31.2#ascii-punctuation-character
+
 # atx-heading
 https://spec.commonmark.org/0.31.2#atx-heading
 
@@ -107,6 +110,9 @@ https://spec.commonmark.org/0.31.2#thematic-break
 
 # thematic-breaks
 https://spec.commonmark.org/0.31.2#thematic-breaks
+
+# unicode-punctuation-character
+https://spec.commonmark.org/0.31.2#unicode-punctuation-character
 
 # unicode-whitespace
 https://spec.commonmark.org/0.31.2#unicode-whitespace
