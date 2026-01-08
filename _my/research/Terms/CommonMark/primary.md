@@ -27,6 +27,9 @@ https://spec.commonmark.org/0.31.2#atx-heading
 # atx-headings
 https://spec.commonmark.org/0.31.2#atx-headings
 
+# backtick-string
+https://spec.commonmark.org/0.31.2#backtick-string
+
 # blank-line
 https://spec.commonmark.org/0.31.2#blank-line
 
@@ -59,6 +62,9 @@ https://spec.commonmark.org/0.31.2#closing-tag
 
 # code-fence
 https://spec.commonmark.org/0.31.2#code-fence
+
+# code-span
+https://spec.commonmark.org/0.31.2#code-span
 
 # container-blocks
 https://spec.commonmark.org/0.31.2#container-blocks
@@ -119,6 +125,9 @@ https://spec.commonmark.org/0.31.2#indented-chunk
 
 # inline-link
 https://spec.commonmark.org/0.31.2#inline-link
+
+# inlines
+https://spec.commonmark.org/0.31.2#inlines
 
 # info-string
 https://spec.commonmark.org/0.31.2#info-string
