@@ -60,6 +60,9 @@ https://spec.commonmark.org/0.31.2#lists
 # ordered-list-marker
 https://spec.commonmark.org/0.31.2#ordered-list-marker
 
+# setext-heading
+https://spec.commonmark.org/0.31.2#setext-heading
+
 # start-condition
 https://spec.commonmark.org/0.31.2#start-condition
 
