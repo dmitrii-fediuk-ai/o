@@ -141,6 +141,9 @@ https://spec.commonmark.org/0.31.2#full-reference-link
 # hard-line-break
 https://spec.commonmark.org/0.31.2#hard-line-break
 
+# hard-line-breaks
+https://spec.commonmark.org/0.31.2#hard-line-breaks
+
 # hexadecimal-numeric-character-references
 https://spec.commonmark.org/0.31.2#hexadecimal-numeric-character-references
 
