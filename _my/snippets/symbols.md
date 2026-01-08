@@ -472,6 +472,14 @@ https://en.wikipedia.org/wiki/Latin_Extended-D
 Ꞡ	ꞡ	Ꞣ	ꞣ	Ꞥ	ꞥ	Ꞧ	ꞧ	Ꞩ	ꞩ	Ɦ	Ɜ	Ɡ	Ɬ	Ɪ	ꞯ
 Ʞ	Ʇ	Ʝ	Ꭓ	Ꞵ	ꞵ	Ꞷ	ꞷ	ꟹ	ꟸ	ꟹ	ꟺ	ꟻ	ꟼ	ꟽ	ꟾ	ꟿ
 
+#
+https://en.wikipedia.org/wiki/Latin_Extended-E
+ꬰ	ꬱ	ꬲ	ꬳ	ꬴ	ꬵ	ꬶ	ꬷ	ꬸ	ꬹ	ꬺ	ꬻ	ꬼ	ꬽ	ꬾ	ꬿ
+ꭀ	ꭁ	ꭂ	ꭃ	ꭄ	ꭅ	ꭆ	ꭇ	ꭈ	ꭉ	ꭊ	ꭋ	ꭌ	ꭍ	ꭎ	ꭏ
+ꭐ	ꭑ	ꭒ	ꭓ	ꭔ	ꭕ	ꭖ	ꭗ	ꭘ	ꭙ	ꭚ	꭛	ꭜ	ꭝ	ꭞ	ꭟ
+ꭠ	ꭡ	ꭢ	ꭣ	ꭤ	ꭥ
+
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 
