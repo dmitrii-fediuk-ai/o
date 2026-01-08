@@ -384,6 +384,16 @@ https://en.wikipedia.org/wiki/Kharoshthi_(Unicode_block)
 𐩀	𐩁	𐩂	𐩃	𐩄	𐩅	𐩆	𐩇	𐩈							
 𐩐	𐩑	𐩒	𐩓	𐩔	𐩕	𐩖	𐩗	𐩘
 
+# 
+https://en.wikipedia.org/wiki/Khmer_(Unicode_block)
+ក	ខ	គ	ឃ	ង	ច	ឆ	ជ	ឈ	ញ	ដ	ឋ	ឌ	ឍ	ណ	ត
+ថ	ទ	ធ	ន	ប	ផ	ព	ភ	ម	យ	រ	ល	វ	ឝ	ឞ	ស
+ហ	ឡ	អ	ឣ	ឤ	ឥ	ឦ	ឧ	ឨ	ឩ	ឪ	ឫ	ឬ	ឭ	ឮ	ឯ
+ឰ	ឱ	ឲ	ឳ
+។	៕	៖	ៗ	៘	៙	៚	៛	ៜ	៝		
+០	១	២	៣	៤	៥	៦	៧	៨	៩						
+៰	៱	៲	៳	៴	៵	៶	៷	៸	៹
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 
