@@ -470,7 +470,7 @@ https://en.wikipedia.org/wiki/Latin_Extended-D
 Ꞁ	ꞁ	Ꞃ	ꞃ	Ꞅ	ꞅ	Ꞇ	ꞇ	ꞈ	꞉	꞊	Ꞌ	ꞌ	Ɥ	ꞎ	ꞏ
 Ꞑ	ꞑ	Ꞓ	ꞓ	ꞔ	ꞕ	Ꞗ	ꞗ	Ꞙ	ꞙ	Ꞛ	ꞛ	Ꞝ	ꞝ	Ꞟ	ꞟ
 Ꞡ	ꞡ	Ꞣ	ꞣ	Ꞥ	ꞥ	Ꞧ	ꞧ	Ꞩ	ꞩ	Ɦ	Ɜ	Ɡ	Ɬ	Ɪ	ꞯ
-Ʞ	Ʇ	Ʝ	Ꭓ	Ꞵ	ꞵ	Ꞷ	ꞷ	ꟹ	ꟺ	ꟻ	ꟼ	ꟽ	ꟾ	ꟿ
+Ʞ	Ʇ	Ʝ	Ꭓ	Ꞵ	ꞵ	Ꞷ	ꞷ	ꟹ	ꟸ	ꟹ	ꟺ	ꟻ	ꟼ	ꟽ	ꟾ	ꟿ
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
