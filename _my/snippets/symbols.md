@@ -376,6 +376,14 @@ https://en.wikipedia.org/wiki/Kannada_(Unicode_block)
 ರ	ಱ	ಲ	ಳ	ವ	ಶ	ಷ	ಸ	ಹ	ಽ	ಾ	ಿ
 ೞ	ೠ	ೡ	೦	೧	೨	೩	೪	೫	೬	೭	೮	೯
 
+https://en.wikipedia.org/wiki/Kharoshthi_(Unicode_block)
+𐨀	 𐨁	 𐨂	 𐨃	 𐨅	 𐨆	 𐨌	 𐨍	 𐨎	 𐨏
+𐨐	𐨑	𐨒	𐨓	𐨕	𐨖	𐨗	𐨙	𐨚	𐨛	𐨜	𐨝	𐨞	𐨟
+𐨠	𐨡	𐨢	𐨣	𐨤	𐨥	𐨦	𐨧	𐨨	𐨩	𐨪	𐨫	𐨬	𐨭	𐨮	𐨯
+𐨰	𐨱	𐨲	𐨳
+𐩀	𐩁	𐩂	𐩃	𐩄	𐩅	𐩆	𐩇	𐩈							
+𐩐	𐩑	𐩒	𐩓	𐩔	𐩕	𐩖	𐩗	𐩘
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 
