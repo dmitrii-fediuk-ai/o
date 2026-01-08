@@ -135,6 +135,9 @@ https://spec.commonmark.org/0.31.2#start-condition
 # tab
 https://spec.commonmark.org/0.31.2#tab
 
+# tag-name
+https://spec.commonmark.org/0.31.2#tag-name
+
 # thematic-break
 https://spec.commonmark.org/0.31.2#thematic-break
 
