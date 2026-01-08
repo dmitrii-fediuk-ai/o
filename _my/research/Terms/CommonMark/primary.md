@@ -45,6 +45,9 @@ https://spec.commonmark.org/0.31.2#block-quotes
 # blocks
 https://spec.commonmark.org/0.31.2#blocks
 
+# blocks-and-inlines
+https://spec.commonmark.org/0.31.2#blocks-and-inlines
+
 # bullet-list
 https://spec.commonmark.org/0.31.2#bullet-list
 
