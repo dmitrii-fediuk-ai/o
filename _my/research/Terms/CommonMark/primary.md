@@ -99,6 +99,9 @@ https://spec.commonmark.org/0.31.2#html-comment
 # html-tag
 https://spec.commonmark.org/0.31.2#html-tag
 
+# image-description
+https://spec.commonmark.org/0.31.2#image-description
+
 # images
 https://spec.commonmark.org/0.31.2#images
 
