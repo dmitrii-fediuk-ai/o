@@ -30,6 +30,9 @@ https://spec.commonmark.org/0.31.2#atx-headings
 # blank-line
 https://spec.commonmark.org/0.31.2#blank-line
 
+# blank-lines
+https://spec.commonmark.org/0.31.2#blank-lines
+
 # backslash-escapes
 https://spec.commonmark.org/0.31.2#backslash-escapes
 
@@ -150,6 +153,9 @@ https://spec.commonmark.org/0.31.2#link-title
 # links
 https://spec.commonmark.org/0.31.2#links
 
+# list
+https://spec.commonmark.org/0.31.2#list
+
 # list-items
 https://spec.commonmark.org/0.31.2#list-items
 
@@ -167,6 +173,9 @@ https://spec.commonmark.org/0.31.2#open-tag
 
 # ordered-list-marker
 https://spec.commonmark.org/0.31.2#ordered-list-marker
+
+# paragraph
+https://spec.commonmark.org/0.31.2#paragraph
 
 # processing-instruction
 https://spec.commonmark.org/0.31.2#processing-instruction
@@ -186,6 +195,9 @@ https://spec.commonmark.org/0.31.2#shortcut-reference-link
 # single-quoted-attribute-value
 https://spec.commonmark.org/0.31.2#single-quoted-attribute-value
 
+# softbreak
+https://spec.commonmark.org/0.31.2#softbreak
+
 # space
 https://spec.commonmark.org/0.31.2#space
 
@@ -203,6 +215,9 @@ https://spec.commonmark.org/0.31.2#thematic-break
 
 # thematic-breaks
 https://spec.commonmark.org/0.31.2#thematic-breaks
+
+# tight
+https://spec.commonmark.org/0.31.2#tight
 
 # unicode-punctuation-character
 https://spec.commonmark.org/0.31.2#unicode-punctuation-character
