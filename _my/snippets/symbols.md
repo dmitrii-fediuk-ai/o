@@ -420,7 +420,7 @@ https://en.wikipedia.org/wiki/Latin_Extended_Additional
 Ỡ	ỡ	Ợ	ợ	Ụ	ụ	Ủ	ủ	Ứ	ứ	Ừ	ừ	Ử	ử	Ữ	ữ
 Ự	ự	Ỳ	ỳ	Ỵ	ỵ	Ỷ	ỷ	Ỹ	ỹ	Ỻ	ỻ	Ỽ	ỽ	Ỿ	ỿ
 
-#
+# Latin Extended-A
 https://en.wikipedia.org/wiki/Latin_Extended-A
 Ā	ā	Ă	ă	Ą	ą	Ć	ć	Ĉ	ĉ	Ċ	ċ	Č	č	Ď	ď
 Đ	đ	Ē	ē	Ĕ	ĕ	Ė	ė	Ę	ę	Ě	ě	Ĝ	ĝ	Ğ	ğ
