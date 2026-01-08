@@ -9,8 +9,12 @@ https://spec.commonmark.org/0.31.2#blank-line
 # backslash escapes
 https://spec.commonmark.org/0.31.2#backslash-escapes
 
-# hard line break
-https://spec.commonmark.org/0.31.2#hard-line-break
+# code fence
+https://spec.commonmark.org/0.31.2#code-fence
 
 # fenced code blocks
 https://spec.commonmark.org/0.31.2#fenced-code-blocks
+
+# hard line break
+https://spec.commonmark.org/0.31.2#hard-line-break
+
