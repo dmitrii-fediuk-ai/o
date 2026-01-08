@@ -365,7 +365,7 @@ https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
 𞤚 𞤛 𞤜 𞤝 𞤞 𞤟 𞤠 𞤡 𞤢 𞤣 𞤤 𞤥 𞤦 𞤧 𞤨 𞤩 𞤪 𞤫 𞤬 𞤭 𞤮 𞤯 𞤰 𞤱 𞤲 𞤳 𞤴 𞤵 
 𞤶 𞤷 𞤸 𞤹 𞤺 𞤻 𞤼 𞤽 𞤾 𞤿 𞥀 𞥁 𞥂 𞥃 𞥄 𞥅 𞥆 𞥇 𞥈 𞥉 𞥊 𞥋 𞥐 𞥑 𞥒 𞥓 𞥔 𞥕 𞥖 𞥗 𞥘 𞥙
 
-## Группы языков Геэз / Амхарский / Тигринья
+#
 https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
 ሀ	ሁ	ሂ	ሃ	ሄ	ህ	ሆ	ሇ	ለ	ሉ	ሊ	ላ	ሌ	ል	ሎ	ሏ
 ሐ	ሑ	ሒ	ሓ	ሔ	ሕ	ሖ	ሗ	መ	ሙ	ሚ	ማ	ሜ	ም	ሞ	ሟ
@@ -392,6 +392,21 @@ https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
 ፠	፡	።	፣	፤	፥	፦	፧	፨	፩	፪	፫	፬	፭	፮	፯
 ፰	፱	፲	፳	፴	፵	፶	፷	፸	፹	፺	፻	፼		
 
+
+#
+https://en.wikipedia.org/wiki/Ethiopic_Extended
+ⶀ	ⶁ	ⶂ	ⶃ	ⶄ	ⶅ	ⶆ	ⶇ	ⶈ	ⶉ	ⶊ	ⶋ	ⶌ	ⶍ	ⶎ	ⶏ
+ⶐ	ⶑ	ⶒ	ⶓ	ⶔ	ⶕ	ⶖ									
+ⶠ	ⶡ	ⶢ	ⶣ	ⶤ	ⶥ	ⶦ	ⶨ	ⶩ	ⶪ	ⶫ	ⶬ	ⶭ	ⶮ	
+ⶰ	ⶱ	ⶲ	ⶳ	ⶴ	ⶵ	ⶶ	ⶸ	ⶹ	ⶺ	ⶻ	ⶼ	ⶽ	ⶾ	
+ⷀ	ⷁ	ⷂ	ⷃ	ⷄ	ⷅ	ⷆ	ⷈ	ⷉ	ⷊ	ⷋ	ⷌ	ⷍ	ⷎ	
+ⷐ	ⷑ	ⷒ	ⷓ	ⷔ	ⷕ	ⷖ	ⷘ	ⷙ	ⷚ	ⷛ	ⷜ	ⷝ	ⷞ
+
+#
+https://en.wikipedia.org/wiki/Ethiopic_Extended-A
+ꬁ	ꬂ	ꬃ	ꬄ	ꬅ	ꬆ	ꬉ	ꬊ	ꬋ	ꬌ	ꬍ	ꬎ	
+ꬑ	ꬒ	ꬓ	ꬔ	ꬕ	ꬖ									
+ꬠ	ꬡ	ꬢ	ꬣ	ꬤ	ꬥ	ꬦ	ꬨ	ꬩ	ꬪ	ꬫ	ꬬ	ꬭ	ꬮ
 
 #
 https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
