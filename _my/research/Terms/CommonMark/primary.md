@@ -222,6 +222,9 @@ https://spec.commonmark.org/0.31.2#setext-heading
 # setext-heading-underline
 https://spec.commonmark.org/0.31.2#setext-heading-underline
 
+# setext-headings
+https://spec.commonmark.org/0.31.2#setext-headings
+
 # shortcut-reference-link
 https://spec.commonmark.org/0.31.2#shortcut-reference-link
 
