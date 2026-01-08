@@ -409,6 +409,11 @@ https://en.wikipedia.org/wiki/Ethiopic_Extended-A
 ꬠ	ꬡ	ꬢ	ꬣ	ꬤ	ꬥ	ꬦ	ꬨ	ꬩ	ꬪ	ꬫ	ꬬ	ꬭ	ꬮ
 
 #
+https://en.wikipedia.org/wiki/Ethiopic_Supplement
+ᎀ	ᎁ	ᎂ	ᎃ	ᎄ	ᎅ	ᎆ	ᎇ	ᎈ	ᎉ	ᎊ	ᎋ	ᎌ	ᎍ	ᎎ	ᎏ
+᎐	᎑	᎒	᎓	᎔	᎕	᎖	᎗	᎘	᎙
+
+#
 https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
 Ա	Բ	Գ	Դ	Ե	Զ	Է	Ը	Թ	Ժ	Ի	Լ	Խ	Ծ	Կ
 Հ	Ձ	Ղ	Ճ	Մ	Յ	Ն	Շ	Ո	Չ	Պ	Ջ	Ռ	Ս	Վ	Տ
