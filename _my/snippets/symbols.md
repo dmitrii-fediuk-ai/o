@@ -285,7 +285,7 @@ https://en.wikipedia.org/wiki/Greek_Extended
 ῠ	ῡ	ῢ	ΰ	ῤ	ῥ	ῦ	ῧ	Ῠ	Ῡ	Ὺ	Ύ	Ῥ	῭	΅	`
 ῲ	ῳ	ῴ		ῶ	ῷ	Ὸ	Ό	Ὼ	Ώ	ῼ	´	῾
 
-#
+# Gurmukhi
 https://en.wikipedia.org/wiki/Gurmukhi_(Unicode_block)
 ਅ	ਆ	ਇ	ਈ	ਉ	ਊ ਏ
 ਐ	ਓ	ਔ	ਕ	ਖ	ਗ	ਘ	ਙ	ਚ	ਛ	ਜ	ਝ	ਞ	ਟ
