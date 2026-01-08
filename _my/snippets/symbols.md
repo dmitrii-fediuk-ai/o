@@ -495,11 +495,6 @@ https://gemini.google.com/share/0dde63bbb812
 ᛒ ᛓ ᛔ ᛕ ᛖ ᛗ ᛘ ᛙ ᛚ ᛛ ᛜ ᛝ ᛞ ᛟ ᛠ ᛡ ᛢ ᛣ ᛤ ᛥ ᛦ ᛧ ᛨ ᛩ ᛪ ᛫ ᛬ ᛭ ᛮ ᛯ ᛰ
 ᚠ ᚢ ᚦ ᚩ ᚱ ᚳ ᚷ ᚹ ᚻ ᚾ ᛁ ᛄ ᛇ ᛈ ᛉ ᛋ ᛏ ᛒ ᛖ ᛗ ᛚ ᛝ ᛟ ᛞ ᚪ ᚫ ᚣ ᛡ ᛠ ᛢ ᛣ ᛥ ᚸ
 
-# Ⱳ
-https://gemini.google.com/share/6fd7503f4271
-A a B b Ɓ ɓ C c D d Ɗ ɗ E e Ɛ ɛ F f G g H h I i Ɩ ɩ J j K k L l M m N n Ɲ ɲ Ŋ ŋ O o Ɔ ɔ P p R r 
-S s T t U u Ʋ ʋ V v W w Ⱳ ⱳ Y y Ƴ ƴ Z z
-
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ
