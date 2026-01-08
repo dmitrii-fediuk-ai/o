@@ -24,6 +24,9 @@ https://spec.commonmark.org/0.31.2#container-blocks
 # end-condition
 https://spec.commonmark.org/0.31.2#end-condition
 
+# fenced-code-block
+https://spec.commonmark.org/0.31.2#fenced-code-block
+
 # fenced-code-blocks
 https://spec.commonmark.org/0.31.2#fenced-code-blocks
 
