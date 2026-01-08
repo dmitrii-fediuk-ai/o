@@ -45,6 +45,9 @@ https://spec.commonmark.org/0.31.2#bullet-list-marker
 # character
 https://spec.commonmark.org/0.31.2#character
 
+# closing-tag
+https://spec.commonmark.org/0.31.2#closing-tag
+
 # code-fence
 https://spec.commonmark.org/0.31.2#code-fence
 
@@ -53,6 +56,9 @@ https://spec.commonmark.org/0.31.2#container-blocks
 
 # decimal-numeric-character-references
 https://spec.commonmark.org/0.31.2#decimal-numeric-character-references
+
+# declaration
+https://spec.commonmark.org/0.31.2#declaration
 
 # double-quoted-attribute-value
 https://spec.commonmark.org/0.31.2#double-quoted-attribute-value
@@ -80,6 +86,9 @@ https://spec.commonmark.org/0.31.2#html-block
 
 # html-blocks
 https://spec.commonmark.org/0.31.2#html-blocks
+
+# html-comment
+https://spec.commonmark.org/0.31.2#html-comment
 
 # indented-code-block
 https://spec.commonmark.org/0.31.2#indented-code-block
@@ -131,6 +140,9 @@ https://spec.commonmark.org/0.31.2#open-tag
 
 # ordered-list-marker
 https://spec.commonmark.org/0.31.2#ordered-list-marker
+
+# processing-instruction
+https://spec.commonmark.org/0.31.2#processing-instruction
 
 # reference-link
 https://spec.commonmark.org/0.31.2#reference-link
