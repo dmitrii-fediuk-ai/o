@@ -15,6 +15,9 @@ https://spec.commonmark.org/0.31.2#attribute
 # attribute-name
 https://spec.commonmark.org/0.31.2#attribute-name
 
+# attribute-value-specification
+https://spec.commonmark.org/0.31.2#attribute-value-specification
+
 # atx-heading
 https://spec.commonmark.org/0.31.2#atx-heading
 
