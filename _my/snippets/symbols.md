@@ -401,7 +401,7 @@ https://en.wikipedia.org/wiki/Lao_(Unicode_block)
 ເ	ແ	ໂ	ໃ	ໄ	ໆ	້	໊	໋	໌	ໍ	
 ໐	໑	໒	໓	໔	໕	໖	໗	໘	໙	ໜ	ໝ	ໞ	ໟ
 
-#
+# Latin Extended Additional
 https://en.wikipedia.org/wiki/Latin_Extended_Additional
 Ḁ	ḁ	Ḃ	ḃ	Ḅ	ḅ	Ḇ	ḇ	Ḉ	ḉ	Ḋ	ḋ	Ḍ	ḍ	Ḏ	ḏ
 Ḑ	ḑ	Ḓ	ḓ	Ḕ	ḕ	Ḗ	ḗ	Ḙ	ḙ	Ḛ	ḛ	Ḝ	ḝ	Ḟ	ḟ
