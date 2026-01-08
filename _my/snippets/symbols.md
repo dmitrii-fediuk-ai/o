@@ -519,8 +519,7 @@ https://en.wikipedia.org/wiki/General_Punctuation
 ⁀	⁁	⁂	⁃	⁄	⁅	⁆	⁇	⁈	⁉	⁊	⁋	⁌	⁍	⁎	⁏
 ⁐	⁑	⁒	⁓	⁔	⁕	⁖	⁗	⁘	⁙	⁚	⁛	⁜	⁝	⁞
 
-
-#
+# Geometric Shapes
 https://en.wikipedia.org/wiki/Geometric_Shapes_(Unicode_block)
 ■	□	▢	▣	▤	▥	▦	▧	▨	▩	▪	▫	▬	▭	▮	▯
 ▰	▱	▲	△	▴	▵	▶	▷	▸	▹	►	▻	▼	▽	▾	▿
@@ -529,7 +528,7 @@ https://en.wikipedia.org/wiki/Geometric_Shapes_(Unicode_block)
 ◠	◡	◢	◣	◤	◥	◦	◧	◨	◩	◪	◫	◬	◭	◮	◯
 ◰	◱	◲	◳	◴	◵	◶	◷	◸	◹	◺	◻	◼	◽	◾	◿
 
-# 
+# Geometric Shapes Extended
 https://en.wikipedia.org/wiki/Geometric_Shapes_Extended
 🞀	🞁	🞂	🞃	🞄	🞅	🞇	🞉	🞌	🞍
 🞑	🞒	🞓	🞔	🞕	🞖	🞗	🞘	🞚	🞛	🞜	🞝	🞞
