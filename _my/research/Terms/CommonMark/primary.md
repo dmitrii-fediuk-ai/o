@@ -84,6 +84,9 @@ https://spec.commonmark.org/0.31.2#emphasis-and-strong-emphasis
 # end-condition
 https://spec.commonmark.org/0.31.2#end-condition
 
+# entity-and-numeric-character-references
+https://spec.commonmark.org/0.31.2#entity-and-numeric-character-references
+
 # entity-references
 https://spec.commonmark.org/0.31.2#entity-references
 
@@ -233,6 +236,9 @@ https://spec.commonmark.org/0.31.2#start-number
 
 # tab
 https://spec.commonmark.org/0.31.2#tab
+
+# tabs
+https://spec.commonmark.org/0.31.2#tabs
 
 # tag-name
 https://spec.commonmark.org/0.31.2#tag-name
