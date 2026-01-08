@@ -662,7 +662,7 @@ https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
 ፠	፡	።	፣	፤	፥	፦	፧	፨	፩	፪	፫	፬	፭	፮	፯
 ፰	፱	፲	፳	፴	፵	፶	፷	፸	፹	፺	፻	፼		
 
-#
+# Ethiopic Extended
 https://en.wikipedia.org/wiki/Ethiopic_Extended
 ⶀ	ⶁ	ⶂ	ⶃ	ⶄ	ⶅ	ⶆ	ⶇ	ⶈ	ⶉ	ⶊ	ⶋ	ⶌ	ⶍ	ⶎ	ⶏ
 ⶐ	ⶑ	ⶒ	ⶓ	ⶔ	ⶕ	ⶖ									
