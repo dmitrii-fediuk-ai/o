@@ -78,6 +78,9 @@ https://spec.commonmark.org/0.31.2#declaration
 # double-quoted-attribute-value
 https://spec.commonmark.org/0.31.2#double-quoted-attribute-value
 
+# emphasis-and-strong-emphasis
+https://spec.commonmark.org/0.31.2#emphasis-and-strong-emphasis
+
 # end-condition
 https://spec.commonmark.org/0.31.2#end-condition
 
