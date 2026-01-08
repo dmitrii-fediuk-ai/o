@@ -356,7 +356,7 @@ https://en.wikipedia.org/wiki/IPA_Extensions
 ʐ	ʑ	ʒ	ʓ	ʔ	ʕ	ʖ	ʗ	ʘ	ʙ	ʚ	ʛ	ʜ	ʝ	ʞ	ʟ
 ʠ	ʡ	ʢ	ʣ	ʤ	ʥ	ʦ	ʧ	ʨ	ʩ	ʪ	ʫ	ʬ	ʭ	ʮ	ʯ
 
-#
+# Kanbun
 https://en.wikipedia.org/wiki/Kanbun_(Unicode_block)
 ㆐	㆑	㆒	㆓	㆔	㆕	㆖	㆗	㆘	㆙	㆚	㆛	㆜	㆝	㆞	㆟
 
