@@ -69,6 +69,9 @@ https://spec.commonmark.org/0.31.2#code-fence
 # code-span
 https://spec.commonmark.org/0.31.2#code-span
 
+# code-spans
+https://spec.commonmark.org/0.31.2#code-spans
+
 # container-blocks
 https://spec.commonmark.org/0.31.2#container-blocks
 
@@ -149,6 +152,9 @@ https://spec.commonmark.org/0.31.2#info-string
 
 # inline
 https://spec.commonmark.org/0.31.2#inline
+
+# inlines
+https://spec.commonmark.org/0.31.2#inlines
 
 # lazy-continuation-line
 https://spec.commonmark.org/0.31.2#lazy-continuation-line
