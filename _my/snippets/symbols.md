@@ -222,11 +222,6 @@ https://en.wikipedia.org/wiki/Deseret_(Unicode_block)
 𐐰	𐐱	𐐲	𐐳	𐐴	𐐵	𐐶	𐐷	𐐸	𐐹	𐐺	𐐻	𐐼	𐐽	𐐾	𐐿
 𐑀	𐑁	𐑂	𐑃	𐑄	𐑅	𐑆	𐑇	𐑈	𐑉	𐑊	𐑋	𐑌	𐑍	𐑎	𐑏
 
-# ⁎
-https://gemini.google.com/share/2cfdc9bababc
-https://gemini.google.com/share/7c1c9904b752
-⁎ † ‡ ⁑ ⁂ ※
-
 # ⵣ
 https://gemini.google.com/share/87d78c3112a1
 ⴰ ⴱ ⴳ ⴳⵯ ⴷ ⴹ ⴻ ⴼ ⴽ ⴽⵯ ⵀ ⵃ ⵄ ⵅ ⵇ ⵉ ⵊ ⵍ ⵎ ⵏ ⵓ ⵔ ⵕ ⵖ ⵙ ⵚ ⵛ ⵜ ⵟ ⵡ ⵢ ⵣ ⵥ
