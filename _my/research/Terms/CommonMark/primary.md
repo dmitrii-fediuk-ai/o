@@ -84,6 +84,9 @@ https://spec.commonmark.org/0.31.2#decimal-numeric-character-references
 # declaration
 https://spec.commonmark.org/0.31.2#declaration
 
+# delimiter-run
+https://spec.commonmark.org/0.31.2#delimiter-run
+
 # double-quoted-attribute-value
 https://spec.commonmark.org/0.31.2#double-quoted-attribute-value
 
