@@ -24,6 +24,9 @@ https://spec.commonmark.org/0.31.2#blocks
 # bullet-list-marker
 https://spec.commonmark.org/0.31.2#bullet-list-marker
 
+# character
+https://spec.commonmark.org/0.31.2#character
+
 # code-fence
 https://spec.commonmark.org/0.31.2#code-fence
 
