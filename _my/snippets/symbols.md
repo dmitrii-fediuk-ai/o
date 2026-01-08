@@ -392,7 +392,7 @@ https://en.wikipedia.org/wiki/Khmer_Symbols
 ᧠	᧡	᧢	᧣	᧤	᧥	᧦	᧧	᧨	᧩	᧪	᧫	᧬	᧭	᧮	᧯
 ᧰	᧱	᧲	᧳	᧴	᧵	᧶	᧷	᧸	᧹	᧺	᧻	᧼	᧽	᧾	᧿
 
-#
+# Lao
 https://en.wikipedia.org/wiki/Lao_(Unicode_block)
 ກ	ຂ	ຄ	ງ	ຈ	ຊ	ຍ
 ດ	ຕ	ຖ	ທ	ນ	ບ	ປ	ຜ	ຝ	ພ	ຟ
