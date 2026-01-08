@@ -111,6 +111,9 @@ https://spec.commonmark.org/0.31.2#list-marker
 # lists
 https://spec.commonmark.org/0.31.2#lists
 
+# open-tag
+https://spec.commonmark.org/0.31.2#open-tag
+
 # ordered-list-marker
 https://spec.commonmark.org/0.31.2#ordered-list-marker
 
