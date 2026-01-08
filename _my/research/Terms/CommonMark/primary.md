@@ -27,6 +27,9 @@ https://spec.commonmark.org/0.31.2#atx-heading
 # atx-headings
 https://spec.commonmark.org/0.31.2#atx-headings
 
+# autolinks
+https://spec.commonmark.org/0.31.2#autolinks
+
 # backtick-string
 https://spec.commonmark.org/0.31.2#backtick-string
 
