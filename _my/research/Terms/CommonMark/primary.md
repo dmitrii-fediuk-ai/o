@@ -98,3 +98,6 @@ https://spec.commonmark.org/0.31.2#thematic-break
 
 # thematic-breaks
 https://spec.commonmark.org/0.31.2#thematic-breaks
+
+# unicode-whitespace-character
+https://spec.commonmark.org/0.31.2#unicode-whitespace-character
