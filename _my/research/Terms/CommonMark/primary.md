@@ -69,6 +69,9 @@ https://spec.commonmark.org/0.31.2#indented-code-block
 # indented-chunk
 https://spec.commonmark.org/0.31.2#indented-chunk
 
+# inline-link
+https://spec.commonmark.org/0.31.2#inline-link
+
 # info-string
 https://spec.commonmark.org/0.31.2#info-string
 
@@ -83,6 +86,9 @@ https://spec.commonmark.org/0.31.2#leaf-blocks
 
 # line
 https://spec.commonmark.org/0.31.2#line
+
+# link-destination
+https://spec.commonmark.org/0.31.2#link-destination
 
 # line-ending
 https://spec.commonmark.org/0.31.2#line-ending
@@ -104,6 +110,9 @@ https://spec.commonmark.org/0.31.2#lists
 
 # ordered-list-marker
 https://spec.commonmark.org/0.31.2#ordered-list-marker
+
+# reference-link
+https://spec.commonmark.org/0.31.2#reference-link
 
 # setext-heading
 https://spec.commonmark.org/0.31.2#setext-heading
