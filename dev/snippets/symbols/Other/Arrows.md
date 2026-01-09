@@ -16,6 +16,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Supplemental_Arrows-A
 
 ## Supplemental B
 https://en.wikipedia.org/wiki/Supplemental_Arrows-B
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Supplemental_Arrows-B
 ⤀	⤁	⤂	⤃	⤄	⤅	⤆	⤇	⤈	⤉	⤊	⤋	⤌	⤍	⤎	⤏
 ⤐	⤑	⤒	⤓	⤔	⤕	⤖	⤗	⤘	⤙	⤚	⤛	⤜	⤝	⤞	⤟
 ⤠	⤡	⤢	⤣	⤤	⤥	⤦	⤧	⤨	⤩	⤪	⤫	⤬	⤭	⤮	⤯
