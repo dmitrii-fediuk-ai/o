@@ -53,6 +53,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Halfwidth_and_Fullwidth_For
 
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Letterlike_Symbols
 ℀	℁	ℂ	℃	℄	℅	℆	ℇ	℈	℉	ℊ	ℋ	ℌ	ℍ	ℎ	ℏ
 ℐ	ℑ	ℒ	ℓ	℔	ℕ	№	℗	℘	ℙ	ℚ	ℛ	ℜ	ℝ	℞	℟
 ℠	℡	™	℣	ℤ	℥	Ω	℧	ℨ	℩	K	Å	ℬ	ℭ	℮	ℯ
