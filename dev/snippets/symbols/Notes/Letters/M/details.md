@@ -202,6 +202,11 @@ https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
 https://en.wikipedia.org/wiki/German_mark_(1871)
 
+# IPA Extensions
+https://en.wikipedia.org/wiki/IPA_Extensions
+https://en.wikipedia.org/wiki/Template:Unicode_chart_IPA_Extensions
+ɱ	ʍ
+
 # Phonetic_Extensions
 https://en.wikipedia.org/wiki/Phonetic_Extensions
 ᴍ
