@@ -235,6 +235,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic_Supplement
 
 # Georgian
 https://en.wikipedia.org/wiki/Georgian_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Georgian
 Ⴀ	Ⴁ	Ⴂ	Ⴃ	Ⴄ	Ⴅ	Ⴆ	Ⴇ	Ⴈ	Ⴉ	Ⴊ	Ⴋ	Ⴌ	Ⴍ	Ⴎ	Ⴏ
 Ⴐ	Ⴑ	Ⴒ	Ⴓ	Ⴔ	Ⴕ	Ⴖ	Ⴗ	Ⴘ	Ⴙ	Ⴚ	Ⴛ	Ⴜ	Ⴝ	Ⴞ	Ⴟ
 Ⴠ	Ⴡ	Ⴢ	Ⴣ	Ⴤ	Ⴥ	Ⴧ	Ⴭ		
