@@ -34,4 +34,11 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_CJK_Radicals_Supplement
 ⻀	⻁	⻂	⻃	⻄	⻅	⻆	⻇	⻈	⻉	⻊	⻋	⻌	⻍	⻎	⻏
 ⻐	⻑	⻒	⻓	⻔	⻕	⻖	⻗	⻘	⻙	⻚	⻛	⻜	⻝	⻞	⻟
 ⻠	⻡	⻢	⻣	⻤	⻥	⻦	⻧	⻨	⻩	⻪	⻫	⻬	⻭	⻮	⻯
-⻰	⻱	⻲	⻳												
+⻰	⻱	⻲	⻳					
+
+# Strokes
+https://en.wikipedia.org/wiki/CJK_Strokes_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_CJK_Strokes
+㇀	㇁	㇂	㇃	㇄	㇅	㇆	㇇	㇈	㇉	㇊	㇋	㇌	㇍	㇎	㇏
+㇐	㇑	㇒	㇓	㇔	㇕	㇖	㇗	㇘	㇙	㇚	㇛	㇜	㇝	㇞	㇟
+㇠	㇡	㇢	㇣	㇤	㇥
