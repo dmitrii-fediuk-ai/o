@@ -813,6 +813,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Vai
 
 # Yijing Hexagram Symbols
 https://en.wikipedia.org/wiki/Yijing_Hexagram_Symbols
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Yijing_Hexagram_Symbols
 ䷀	䷁	䷂	䷃	䷄	䷅	䷆	䷇	䷈	䷉	䷊	䷋	䷌	䷍	䷎	䷏
 ䷐	䷑	䷒	䷓	䷔	䷕	䷖	䷗	䷘	䷙	䷚	䷛	䷜	䷝	䷞	䷟
 ䷠	䷡	䷢	䷣	䷤	䷥	䷦	䷧	䷨	䷩	䷪	䷫	䷬	䷭	䷮	䷯
