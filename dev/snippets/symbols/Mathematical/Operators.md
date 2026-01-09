@@ -1,5 +1,6 @@
 # Operators
 https://en.wikipedia.org/wiki/Mathematical_Operators_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Mathematical_Operators
 
 ∀	∁	∂	∃	∄	∅	∆	∇	∈	∉	∊	∋	∌	∍	∎	∏
 ∐	∑	−	∓	∔	∕	∖	∗	∘	∙	√	∛	∜	∝	∞	∟
