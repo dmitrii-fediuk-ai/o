@@ -358,6 +358,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Inscriptional_Pahlavi
 
 # Inscriptional Parthian
 https://en.wikipedia.org/wiki/Inscriptional_Parthian_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Inscriptional_Parthian
 𐭀	𐭁	𐭂	𐭃	𐭄	𐭅	𐭆	𐭇	𐭈	𐭉	𐭊	𐭋	𐭌	𐭍	𐭎	𐭏
 𐭐	𐭑	𐭒	𐭓	𐭔	𐭕	𐭘	𐭙	𐭚	𐭛	𐭜	𐭝	𐭞	𐭟
 
