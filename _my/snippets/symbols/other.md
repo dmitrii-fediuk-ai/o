@@ -536,6 +536,7 @@ https://en.wikipedia.org/wiki/New_Tai_Lue_(Unicode_block)
 ᧐	᧑	᧒	᧓	᧔	᧕	᧖	᧗	᧘	᧙	᧚	᧞	᧟
 
 # NKo
+https://en.wikipedia.org/wiki/NKo_(Unicode_block)
 ߀	߁	߂	߃	߄	߅	߆	߇	߈	߉	ߊ	ߋ	ߌ	ߍ	ߎ	ߏ
 ߐ	ߑ	ߒ	ߓ	ߔ	ߕ	ߖ	ߗ	ߘ	ߙ	ߚ	ߛ	ߜ	ߝ	ߞ	ߟ
 ߠ	ߡ	ߢ	ߣ	ߤ	ߥ	ߦ	ߧ	ߨ	ߩ	ߪ
