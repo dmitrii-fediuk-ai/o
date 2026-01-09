@@ -73,4 +73,4 @@ https://en.wikipedia.org/wiki/Ornamental_Dingbats
 # Small Form Variants
 https://en.wikipedia.org/wiki/Small_Form_Variants
 ﹐	﹑	﹒		﹔	﹕	﹖	﹗	﹘	﹙	﹚	﹛	﹜	﹝	﹞	﹟
-﹠	﹡	﹢	﹣	﹤	﹥	﹦		﹨	﹩	﹪	﹫
+﹠	﹡	﹢	﹣	﹤	﹥	﹦	﹨	﹩	﹪	﹫
