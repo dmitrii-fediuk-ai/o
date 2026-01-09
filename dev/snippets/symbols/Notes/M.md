@@ -107,6 +107,11 @@ https://en.wikipedia.org/wiki/Malayalam_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Malayalam
 ന	ഩ	൩	൱
 
+# Myanmar
+https://en.wikipedia.org/wiki/Myanmar_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Myanmar
+က
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
