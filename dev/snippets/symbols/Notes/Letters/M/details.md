@@ -176,6 +176,22 @@ https://en.wikipedia.org/wiki/Latin_Extended-D
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-D
 ꝳ
 
+# Latin Extended-E
+https://en.wikipedia.org/wiki/Latin_Extended-E
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-E
+ꬺ
+
+# Mathematical_Alphanumeric_Symbols#Latin_letters
+https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Latin_letters
+M	𝐌	𝑀	𝑴	𝖬	𝗠	𝘔	𝙈	ℳ	𝓜	𝔐	𝕸	𝙼	𝕄
+
+# Mathematical_Alphanumeric_Symbols#Greek_letters_and_symbols
+https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Greek_letters_and_symbols
+Μ	𝚳	𝛭	𝜧	𝝡	𝞛
+
+# Mathematical_Alphanumeric_Symbols#Glyph_variants
+ℳ	ℳ︀	ℳ︁
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
@@ -189,21 +205,7 @@ https://en.wikipedia.org/wiki/Phonetic_Extensions
 https://en.wikipedia.org/wiki/Phonetic_Extensions_Supplement
 ᶆ
 
-# Mathematical_Alphanumeric_Symbols#Latin_letters
-https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Latin_letters
-M	𝐌	𝑀	𝑴	𝖬	𝗠	𝘔	𝙈	ℳ	𝓜	𝔐	𝕸	𝙼	𝕄
 
-# Mathematical_Alphanumeric_Symbols#Greek_letters_and_symbols
-https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Greek_letters_and_symbols
-Μ	𝚳	𝛭	𝜧	𝝡	𝞛
-
-# Mathematical_Alphanumeric_Symbols#Glyph_variants
-ℳ	ℳ︀	ℳ︁
-
-
-# Latin Extended-C
-https://en.wikipedia.org/wiki/Latin_Extended-C
-Ɱ
 
 
 

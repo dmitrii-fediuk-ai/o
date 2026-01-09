@@ -1,7 +1,6 @@
 # Alphabetic_Presentation_Forms
 https://en.wikipedia.org/wiki/Alphabetic_Presentation_Forms
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Alphabetic_Presentation_Forms
-
 ﬀ	ﬁ	ﬂ	ﬃ	ﬄ	ﬅ	ﬆ									
 ﬓ	ﬔ	ﬕ	ﬖ	ﬗ	יִ	ﬞ 	ײַ
 ﬠ	ﬡ	ﬢ	ﬣ	ﬤ	ﬥ	ﬦ	ﬧ	ﬨ	﬩	שׁ	שׂ	שּׁ	שּׂ	אַ	אָ
