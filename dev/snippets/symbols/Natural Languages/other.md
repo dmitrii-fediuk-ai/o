@@ -397,8 +397,9 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Khmer
 ០	១	២	៣	៤	៥	៦	៧	៨	៩						
 ៰	៱	៲	៳	៴	៵	៶	៷	៸	៹
 
-# Khmer Symbols
+## Symbols
 https://en.wikipedia.org/wiki/Khmer_Symbols
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Khmer_Symbols
 ᧠	᧡	᧢	᧣	᧤	᧥	᧦	᧧	᧨	᧩	᧪	᧫	᧬	᧭	᧮	᧯
 ᧰	᧱	᧲	᧳	᧴	᧵	᧶	᧷	᧸	᧹	᧺	᧻	᧼	᧽	᧾	᧿
 
