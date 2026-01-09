@@ -596,11 +596,14 @@ https://en.wikipedia.org/wiki/Phoenician_(Unicode_block)
 𐤀	𐤁	𐤂	𐤃	𐤄	𐤅	𐤆	𐤇	𐤈	𐤉	𐤊	𐤋	𐤌	𐤍	𐤎	𐤏
 𐤐	𐤑	𐤒	𐤓	𐤔	𐤕	𐤖	𐤗	𐤘	𐤙	𐤚	𐤛				𐤟
 
-# ᛡ
-https://gemini.google.com/share/0dde63bbb812
-ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 
-ᛒ ᛓ ᛔ ᛕ ᛖ ᛗ ᛘ ᛙ ᛚ ᛛ ᛜ ᛝ ᛞ ᛟ ᛠ ᛡ ᛢ ᛣ ᛤ ᛥ ᛦ ᛧ ᛨ ᛩ ᛪ ᛫ ᛬ ᛭ ᛮ ᛯ ᛰ
-ᚠ ᚢ ᚦ ᚩ ᚱ ᚳ ᚷ ᚹ ᚻ ᚾ ᛁ ᛄ ᛇ ᛈ ᛉ ᛋ ᛏ ᛒ ᛖ ᛗ ᛚ ᛝ ᛟ ᛞ ᚪ ᚫ ᚣ ᛡ ᛠ ᛢ ᛣ ᛥ ᚸ
+# Runic
+https://en.wikipedia.org/wiki/Runic_(Unicode_block)
+ᚠ	ᚡ	ᚢ	ᚣ	ᚤ	ᚥ	ᚦ	ᚧ	ᚨ	ᚩ	ᚪ	ᚫ	ᚬ	ᚭ	ᚮ	ᚯ
+ᚰ	ᚱ	ᚲ	ᚳ	ᚴ	ᚵ	ᚶ	ᚷ	ᚸ	ᚹ	ᚺ	ᚻ	ᚼ	ᚽ	ᚾ	ᚿ
+ᛀ	ᛁ	ᛂ	ᛃ	ᛄ	ᛅ	ᛆ	ᛇ	ᛈ	ᛉ	ᛊ	ᛋ	ᛌ	ᛍ	ᛎ	ᛏ
+ᛐ	ᛑ	ᛒ	ᛓ	ᛔ	ᛕ	ᛖ	ᛗ	ᛘ	ᛙ	ᛚ	ᛛ	ᛜ	ᛝ	ᛞ	ᛟ
+ᛠ	ᛡ	ᛢ	ᛣ	ᛤ	ᛥ	ᛦ	ᛧ	ᛨ	ᛩ	ᛪ	᛫	᛬	᛭	ᛮ	ᛯ
+ᛰ
 
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
