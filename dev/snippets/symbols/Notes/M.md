@@ -87,6 +87,11 @@ https://en.wikipedia.org/wiki/Lao_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Lao
 ຕ
 
+# Lisu
+https://en.wikipedia.org/wiki/Lisu_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Lisu
+ꓟ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
