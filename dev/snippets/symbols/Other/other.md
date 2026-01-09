@@ -10,6 +10,11 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Alchemical_Symbols
 🝠	🝡	🝢	🝣	🝤	🝥	🝦	🝧	🝨	🝩	🝪	🝫	🝬	🝭	🝮	🝯
 🝰	🝱	🝲	🝳
 
+# Common Indic Number Forms
+https://en.wikipedia.org/wiki/Common_Indic_Number_Forms
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Common_Indic_Number_Forms
+꠰	꠱	꠲	꠳	꠴	꠵	꠶	꠷	꠸	꠹
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℀	℁	ℂ	℃	℄	℅	℆	ℇ	℈	℉	ℊ	ℋ	ℌ	ℍ	ℎ	ℏ
