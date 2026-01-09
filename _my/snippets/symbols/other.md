@@ -542,6 +542,12 @@ https://en.wikipedia.org/wiki/NKo_(Unicode_block)
 ߠ	ߡ	ߢ	ߣ	ߤ	ߥ	ߦ	ߧ	ߨ	ߩ	ߪ
 ߴ	ߵ	߶	߷	߸	߹	ߺ	߾	߿
 
+# Ogham
+https://en.wikipedia.org/wiki/Ogham_(Unicode_block)
+ 	ᚁ	ᚂ	ᚃ	ᚄ	ᚅ	ᚆ	ᚇ	ᚈ	ᚉ	ᚊ	ᚋ	ᚌ	ᚍ	ᚎ	ᚏ
+ᚐ	ᚑ	ᚒ	ᚓ	ᚔ	ᚕ	ᚖ	ᚗ	ᚘ	ᚙ	ᚚ	᚛	᚜
+
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 
@@ -555,10 +561,6 @@ https://gemini.google.com/share/e85e11e11e7c
 # ⸙
 ⸀ ⸁ ⸂ ⸃ ⸄ ⸅ ⸆ ⸇ ⸈ ⸉ ⸊ ⸋ ⸌ ⸍ ⸎ ⸒ ⸓ ⸔ ⸕ ⸖ ⸗ ⸘ ⸙ ⸚ ⸛ ⸜ ⸝ ⸞ ⸟ ⸠ ⸡ ⸢ ⸣ ⸤ ⸥ ⸦ ⸧ 
 ⸪ ⸫ ⸬ ⸭ ⸮ ⸯ ⸰ ⸱ ⸲ ⸳ ⸴ ⸵ ⸶ ⸷ ⸸ ⸹ ⸼ ⸽ ⸾ ⸿ ⹀ ⹁ ⹂ ⹃ ⹄ 
-
-# ᚖ
-https://gemini.google.com/share/271daa5f21d9
-  ᚁ ᚂ ᚃ ᚄ ᚅ ᚆ ᚇ ᚈ ᚉ ᚊ ᚋ ᚌ ᚍ ᚎ ᚏ ᚐ ᚑ ᚒ ᚓ ᚔ ᚕ ᚖ ᚗ ᚘ ᚙ ᚚ ᚛ ᚜
 
 # ⫳
 https://gemini.google.com/share/756378d76558
