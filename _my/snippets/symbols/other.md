@@ -503,6 +503,11 @@ https://en.wikipedia.org/wiki/Meetei_Mayek_(Unicode_block)
 ꯠ	ꯡ	ꯢ	꯫	
 ꯰	꯱	꯲	꯳	꯴	꯵	꯶	꯷	꯸	꯹
 
+# Meroitic Cursive
+https://en.wikipedia.org/wiki/Meroitic_Cursive_(Unicode_block)
+𐦠	𐦡	𐦢	𐦣	𐦤	𐦥	𐦦	𐦧	𐦨	𐦩	𐦪	𐦫	𐦬	𐦭	𐦮	𐦯
+𐦰	𐦱	𐦲	𐦳	𐦴	𐦵	𐦶	𐦷	𐦾	𐦿
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 
