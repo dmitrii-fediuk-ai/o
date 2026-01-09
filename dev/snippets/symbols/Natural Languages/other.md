@@ -378,6 +378,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Kannada
 
 # Kharoshthi
 https://en.wikipedia.org/wiki/Kharoshthi_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Kharoshthi
 𐨀	 𐨁	 𐨂	 𐨃	 𐨅	 𐨆	 𐨌	 𐨍	 𐨎	 𐨏
 𐨐	𐨑	𐨒	𐨓	𐨕	𐨖	𐨗	𐨙	𐨚	𐨛	𐨜	𐨝	𐨞	𐨟
 𐨠	𐨡	𐨢	𐨣	𐨤	𐨥	𐨦	𐨧	𐨨	𐨩	𐨪	𐨫	𐨬	𐨭	𐨮	𐨯
@@ -387,6 +388,7 @@ https://en.wikipedia.org/wiki/Kharoshthi_(Unicode_block)
 
 # Khmer
 https://en.wikipedia.org/wiki/Khmer_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Khmer
 ក	ខ	គ	ឃ	ង	ច	ឆ	ជ	ឈ	ញ	ដ	ឋ	ឌ	ឍ	ណ	ត
 ថ	ទ	ធ	ន	ប	ផ	ព	ភ	ម	យ	រ	ល	វ	ឝ	ឞ	ស
 ហ	ឡ	អ	ឣ	ឤ	ឥ	ឦ	ឧ	ឨ	ឩ	ឪ	ឫ	ឬ	ឭ	ឮ	ឯ
