@@ -32,6 +32,25 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Domino_Tiles
 🂀	🂁	🂂	🂃	🂄	🂅	🂆	🂇	🂈	🂉	🂊	🂋	🂌	🂍	🂎	🂏
 🂐	🂑	🂒	🂓
 
+# Halfwidth and Fullwidth Forms
+https://en.wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Halfwidth_and_Fullwidth_Forms
+！	＂	＃	＄	％	＆	＇	（	）	＊	＋	，	－	．	／
+０	１	２	３	４	５	６	７	８	９	：	；	＜	＝	＞	？
+＠	Ａ	Ｂ	Ｃ	Ｄ	Ｅ	Ｆ	Ｇ	Ｈ	Ｉ	Ｊ	Ｋ	Ｌ	Ｍ	Ｎ	Ｏ
+Ｐ	Ｑ	Ｒ	Ｓ	Ｔ	Ｕ	Ｖ	Ｗ	Ｘ	Ｙ	Ｚ	［	＼	］	＾	＿
+｀	ａ	ｂ	ｃ	ｄ	ｅ	ｆ	ｇ	ｈ	ｉ	ｊ	ｋ	ｌ	ｍ	ｎ	ｏ
+ｐ	ｑ	ｒ	ｓ	ｔ	ｕ	ｖ	ｗ	ｘ	ｙ	ｚ	｛	｜	｝	～	｟
+｠	｡	｢	｣	､	･	ｦ	ｧ	ｨ	ｩ	ｪ	ｫ	ｬ	ｭ	ｮ	ｯ
+ｰ	ｱ	ｲ	ｳ	ｴ	ｵ	ｶ	ｷ	ｸ	ｹ	ｺ	ｻ	ｼ	ｽ	ｾ	ｿ
+ﾀ	ﾁ	ﾂ	ﾃ	ﾄ	ﾅ	ﾆ	ﾇ	ﾈ	ﾉ	ﾊ	ﾋ	ﾌ	ﾍ	ﾎ	ﾏ
+ﾐ	ﾑ	ﾒ	ﾓ	ﾔ	ﾕ	ﾖ	ﾗ	ﾘ	ﾙ	ﾚ	ﾛ	ﾜ	ﾝ	ﾞ	ﾟ
+ﾡ	ﾢ	ﾣ	ﾤ	ﾥ	ﾦ	ﾧ	ﾨ	ﾩ	ﾪ	ﾫ	ﾬ	ﾭ	ﾮ	ﾯ	
+ﾰ	ﾱ	ﾲ	ﾳ	ﾴ	ﾵ	ﾶ	ﾷ	ﾸ	ﾹ	ﾺ	ﾻ	ﾼ	ﾽ	ﾾ	
+ￂ	ￃ	ￄ	ￅ	ￆ	ￇ	ￊ	ￋ	ￌ	ￍ	ￎ	ￏ
+ￒ	ￓ	ￔ	ￕ	ￖ	ￗ	ￚ	ￛ	ￜ			
+￠	￡	￢	￣	￤	￥	￦		￨	￩	￪	￫	￬	￭	￮
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℀	℁	ℂ	℃	℄	℅	℆	ℇ	℈	℉	ℊ	ℋ	ℌ	ℍ	ℎ	ℏ
