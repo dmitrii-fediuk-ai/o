@@ -655,6 +655,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Syriac
 
 # Tai Le
 https://en.wikipedia.org/wiki/Tai_Le_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Tai_Le
 ᥐ	ᥑ	ᥒ	ᥓ	ᥔ	ᥕ	ᥖ	ᥗ	ᥘ	ᥙ	ᥚ	ᥛ	ᥜ	ᥝ	ᥞ	ᥟ
 ᥠ	ᥡ	ᥢ	ᥣ	ᥤ	ᥥ	ᥦ	ᥧ	ᥨ	ᥩ	ᥪ	ᥫ	ᥬ	ᥭ		
 ᥰ	ᥱ	ᥲ	ᥳ	ᥴ
