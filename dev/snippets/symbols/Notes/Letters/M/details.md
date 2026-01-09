@@ -142,6 +142,16 @@ https://en.wikipedia.org/wiki/Phags-pa_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Phags-pa
 ꡕ
 
+# Phoenician
+https://en.wikipedia.org/wiki/Phoenician_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Phoenician
+𐤌
+
+# Runic
+https://en.wikipedia.org/wiki/Runic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Runic
+ᛖ	ᛗ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
