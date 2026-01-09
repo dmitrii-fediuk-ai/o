@@ -708,6 +708,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Thai
 
 # Tibetan
 https://en.wikipedia.org/wiki/Tibetan_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Tibetan
 ༀ	༁	༂	༃	༄	༅	༆	༇	༈	༉	༊།	༎	༏													
 ༐	༑	༒	༓	༔	༕	༖	༗	༘	༙	༚	༛	༜	༝	༞	༟
 ༠	༡	༢	༣	༤	༥	༦	༧	༨	༩	༪	༫	༬	༭	༮	༯
