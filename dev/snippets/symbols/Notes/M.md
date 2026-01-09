@@ -1,3 +1,7 @@
+# Adlam
+https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
+𞤶
+
 # Carian
 https://en.wikipedia.org/wiki/Carian_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Carian
@@ -28,6 +32,30 @@ https://en.wikipedia.org/wiki/Cyrillic_Extended-B
 https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
 ጠ	ጡ	ጢ	ጣ	ጤ	ጥ	ጦ	ጧ
 
+## Extended
+https://en.wikipedia.org/wiki/Ethiopic_Extended
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic_Extended
+ⶸ	ⶹ	ⶺ	ⶻ	ⶼ	ⶽ	ⶾ	
+
+## Extended-A
+https://en.wikipedia.org/wiki/Ethiopic_Extended-A
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic_Extended-A	
+ꬠ	ꬡ	ꬢ	ꬣ	ꬤ	ꬥ	ꬦ
+
+# Glagolitic
+https://en.wikipedia.org/wiki/Glagolitic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Glagolitic 
+Ⰼ	Ⱞ
+
+# Gothic
+https://en.wikipedia.org/wiki/Gothic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Gothic
+𐌼
+
+# Greek and Coptic
+https://en.wikipedia.org/wiki/Greek_and_Coptic
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Greek_and_Coptic
+Μ	Ϻ
 
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
@@ -60,10 +88,6 @@ https://en.wikipedia.org/wiki/Latin_Extended_Additional
 # Latin Extended-C
 https://en.wikipedia.org/wiki/Latin_Extended-C
 Ɱ
-
-# Adlam
-https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
-𞤶
 
 
 
