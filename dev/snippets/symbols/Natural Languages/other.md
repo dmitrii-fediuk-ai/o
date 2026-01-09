@@ -647,6 +647,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Sora_Sompeng
 
 # Syriac
 https://en.wikipedia.org/wiki/Syriac_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Syriac
 ܀	܁	܂	܃	܄	܅	܆	܇	܈	܉	܊	܋	܌	܍
 ܐ	ܒ	ܓ	ܔ	ܕ	ܖ	ܗ	ܘ	ܙ	ܚ	ܛ	ܜ	ܝ	ܞ	ܟ
 ܠ	ܡ	ܢ	ܣ	ܤ	ܥ	ܦ	ܧ	ܨ	ܩ	ܪ	ܫ	ܬ	ܭ	ܮ	ܯ
