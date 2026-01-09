@@ -93,6 +93,7 @@ https://en.wikipedia.org/wiki/Latin_Extended-E
 
 # Latin-1 Supplement
 https://en.wikipedia.org/wiki/Latin-1_Supplement
+https://en.wikipedia.org/wiki/Template:Unicode_chart_C1_Controls_and_Latin-1_Supplement
 ¡	¢	£	¤	¥	¦	§	¨	©	ª	«	¬	®	¯
 °	±	²	³	´	µ	¶	·	¸	¹	º	»	¼	½	¾	¿
 À	Á	Â	Ã	Ä	Å	Æ	Ç	È	É	Ê	Ë	Ì	Í	Î	Ï
