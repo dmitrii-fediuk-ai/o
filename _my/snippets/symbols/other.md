@@ -56,25 +56,6 @@ https://en.wikipedia.org/wiki/Phags-pa_(Unicode_block)
 ꡰ	ꡱ	ꡲ	ꡳ	꡴	꡵	꡶	꡷
 ꡖ	ꡖ︀	ꡜ	ꡜ︀	ꡞ	ꡞ︀	ꡟ	ꡟ︀	ꡠ	ꡠ︀	ꡨ	ꡨ︀
 
-# Miscellaneous Symbols
-https://en.wikipedia.org/wiki/Miscellaneous_Symbols
-☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏
-☐	☑	☒	☓	☖	☗	☘	☙	☚	☛	☜	☝	☞	☟
-☠	☡	☢	☣	☤	☥	☦	☧	☨	☩	☪	☫	☬	☭	☮	☯
-☰	☱	☲	☳	☴	☵	☶	☷	☸	☹	☺	☻	☼	☽	☾	☿
-♀	♁	♂	♃	♄	♅	♆	♇	
-♔	♕	♖	♗	♘	♙	♚	♛	♜	♝	♞	♟
-♠	♡	♢	♣	♤	♥	♦	♧	♨	♩	♪	♫	♬	♭	♮	♯
-♰	♱	♲	♳	♴	♵	♶	♷	♸	♹	♺	♻	♼	♽	♾	
-⚀	⚁	⚂	⚃	⚄	⚅	⚆	⚇	⚈	⚉	⚊	⚋	⚌	⚍	⚎	⚏
-⚐	⚑	⚒	⚓	⚔	⚕	⚖	⚗	⚘	⚙	⚚	⚛	⚜	⚝	⚞	⚟
-⚠	⚢	⚣	⚤	⚥	⚦	⚧	⚨	⚩	⚪	⚫	⚬	⚭	⚮	⚯
-⚰	⚱	⚲	⚳	⚴	⚵	⚶	⚷	⚸	⚹	⚺	⚻	⚼	⚽	⚿
-⛀	⛁	⛂	⛃	⛆	⛇	⛈	⛉	⛊	⛋	⛌	⛍	⛏
-⛐	⛑	⛒	⛓	⛕	⛖	⛗	⛘	⛙	⛚	⛛	⛜	⛝	⛞	⛟
-⛠	⛡	⛢	⛣	⛤	⛥	⛦	⛧	⛨	⛩	⛫	⛬	⛭	⛮	⛯
-⛰	⛱	⛶	⛷	⛸	⛹	⛻	⛼	⛾	⛿
-
 # Arrows
 https://en.wikipedia.org/wiki/Arrows_(Unicode_block)
 ←	↑	→	↓	↔	↕	↖	↗	↘	↙	↚	↛	↜	↝	↞	↟
