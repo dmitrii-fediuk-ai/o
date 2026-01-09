@@ -77,6 +77,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-C
 
 # Latin Extended-D
 https://en.wikipedia.org/wiki/Latin_Extended-D
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-D
 ꜠	꜡	Ꜣ	ꜣ	Ꜥ	ꜥ	Ꜧ	ꜧ	Ꜩ	ꜩ	Ꜫ	ꜫ	Ꜭ	ꜭ	Ꜯ	ꜯ
 ꜰ	ꜱ	Ꜳ	ꜳ	Ꜵ	ꜵ	Ꜷ	ꜷ	Ꜹ	ꜹ	Ꜻ	ꜻ	Ꜽ	ꜽ	Ꜿ	ꜿ
 Ꝁ	ꝁ	Ꝃ	ꝃ	Ꝅ	ꝅ	Ꝇ	ꝇ	Ꝉ	ꝉ	Ꝋ	ꝋ	Ꝍ	ꝍ	Ꝏ	ꝏ
