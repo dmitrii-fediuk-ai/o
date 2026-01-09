@@ -77,6 +77,11 @@ https://en.wikipedia.org/wiki/Kannada_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Kannada
 ಌ
 
+# Khmer
+https://en.wikipedia.org/wiki/Khmer_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Khmer
+ញ	៣
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
