@@ -157,6 +157,25 @@ https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Unified_Canadian_Aboriginal_Syllabics
 ᗰ	ᗶ	ᗼ	ᘻ	ᙏ	ᙕ	ᙜ	ᙢ
 
+# Yijing Hexagram Symbols
+https://en.wikipedia.org/wiki/Yijing_Hexagram_Symbols
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Yijing_Hexagram_Symbols
+䷬
+
+# Latin_Extended_Additional
+https://en.wikipedia.org/wiki/Latin_Extended_Additional
+Ḿ	ḿ	Ṁ	ṁ	Ṃ	ṃ
+
+# Latin Extended-C
+https://en.wikipedia.org/wiki/Latin_Extended-C
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-C
+Ɱ
+
+# Latin Extended-D
+https://en.wikipedia.org/wiki/Latin_Extended-D
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-D
+ꝳ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
@@ -181,9 +200,6 @@ https://en.wikipedia.org/wiki/Mathematical_Alphanumeric_Symbols#Greek_letters_an
 # Mathematical_Alphanumeric_Symbols#Glyph_variants
 ℳ	ℳ︀	ℳ︁
 
-# Latin_Extended_Additional
-https://en.wikipedia.org/wiki/Latin_Extended_Additional
-Ḿ	ḿ	Ṁ	ṁ	Ṃ	ṃ
 
 # Latin Extended-C
 https://en.wikipedia.org/wiki/Latin_Extended-C
