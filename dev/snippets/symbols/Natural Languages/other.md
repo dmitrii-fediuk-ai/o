@@ -679,6 +679,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Tamil
 ௶	௷	௸ ௹	௺
 
 https://en.wikipedia.org/wiki/Telugu_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Telugu
 అ	ఆ	ఇ	ఈ	ఉ	ఊ	ఋ	ఌ	ఎ	ఏ
 ఐ	ఒ	ఓ	ఔ	క	ఖ	గ	ఘ	ఙ	చ	ఛ	జ	ఝ	ఞ	ట
 ఠ	డ	ఢ	ణ	త	థ	ద	ధ	న	ప	ఫ	బ	భ	మ	య
