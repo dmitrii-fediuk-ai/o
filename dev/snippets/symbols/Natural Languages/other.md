@@ -562,6 +562,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_Turkic
 
 # Oriya
 https://en.wikipedia.org/wiki/Oriya_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Oriya
 ଅ	ଆ	ଇ	ଈ	ଉ	ଊ	ଋ	ଌ	ଏ
 ଐ	ଓ	ଔ	କ	ଖ	ଗ	ଘ	ଙ	ଚ	ଛ	ଜ	ଝ	ଞ	ଟ
 ଠ	ଡ	ଢ	ଣ	ତ	ଥ	ଦ	ଧ	ନ	ପ	ଫ	ବ	ଭ	ମ	ଯ
