@@ -90,6 +90,11 @@ https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block)
 Ӡ	ӡ	Ӣ	ӣ	Ӥ	ӥ	Ӧ	ӧ	Ө	ө	Ӫ	ӫ	Ӭ	ӭ	Ӯ	ӯ
 Ӱ	ӱ	Ӳ	ӳ	Ӵ	ӵ	Ӷ	ӷ	Ӹ	ӹ	Ӻ	ӻ	Ӽ	ӽ	Ӿ	ӿ
 
+# Extended-A
+https://en.wikipedia.org/wiki/Cyrillic_Extended-A
+ ⷠ	 ⷡ	 ⷢ	 ⷣ	 ⷤ	 ⷥ	 ⷦ	 ⷧ	 ⷨ	 ⷩ	 ⷪ	 ⷫ	 ⷬ	 ⷭ	 ⷮ	 ⷯ
+ ⷰ	 ⷱ	 ⷲ	 ⷳ	 ⷴ	 ⷵ	 ⷶ	 ⷷ	 ⷸ	 ⷹ	 ⷺ	 ⷻ	 ⷼ	 ⷽ	 ⷾ	 ⷿ
+
 # Deseret
 https://en.wikipedia.org/wiki/Deseret_(Unicode_block)
 𐐀	𐐁	𐐂	𐐃	𐐄	𐐅	𐐆	𐐇	𐐈	𐐉	𐐊	𐐋	𐐌	𐐍	𐐎	𐐏
