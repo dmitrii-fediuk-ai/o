@@ -142,6 +142,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Cyrillic_Extended-A
 
 ## Extended-B
 https://en.wikipedia.org/wiki/Cyrillic_Extended-B
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Cyrillic_Extended-B
 Ꙁ	ꙁ	Ꙃ	ꙃ	Ꙅ	ꙅ	Ꙇ	ꙇ	Ꙉ	ꙉ	Ꙋ	ꙋ	Ꙍ	ꙍ	Ꙏ	ꙏ
 Ꙑ	ꙑ	Ꙓ	ꙓ	Ꙕ	ꙕ	Ꙗ	ꙗ	Ꙙ	ꙙ	Ꙛ	ꙛ	Ꙝ	ꙝ	Ꙟ	ꙟ
 Ꙡ	ꙡ	Ꙣ	ꙣ	Ꙥ	ꙥ	Ꙧ	ꙧ	Ꙩ	ꙩ	Ꙫ	ꙫ	Ꙭ	ꙭ	ꙮ	 ꙯
