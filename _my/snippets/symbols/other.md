@@ -496,6 +496,13 @@ https://en.wikipedia.org/wiki/Malayalam_(Unicode_block)
 ൠ	ൡ	ൢ	ൣ	൦	൧	൨	൩	൪	൫	൬	൭	൮	൯
 ൰	൱	൲	൳	൴	൵	൶	൷	൸	൹	ൺ	ൻ	ർ	ൽ	ൾ	ൿ
 
+# Meetei Mayek
+https://en.wikipedia.org/wiki/Meetei_Mayek_(Unicode_block)
+ꯀ	ꯁ	ꯂ	ꯃ	ꯄ	ꯅ	ꯆ	ꯇ	ꯈ	ꯉ	ꯊ	ꯋ	ꯌ	ꯍ	ꯎ	ꯏ
+ꯐ	ꯑ	ꯒ	ꯓ	ꯔ	ꯕ	ꯖ	ꯗ	ꯘ	ꯙ	ꯚ	ꯛ	ꯜ	ꯝ	ꯞ	ꯟ
+ꯠ	ꯡ	ꯢ	꯫	
+꯰	꯱	꯲	꯳	꯴	꯵	꯶	꯷	꯸	꯹
+
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
 ᚠ ᚡ ᚢ ᚣ ᚤ ᚥ ᚦ ᚧ ᚨ ᚩ ᚪ ᚫ ᚬ ᚭ ᚮ ᚯ ᚰ ᚱ ᚲ ᚳ ᚴ ᚵ ᚶ ᚷ ᚸ ᚹ ᚺ ᚻ ᚼ ᚽ ᚾ ᚿ ᛀ ᛁ ᛂ ᛃ ᛄ ᛅ ᛆ ᛇ ᛈ ᛉ ᛊ ᛋ ᛌ ᛍ ᛎ ᛏ ᛐ ᛑ 
