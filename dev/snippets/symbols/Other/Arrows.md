@@ -11,6 +11,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Arrows
 
 ## Supplemental A
 https://en.wikipedia.org/wiki/Supplemental_Arrows-A
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Supplemental_Arrows-A
 ⟰	⟱	⟲	⟳	⟴	⟵	⟶	⟷	⟸	⟹	⟺	⟻	⟼	⟽	⟾	⟿
 
 ## Supplemental B
