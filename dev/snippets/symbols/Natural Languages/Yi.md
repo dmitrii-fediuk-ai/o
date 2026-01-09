@@ -1,5 +1,6 @@
 # Radicals
 https://en.wikipedia.org/wiki/Yi_Radicals
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Yi_Radicals
 ꒐	꒑	꒒	꒓	꒔	꒕	꒖	꒗	꒘	꒙	꒚	꒛	꒜	꒝	꒞	꒟
 ꒠	꒡	꒢	꒣	꒤	꒥	꒦	꒧	꒨	꒩	꒪	꒫	꒬	꒭	꒮	꒯
 ꒰	꒱	꒲	꒳	꒴	꒵	꒶	꒷	꒸	꒹	꒺	꒻	꒼	꒽	꒾	꒿
