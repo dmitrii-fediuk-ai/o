@@ -7,10 +7,24 @@ https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
 𞥀	𞥁	𞥂	𞥃	𞥋				
 𞥐	𞥑	𞥒	𞥓	𞥔	𞥕	𞥖	𞥗	𞥘	𞥙	𞥞	𞥟
 
+# Armenian
+https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
+Ա	Բ	Գ	Դ	Ե	Զ	Է	Ը	Թ	Ժ	Ի	Լ	Խ	Ծ	Կ
+Հ	Ձ	Ղ	Ճ	Մ	Յ	Ն	Շ	Ո	Չ	Պ	Ջ	Ռ	Ս	Վ	Տ
+Ր	Ց	Ւ	Փ	Ք	Օ	Ֆ	ՙ	՚	՛	՜	՝	՞	՟
+ա	բ	գ	դ	ե	զ	է	ը	թ	ժ	ի	լ	խ	ծ	կ
+հ	ձ	ղ	ճ	մ	յ	ն	շ	ո	չ	պ	ջ	ռ	ս	վ	տ
+ր	ց	ւ	փ	ք	օ	ֆ	և	ֈ	։	֊	֍	֎	֏
+
 # Bopomofo Extended
 https://en.wikipedia.org/wiki/Bopomofo_Extended
 ㆠ	ㆡ	ㆢ	ㆣ	ㆤ	ㆥ	ㆦ	ㆧ	ㆨ	ㆩ	ㆪ	ㆫ	ㆬ	ㆭ	ㆮ	ㆯ
 ㆰ	ㆱ	ㆲ	ㆳ	ㆴ	ㆵ	ㆶ	ㆷ
+
+# Buginese
+https://en.wikipedia.org/wiki/Buginese_(Unicode_block)
+ᨀ	ᨁ	ᨂ	ᨃ	ᨄ	ᨅ	ᨆ	ᨇ	ᨈ	ᨉ	ᨊ	ᨋ	ᨌ	ᨍ	ᨎ	ᨏ
+ᨐ	ᨑ	ᨒ	ᨓ	ᨔ	ᨕ	ᨖ	᨞	᨟
 
 # Chakma
 https://en.wikipedia.org/wiki/Chakma_(Unicode_block)
@@ -101,20 +115,6 @@ https://en.wikipedia.org/wiki/Deseret_(Unicode_block)
 𐐠	𐐡	𐐢	𐐣	𐐤	𐐥	𐐦	𐐧	𐐨	𐐩	𐐪	𐐫	𐐬	𐐭	𐐮	𐐯
 𐐰	𐐱	𐐲	𐐳	𐐴	𐐵	𐐶	𐐷	𐐸	𐐹	𐐺	𐐻	𐐼	𐐽	𐐾	𐐿
 𐑀	𐑁	𐑂	𐑃	𐑄	𐑅	𐑆	𐑇	𐑈	𐑉	𐑊	𐑋	𐑌	𐑍	𐑎	𐑏
-
-# Armenian
-https://en.wikipedia.org/wiki/Armenian_(Unicode_block)
-Ա	Բ	Գ	Դ	Ե	Զ	Է	Ը	Թ	Ժ	Ի	Լ	Խ	Ծ	Կ
-Հ	Ձ	Ղ	Ճ	Մ	Յ	Ն	Շ	Ո	Չ	Պ	Ջ	Ռ	Ս	Վ	Տ
-Ր	Ց	Ւ	Փ	Ք	Օ	Ֆ	ՙ	՚	՛	՜	՝	՞	՟
-ա	բ	գ	դ	ե	զ	է	ը	թ	ժ	ի	լ	խ	ծ	կ
-հ	ձ	ղ	ճ	մ	յ	ն	շ	ո	չ	պ	ջ	ռ	ս	վ	տ
-ր	ց	ւ	փ	ք	օ	ֆ	և	ֈ	։	֊	֍	֎	֏
-
-# Buginese
-https://en.wikipedia.org/wiki/Buginese_(Unicode_block)
-ᨀ	ᨁ	ᨂ	ᨃ	ᨄ	ᨅ	ᨆ	ᨇ	ᨈ	ᨉ	ᨊ	ᨋ	ᨌ	ᨍ	ᨎ	ᨏ
-ᨐ	ᨑ	ᨒ	ᨓ	ᨔ	ᨕ	ᨖ	᨞	᨟
 
 # Ethiopic
 https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
