@@ -1,3 +1,8 @@
+# Carian
+https://en.wikipedia.org/wiki/Carian_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Carian
+𐊰	𐊷	𐊿
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
