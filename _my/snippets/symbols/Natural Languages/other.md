@@ -95,6 +95,16 @@ https://en.wikipedia.org/wiki/Cyrillic_Extended-A
  ⷠ	 ⷡ	 ⷢ	 ⷣ	 ⷤ	 ⷥ	 ⷦ	 ⷧ	 ⷨ	 ⷩ	 ⷪ	 ⷫ	 ⷬ	 ⷭ	 ⷮ	 ⷯ
  ⷰ	 ⷱ	 ⷲ	 ⷳ	 ⷴ	 ⷵ	 ⷶ	 ⷷ	 ⷸ	 ⷹ	 ⷺ	 ⷻ	 ⷼ	 ⷽ	 ⷾ	 ⷿ
 
+# Extended-B
+https://en.wikipedia.org/wiki/Cyrillic_Extended-B
+Ꙁ	ꙁ	Ꙃ	ꙃ	Ꙅ	ꙅ	Ꙇ	ꙇ	Ꙉ	ꙉ	Ꙋ	ꙋ	Ꙍ	ꙍ	Ꙏ	ꙏ
+Ꙑ	ꙑ	Ꙓ	ꙓ	Ꙕ	ꙕ	Ꙗ	ꙗ	Ꙙ	ꙙ	Ꙛ	ꙛ	Ꙝ	ꙝ	Ꙟ	ꙟ
+Ꙡ	ꙡ	Ꙣ	ꙣ	Ꙥ	ꙥ	Ꙧ	ꙧ	Ꙩ	ꙩ	Ꙫ	ꙫ	Ꙭ	ꙭ	ꙮ	 ꙯
+ ꙰	 ꙱	 ꙲	꙳	 ꙴ	 ꙵ	 ꙶ	 ꙷ	 ꙸ	 ꙹ	 ꙺ	 ꙻ	 ꙼	 ꙽	꙾	ꙿ
+Ꚁ	ꚁ	Ꚃ	ꚃ	Ꚅ	ꚅ	Ꚇ	ꚇ	Ꚉ	ꚉ	Ꚋ	ꚋ	Ꚍ	ꚍ	Ꚏ	ꚏ
+UꚐ	ꚑ	Ꚓ	ꚓ	Ꚕ	ꚕ	Ꚗ	ꚗ	Ꚙ	ꚙ	Ꚛ	ꚛ	ꚜ	ꚝ	 ꚞ	 ꚟ
+
+
 # Deseret
 https://en.wikipedia.org/wiki/Deseret_(Unicode_block)
 𐐀	𐐁	𐐂	𐐃	𐐄	𐐅	𐐆	𐐇	𐐈	𐐉	𐐊	𐐋	𐐌	𐐍	𐐎	𐐏
