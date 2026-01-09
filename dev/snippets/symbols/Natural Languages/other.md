@@ -18,6 +18,16 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Armenian
 հ	ձ	ղ	ճ	մ	յ	ն	շ	ո	չ	պ	ջ	ռ	ս	վ	տ
 ր	ց	ւ	փ	ք	օ	ֆ	և	ֈ	։	֊	֍	֎	֏
 
+# Bengali
+https://en.wikipedia.org/wiki/Bengali_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Bengali
+ঀ	অ	আ	ই	ঈ	উ	ঊ	ঋ	ঌ	এ
+ঐ	ও	ঔ	ক	খ	গ	ঘ	ঙ	চ	ছ	জ	ঝ	ঞ	ট
+ঠ	ড	ঢ	ণ	ত	থ	দ	ধ	ন		প	ফ	ব	ভ	ম	য
+র	ল	শ	ষ	স	হ	ৎ	ড়	ঢ়	য়
+ৠ	ৡ	০	১	২	৩	৪	৫	৬	৭	৮	৯
+ৰ	ৱ	৲	৳	৴	৵	৶	৷	৸	৹	৺	৻	ৼ	৽
+
 # Bopomofo Extended
 https://en.wikipedia.org/wiki/Bopomofo_Extended
 ㆠ	ㆡ	ㆢ	ㆣ	ㆤ	ㆥ	ㆦ	ㆧ	ㆨ	ㆩ	ㆪ	ㆫ	ㆬ	ㆭ	ㆮ	ㆯ
