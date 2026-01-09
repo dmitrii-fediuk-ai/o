@@ -634,6 +634,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Sinhala
 
 ## Archaic Numbers
 https://en.wikipedia.org/wiki/Sinhala_Archaic_Numbers
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Sinhala_Archaic_Numbers
 𑇡	𑇢	𑇣	𑇤	𑇥	𑇦	𑇧	𑇨	𑇩	𑇪	𑇫	𑇬	𑇭	𑇮	𑇯
 𑇰	𑇱	𑇲	𑇳	𑇴
 
