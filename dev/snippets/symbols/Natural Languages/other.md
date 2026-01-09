@@ -422,6 +422,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Lisu
 
 # Lycian
 https://en.wikipedia.org/wiki/Lycian_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Lycian
 𐊀	𐊁	𐊂	𐊃	𐊄	𐊅	𐊆	𐊇	𐊈	𐊉	𐊊	𐊋	𐊌	𐊍	𐊎	𐊏
 𐊐	𐊑	𐊒	𐊓	𐊔	𐊕	𐊖	𐊗	𐊘	𐊙	𐊚	𐊛	𐊜
 
