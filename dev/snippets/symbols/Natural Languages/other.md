@@ -788,15 +788,9 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Unified_Canadian_Aboriginal
 ᣠ	ᣡ	ᣢ	ᣣ	ᣤ	ᣥ	ᣦ	ᣧ	ᣨ	ᣩ	ᣪ	ᣫ	ᣬ	ᣭ	ᣮ	ᣯ
 ᣰ	ᣱ	ᣲ	ᣳ	ᣴ	ᣵ
 
-# Yijing Hexagram Symbols
-https://en.wikipedia.org/wiki/Yijing_Hexagram_Symbols
-䷀	䷁	䷂	䷃	䷄	䷅	䷆	䷇	䷈	䷉	䷊	䷋	䷌	䷍	䷎	䷏
-䷐	䷑	䷒	䷓	䷔	䷕	䷖	䷗	䷘	䷙	䷚	䷛	䷜	䷝	䷞	䷟
-䷠	䷡	䷢	䷣	䷤	䷥	䷦	䷧	䷨	䷩	䷪	䷫	䷬	䷭	䷮	䷯
-䷰	䷱	䷲	䷳	䷴	䷵	䷶	䷷	䷸	䷹	䷺	䷻	䷼	䷽	䷾	䷿
-
 # Vai
 https://en.wikipedia.org/wiki/Vai_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Vai
 ꔀ	ꔁ	ꔂ	ꔃ	ꔄ	ꔅ	ꔆ	ꔇ	ꔈ	ꔉ	ꔊ	ꔋ	ꔌ	ꔍ	ꔎ	ꔏ
 ꔐ	ꔑ	ꔒ	ꔓ	ꔔ	ꔕ	ꔖ	ꔗ	ꔘ	ꔙ	ꔚ	ꔛ	ꔜ	ꔝ	ꔞ	ꔟ
 ꔠ	ꔡ	ꔢ	ꔣ	ꔤ	ꔥ	ꔦ	ꔧ	ꔨ	ꔩ	ꔪ	ꔫ	ꔬ	ꔭ	ꔮ	ꔯ
@@ -816,3 +810,10 @@ https://en.wikipedia.org/wiki/Vai_(Unicode_block)
 ꘀ	ꘁ	ꘂ	ꘃ	ꘄ	ꘅ	ꘆ	ꘇ	ꘈ	ꘉ	ꘊ	ꘋ	ꘌ	꘍	꘎	꘏
 ꘐ	ꘑ	ꘒ	ꘓ	ꘔ	ꘕ	ꘖ	ꘗ	ꘘ	ꘙ	ꘚ	ꘛ	ꘜ	ꘝ	ꘞ	ꘟ
 ꘠	꘡	꘢	꘣	꘤	꘥	꘦	꘧	꘨	꘩	ꘪ	ꘫ
+
+# Yijing Hexagram Symbols
+https://en.wikipedia.org/wiki/Yijing_Hexagram_Symbols
+䷀	䷁	䷂	䷃	䷄	䷅	䷆	䷇	䷈	䷉	䷊	䷋	䷌	䷍	䷎	䷏
+䷐	䷑	䷒	䷓	䷔	䷕	䷖	䷗	䷘	䷙	䷚	䷛	䷜	䷝	䷞	䷟
+䷠	䷡	䷢	䷣	䷤	䷥	䷦	䷧	䷨	䷩	䷪	䷫	䷬	䷭	䷮	䷯
+䷰	䷱	䷲	䷳	䷴	䷵	䷶	䷷	䷸	䷹	䷺	䷻	䷼	䷽	䷾	䷿
