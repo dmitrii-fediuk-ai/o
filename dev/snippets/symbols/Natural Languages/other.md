@@ -607,6 +607,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Phoenician
 
 # Runic
 https://en.wikipedia.org/wiki/Runic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Runic
 ᚠ	ᚡ	ᚢ	ᚣ	ᚤ	ᚥ	ᚦ	ᚧ	ᚨ	ᚩ	ᚪ	ᚫ	ᚬ	ᚭ	ᚮ	ᚯ
 ᚰ	ᚱ	ᚲ	ᚳ	ᚴ	ᚵ	ᚶ	ᚷ	ᚸ	ᚹ	ᚺ	ᚻ	ᚼ	ᚽ	ᚾ	ᚿ
 ᛀ	ᛁ	ᛂ	ᛃ	ᛄ	ᛅ	ᛆ	ᛇ	ᛈ	ᛉ	ᛊ	ᛋ	ᛌ	ᛍ	ᛎ	ᛏ
