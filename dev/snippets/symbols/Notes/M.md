@@ -57,6 +57,11 @@ https://en.wikipedia.org/wiki/Greek_and_Coptic
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Greek_and_Coptic
 Μ	Ϻ
 
+# Gujarati
+https://en.wikipedia.org/wiki/Gujarati_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Gujarati
+ઌ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
