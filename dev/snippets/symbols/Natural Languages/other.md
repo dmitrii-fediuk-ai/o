@@ -54,6 +54,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Brahmi
 
 # Buginese
 https://en.wikipedia.org/wiki/Buginese_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Buginese
 ᨀ	ᨁ	ᨂ	ᨃ	ᨄ	ᨅ	ᨆ	ᨇ	ᨈ	ᨉ	ᨊ	ᨋ	ᨌ	ᨍ	ᨎ	ᨏ
 ᨐ	ᨑ	ᨒ	ᨓ	ᨔ	ᨕ	ᨖ	᨞	᨟
 
