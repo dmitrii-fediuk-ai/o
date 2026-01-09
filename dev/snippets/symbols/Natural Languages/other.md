@@ -329,6 +329,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Gurmukhi
 
 # Hangul Compatibility Jamo
 https://en.wikipedia.org/wiki/Hangul_Compatibility_Jamo
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Hangul_Compatibility_Jamo
 ㄱ	ㄲ	ㄳ	ㄴ	ㄵ	ㄶ	ㄷ	ㄸ	ㄹ	ㄺ	ㄻ	ㄼ	ㄽ	ㄾ	ㄿ
 ㅀ	ㅁ	ㅂ	ㅃ	ㅄ	ㅅ	ㅆ	ㅇ	ㅈ	ㅉ	ㅊ	ㅋ	ㅌ	ㅍ	ㅎ	ㅏ
 ㅐ	ㅑ	ㅒ	ㅓ	ㅔ	ㅕ	ㅖ	ㅗ	ㅘ	ㅙ	ㅚ	ㅛ	ㅜ	ㅝ	ㅞ	ㅟ
@@ -338,6 +339,7 @@ https://en.wikipedia.org/wiki/Hangul_Compatibility_Jamo
 
 # Hangul Jamo
 https://en.wikipedia.org/wiki/Hangul_Jamo_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Hangul_Jamo
 ᄀ	ᄁ	ᄂ	ᄃ	ᄄ	ᄅ	ᄆ	ᄇ	ᄈ	ᄉ	ᄊ	ᄋ	ᄌ	ᄍ	ᄎ	ᄏ
 ᄐ	ᄑ	ᄒ	ᄓ	ᄔ	ᄕ	ᄖ	ᄗ	ᄘ	ᄙ	ᄚ	ᄛ	ᄜ	ᄝ	ᄞ	ᄟ
 ᄠ	ᄡ	ᄢ	ᄣ	ᄤ	ᄥ	ᄦ	ᄧ	ᄨ	ᄩ	ᄪ	ᄫ	ᄬ	ᄭ	ᄮ	ᄯ
