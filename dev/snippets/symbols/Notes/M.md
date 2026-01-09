@@ -82,6 +82,11 @@ https://en.wikipedia.org/wiki/Khmer_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Khmer
 ញ	៣
 
+# Lao
+https://en.wikipedia.org/wiki/Lao_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Lao
+ຕ
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
