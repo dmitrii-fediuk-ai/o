@@ -19,3 +19,10 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Superscripts_and_Subscripts
 ⁰	ⁱ			⁴	⁵	⁶	⁷	⁸	⁹	⁺	⁻	⁼	⁽	⁾	ⁿ
 ₀	₁	₂	₃	₄	₅	₆	₇	₈	₉	₊	₋	₌	₍	₎	
 ₐ	ₑ	ₒ	ₓ	ₔ	ₕ	ₖ	ₗ	ₘ	ₙ	ₚ	ₛ	ₜ	
+
+# Vedic Extensions
+https://en.wikipedia.org/wiki/Vedic_Extensions
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Vedic_Extensions
+᳐	᳑	᳒	᳓	᳔	᳕	᳖	᳗	᳘	᳙	᳚	᳛	᳜	᳝	᳞	᳟
+᳠	᳡	᳢	᳣	᳤	᳥	᳦	᳧	᳨	ᳩ	ᳪ	ᳫ	ᳬ	᳭	ᳮ	ᳯ
+ᳰ	ᳱ	ᳲ	ᳳ	᳴	 ᳵ 	 ᳶ 	᳷	᳸	᳹
