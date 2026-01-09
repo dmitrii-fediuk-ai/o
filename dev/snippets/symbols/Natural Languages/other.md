@@ -662,12 +662,21 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Tai_Le
 
 # Taixuanjing
 https://en.wikipedia.org/wiki/Taixuanjing#Unicode
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Tai_Xuan_Jing_Symbols
 𝌀	𝌁	𝌂	𝌃	𝌄	𝌅	𝌆	𝌇	𝌈	𝌉	𝌊	𝌋	𝌌	𝌍	𝌎	𝌏
 𝌐	𝌑	𝌒	𝌓	𝌔	𝌕	𝌖	𝌗	𝌘	𝌙	𝌚	𝌛	𝌜	𝌝	𝌞	𝌟
 𝌠	𝌡	𝌢	𝌣	𝌤	𝌥	𝌦	𝌧	𝌨	𝌩	𝌪	𝌫	𝌬	𝌭	𝌮	𝌯
 𝌰	𝌱	𝌲	𝌳	𝌴	𝌵	𝌶	𝌷	𝌸	𝌹	𝌺	𝌻	𝌼	𝌽	𝌾	𝌿
 𝍀	𝍁	𝍂	𝍃	𝍄	𝍅	𝍆	𝍇	𝍈	𝍉	𝍊	𝍋	𝍌	𝍍	𝍎	𝍏
 𝍐	𝍑	𝍒	𝍓	𝍔	𝍕	𝍖
+
+# Tamil
+https://en.wikipedia.org/wiki/Tamil_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Tamil
+ஃ	அ	ஆ	இ	ஈ	உ	ஊ	எ	ஏ	ஐ	ஒ	ஓ	ஔ	க	ங	ச	ஜ	ஞ	ட
+ண	த	ந	ன	ப	ம	ய	ர	ற	ல	ள	ழ	வ	ஶ	ஷ	ஸ	ஹ
+ௐ	௦	௧	௨	௩	௪	௫	௬	௭	௮	௯	௰	௱	௲	௳	௴	௵	
+௶	௷	௸ ௹	௺
 
 https://en.wikipedia.org/wiki/Telugu_(Unicode_block)
 అ	ఆ	ఇ	ఈ	ఉ	ఊ	ఋ	ఌ	ఎ	ఏ
