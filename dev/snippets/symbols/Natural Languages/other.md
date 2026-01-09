@@ -243,14 +243,16 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Georgian
 რ	ს	ტ	უ	ფ	ქ	ღ	ყ	შ	ჩ	ც	ძ	წ	ჭ	ხ	ჯ
 ჰ	ჱ	ჲ	ჳ	ჴ	ჵ	ჶ	ჷ	ჸ	ჹ	ჺ	჻	ჼ	ჽ	ჾ	ჿ
 
-# Georgian Extended
+## Extended
 https://en.wikipedia.org/wiki/Georgian_Extended
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Georgian_Extended
 Ა	Ბ	Გ	Დ	Ე	Ვ	Ზ	Თ	Ი	Კ	Ლ	Მ	Ნ	Ო	Პ	Ჟ
 Რ	Ს	Ტ	Უ	Ფ	Ქ	Ღ	Ყ	Შ	Ჩ	Ც	Ძ	Წ	Ჭ	Ხ	Ჯ
 Ჰ	Ჱ	Ჲ	Ჳ	Ჴ	Ჵ	Ჶ	Ჷ	Ჸ	Ჹ	Ჺ	Ჽ	Ჾ	Ჿ
 
-# Georgian Supplement
+## Supplement
 https://en.wikipedia.org/wiki/Georgian_Supplement
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Georgian_Supplement
 ⴀ	ⴁ	ⴂ	ⴃ	ⴄ	ⴅ	ⴆ	ⴇ	ⴈ	ⴉ	ⴊ	ⴋ	ⴌ	ⴍ	ⴎ	ⴏ
 ⴐ	ⴑ	ⴒ	ⴓ	ⴔ	ⴕ	ⴖ	ⴗ	ⴘ	ⴙ	ⴚ	ⴛ	ⴜ	ⴝ	ⴞ	ⴟ
 ⴠ	ⴡ	ⴢ	ⴣ	ⴤ	ⴥ	ⴧ	ⴭ
