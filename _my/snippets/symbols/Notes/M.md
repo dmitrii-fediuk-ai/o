@@ -1,3 +1,8 @@
+# Letterlike 
+https://en.wikipedia.org/wiki/Letterlike_Symbols
+ℳ
+https://en.wikipedia.org/wiki/German_mark_(1871)
+
 # Phonetic_Extensions
 https://en.wikipedia.org/wiki/Phonetic_Extensions
 ᴍ
