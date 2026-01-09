@@ -728,6 +728,14 @@ https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics
 ᙠ	ᙡ	ᙢ	ᙣ	ᙤ	ᙥ	ᙦ	ᙧ	ᙨ	ᙩ	ᙪ	ᙫ	ᙬ	᙭	᙮	ᙯ
 ᙰ	ᙱ	ᙲ	ᙳ	ᙴ	ᙵ	ᙶ	ᙷ	ᙸ	ᙹ	ᙺ	ᙻ	ᙼ	ᙽ	ᙾ	ᙿ
 
+## Extended
+https://en.wikipedia.org/wiki/Unified_Canadian_Aboriginal_Syllabics_Extended
+ᢰ	ᢱ	ᢲ	ᢳ	ᢴ	ᢵ	ᢶ	ᢷ	ᢸ	ᢹ	ᢺ	ᢻ	ᢼ	ᢽ	ᢾ	ᢿ
+ᣀ	ᣁ	ᣂ	ᣃ	ᣄ	ᣅ	ᣆ	ᣇ	ᣈ	ᣉ	ᣊ	ᣋ	ᣌ	ᣍ	ᣎ	ᣏ
+ᣐ	ᣑ	ᣒ	ᣓ	ᣔ	ᣕ	ᣖ	ᣗ	ᣘ	ᣙ	ᣚ	ᣛ	ᣜ	ᣝ	ᣞ	ᣟ
+ᣠ	ᣡ	ᣢ	ᣣ	ᣤ	ᣥ	ᣦ	ᣧ	ᣨ	ᣩ	ᣪ	ᣫ	ᣬ	ᣭ	ᣮ	ᣯ
+ᣰ	ᣱ	ᣲ	ᣳ	ᣴ	ᣵ
+
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ
