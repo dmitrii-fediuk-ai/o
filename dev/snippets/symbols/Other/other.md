@@ -114,6 +114,13 @@ https://en.wikipedia.org/wiki/Phonetic_Extensions_Supplement
 ᶠ	ᶡ	ᶢ	ᶣ	ᶤ	ᶥ	ᶦ	ᶧ	ᶨ	ᶩ	ᶪ	ᶫ	ᶬ	ᶭ	ᶮ	ᶯ
 ᶰ	ᶱ	ᶲ	ᶳ	ᶴ	ᶵ	ᶶ	ᶷ	ᶸ	ᶹ	ᶺ	ᶻ	ᶼ	ᶽ	ᶾ	ᶿ
 
+# Pictographs
+https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Pictographs
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Miscellaneous_Symbols_and_Pictographs
+🔾	🔿	🕀	🕁	🕂	🕃	🕄	🕅	🕆	🕇	🕈	🕭	🕮	🕱	🖂	🖃	🖅	🖆	🖎	🖏	🖑	🖒	🖓	
+🖗	🖘	🖙	🖚	🖛	🖜	🖝	🖞	🖟	🖠	🖡	🖢	🖣	🖦	🖧	🖮	🖯	🖳	🖴	🖵	🖶	🖷	🖸	
+🖹	🖺	🗀	🗁	🗅	🗆	🗇	🗈	🗉	🗊	🗋	🗌	🗍	🗎	🗏 	🗐	🗔	🗟	🗦	🗧	🗴	🗶
+
 # Small Form Variants
 https://en.wikipedia.org/wiki/Small_Form_Variants
 ﹐	﹑	﹒		﹔	﹕	﹖	﹗	﹘	﹙	﹚	﹛	﹜	﹝	﹞	﹟
