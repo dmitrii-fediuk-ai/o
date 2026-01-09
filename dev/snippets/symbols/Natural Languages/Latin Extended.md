@@ -1,4 +1,5 @@
 # Latin Extended Additional
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended_Additional
 https://en.wikipedia.org/wiki/Latin_Extended_Additional
 Ḁ	ḁ	ẚ	Ạ	ạ	Ả	ả	Ấ	ấ	Ầ	ầ	Ẩ	ẩ	Ẫ	ẫ	Ậ	ậ	Ắ	ắ	Ằ	ằ	Ẳ	ẳ	Ẵ	ẵ	Ặ	ặ	
 Ḃ	ḃ	Ḅ	ḅ	Ḇ	ḇ	ẞ	
