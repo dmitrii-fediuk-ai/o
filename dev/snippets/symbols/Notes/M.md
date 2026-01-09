@@ -92,6 +92,11 @@ https://en.wikipedia.org/wiki/Lisu_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Lisu
 ꓟ
 
+# Lycian
+https://en.wikipedia.org/wiki/Lycian_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Lycian
+𐊎
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
