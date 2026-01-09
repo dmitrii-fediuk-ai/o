@@ -501,6 +501,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Myanmar_Extended-B
 
 # New Tai Lue
 https://en.wikipedia.org/wiki/New_Tai_Lue_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_New_Tai_Lue
 ᦀ	ᦁ	ᦂ	ᦃ	ᦄ	ᦅ	ᦆ	ᦇ	ᦈ	ᦉ	ᦊ	ᦋ	ᦌ	ᦍ	ᦎ	ᦏ
 ᦐ	ᦑ	ᦒ	ᦓ	ᦔ	ᦕ	ᦖ	ᦗ	ᦘ	ᦙ	ᦚ	ᦛ	ᦜ	ᦝ	ᦞ	ᦟ
 ᦠ	ᦡ	ᦢ	ᦣ	ᦤ	ᦥ	ᦦ	ᦧ	ᦨ	ᦩ	ᦪ	ᦫ				
