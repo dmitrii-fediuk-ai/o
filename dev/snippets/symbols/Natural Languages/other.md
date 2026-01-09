@@ -369,6 +369,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Kanbun
 
 # Kannada
 https://en.wikipedia.org/wiki/Kannada_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Kannada
 ಀ	಄	ಅ	ಆ	ಇ	ಈ	ಉ	ಊ	ಋ	ಌ	ಎ	ಏ
 ಐ	ಒ	ಓ	ಔ	ಕ	ಖ	ಗ	ಘ	ಙ	ಚ	ಛ	ಜ	ಝ	ಞ	ಟ
 ಠ	ಡ	ಢ	ಣ	ತ	ಥ	ದ	ಧ	ನ	ಪ	ಫ	ಬ	ಭ	ಮ	ಯ
