@@ -662,6 +662,13 @@ https://en.wikipedia.org/wiki/Telugu_(Unicode_block)
 ౠ	ౡ	౦	౧	౨	౩	౪	౫	౬	౭	౮	౯
 ౹	౺	౻	౼	౽	౾	౿
 
+# Thaana
+https://en.wikipedia.org/wiki/Thaana_(Unicode_block)
+ހ	ށ	ނ	ރ	ބ	ޅ	ކ	އ	ވ	މ	ފ	ދ	ތ	ލ	ގ	ޏ
+ސ	ޑ	ޒ	ޓ	ޔ	ޕ	ޖ	ޗ	ޘ	ޙ	ޚ	ޛ	ޜ	ޝ	ޞ	ޟ
+ޠ	ޡ	ޢ	ޣ	ޤ	ޥ	ަ	ާ	ި	ީ	ު	ޫ	ެ	ޭ	ޮ	ޯ
+ް	ޱ
+
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ
