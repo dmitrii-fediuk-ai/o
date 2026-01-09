@@ -184,6 +184,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Devanagari_Extended
 
 # Ethiopic
 https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic
 ሀ	ሁ	ሂ	ሃ	ሄ	ህ	ሆ	ሇ	ለ	ሉ	ሊ	ላ	ሌ	ል	ሎ	ሏ
 ሐ	ሑ	ሒ	ሓ	ሔ	ሕ	ሖ	ሗ	መ	ሙ	ሚ	ማ	ሜ	ም	ሞ	ሟ
 ሠ	ሡ	ሢ	ሣ	ሤ	ሥ	ሦ	ሧ	ረ	ሩ	ሪ	ራ	ሬ	ር	ሮ	ሯ
@@ -211,6 +212,7 @@ https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
 
 # Ethiopic Extended
 https://en.wikipedia.org/wiki/Ethiopic_Extended
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Ethiopic_Extended
 ⶀ	ⶁ	ⶂ	ⶃ	ⶄ	ⶅ	ⶆ	ⶇ	ⶈ	ⶉ	ⶊ	ⶋ	ⶌ	ⶍ	ⶎ	ⶏ
 ⶐ	ⶑ	ⶒ	ⶓ	ⶔ	ⶕ	ⶖ									
 ⶠ	ⶡ	ⶢ	ⶣ	ⶤ	ⶥ	ⶦ	ⶨ	ⶩ	ⶪ	ⶫ	ⶬ	ⶭ	ⶮ	
