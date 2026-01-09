@@ -48,13 +48,6 @@ https://en.wikipedia.org/wiki/Vai_syllabary
 ꘁ ꘂ ꘃ ꘄ ꘅ ꘆ ꘇ ꘈ ꘉ ꘊ ꘋ ꘌ ꘍ ꘎ ꘏ ꘐ ꘑ ꘒ ꘓ ꘔ ꘕ ꘖ ꘗ ꘘ ꘙ ꘚ ꘛ ꘜ ꘝ ꘞ ꘟ ꘠ ꘡ ꘢ ꘣ ꘤ ꘥ 
 ꘦ ꘧ ꘨ ꘩ ꘪ ꘫ
 
-# Phagspa
-https://en.wikipedia.org/wiki/Phags-pa_(Unicode_block)
-ꡀ	ꡁ	ꡂ	ꡃ	ꡄ	ꡅ	ꡆ	ꡇ	ꡈ	ꡉ	ꡊ	ꡋ	ꡌ	ꡍ	ꡎ	ꡏ
-ꡐ	ꡑ	ꡒ	ꡓ	ꡔ	ꡕ	ꡖ	ꡗ	ꡘ	ꡙ	ꡚ	ꡛ	ꡜ	ꡝ	ꡞ	ꡟ
-ꡠ	ꡡ	ꡢ	ꡣ	ꡤ	ꡥ	ꡦ	ꡧ	ꡨ	ꡩ	ꡪ	ꡫ	ꡬ	ꡭ	ꡮ	ꡯ
-ꡰ	ꡱ	ꡲ	ꡳ	꡴	꡵	꡶	꡷
-ꡖ	ꡖ︀	ꡜ	ꡜ︀	ꡞ	ꡞ︀	ꡟ	ꡟ︀	ꡠ	ꡠ︀	ꡨ	ꡨ︀
 
 # Arrows
 https://en.wikipedia.org/wiki/Arrows_(Unicode_block)
@@ -589,6 +582,19 @@ https://en.wikipedia.org/wiki/Osage_(Unicode_block)
 𐒀	𐒁	𐒂	𐒃	𐒄	𐒅	𐒆	𐒇	𐒈	𐒉	𐒊	𐒋	𐒌	𐒍	𐒎	𐒏
 𐒐	𐒑	𐒒	𐒓	𐒔	𐒕	𐒖	𐒗	𐒘	𐒙	𐒚	𐒛	𐒜	𐒝		
 𐒠	𐒡	𐒢	𐒣	𐒤	𐒥	𐒦	𐒧	𐒨	𐒩
+
+# Phags-pa
+https://en.wikipedia.org/wiki/Phags-pa_(Unicode_block)
+ꡀ	ꡁ	ꡂ	ꡃ	ꡄ	ꡅ	ꡆ	ꡇ	ꡈ	ꡉ	ꡊ	ꡋ	ꡌ	ꡍ	ꡎ	ꡏ
+ꡐ	ꡑ	ꡒ	ꡓ	ꡔ	ꡕ	ꡖ	ꡗ	ꡘ	ꡙ	ꡚ	ꡛ	ꡜ	ꡝ	ꡞ	ꡟ
+ꡠ	ꡡ	ꡢ	ꡣ	ꡤ	ꡥ	ꡦ	ꡧ	ꡨ	ꡩ	ꡪ	ꡫ	ꡬ	ꡭ	ꡮ	ꡯ
+ꡰ	ꡱ	ꡲ	ꡳ	꡴	꡵	꡶	꡷
+ꡖ	ꡖ︀	ꡜ	ꡜ︀	ꡞ	ꡞ︀	ꡟ	ꡟ︀	ꡠ	ꡠ︀	ꡨ	ꡨ︀
+
+# Phoenician
+https://en.wikipedia.org/wiki/Phoenician_(Unicode_block)
+𐤀	𐤁	𐤂	𐤃	𐤄	𐤅	𐤆	𐤇	𐤈	𐤉	𐤊	𐤋	𐤌	𐤍	𐤎	𐤏
+𐤐	𐤑	𐤒	𐤓	𐤔	𐤕	𐤖	𐤗	𐤘	𐤙	𐤚	𐤛				𐤟
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
