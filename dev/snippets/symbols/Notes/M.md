@@ -3,6 +3,32 @@ https://en.wikipedia.org/wiki/Carian_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Carian
 𐊰	𐊷	𐊿
 
+# Chakma
+https://en.wikipedia.org/wiki/Chakma_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Chakma
+𑄇	𑄕	𑄚
+
+# Cherokee
+https://en.wikipedia.org/wiki/Cherokee_(Unicode_block)
+Ꮇ
+
+# Coptic
+https://en.wikipedia.org/wiki/Coptic_(Unicode_block)
+Ⲙ
+
+# Cyrillic
+https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block)
+М	Ӎ 
+
+## Extended-B
+https://en.wikipedia.org/wiki/Cyrillic_Extended-B
+Ꙧ
+
+# Ethiopic
+https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
+ጠ	ጡ	ጢ	ጣ	ጤ	ጥ	ጦ	ጧ
+
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
@@ -39,25 +65,6 @@ https://en.wikipedia.org/wiki/Latin_Extended-C
 https://en.wikipedia.org/wiki/Adlam_(Unicode_block)
 𞤶
 
-# Cherokee
-https://en.wikipedia.org/wiki/Cherokee_(Unicode_block)
-Ꮇ
-
-# Coptic
-https://en.wikipedia.org/wiki/Coptic_(Unicode_block)
-Ⲙ
-
-# Cyrillic
-https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block)
-М	Ӎ 
-
-## Extended-B
-https://en.wikipedia.org/wiki/Cyrillic_Extended-B
-Ꙧ
-
-# Ethiopic
-https://en.wikipedia.org/wiki/Ethiopic_(Unicode_block)
-ጠ	ጡ	ጢ	ጣ	ጤ	ጥ	ጦ	ጧ
 
 
 
