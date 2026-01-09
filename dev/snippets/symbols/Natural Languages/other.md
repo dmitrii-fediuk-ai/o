@@ -105,8 +105,10 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Coptic
 Ⳑ	ⳑ	Ⳓ	ⳓ	Ⳕ	ⳕ	Ⳗ	ⳗ	Ⳙ	ⳙ	Ⳛ	ⳛ	Ⳝ	ⳝ	Ⳟ	ⳟ
 Ⳡ	ⳡ	Ⳣ	ⳣ	ⳤ	⳥	⳦	⳧	⳨	⳩	⳪	Ⳬ	ⳬ	Ⳮ	ⳮ	⳯
 ⳰	⳱	Ⳳ	ⳳ	⳹	⳺	⳻	⳼	⳽	⳾	⳿
+
 # Cypriot Syllabary
 https://en.wikipedia.org/wiki/Cypriot_Syllabary_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Cypriot_Syllabary
 𐠀	𐠁	𐠂	𐠃	𐠄	𐠅	𐠈	𐠊	𐠋	𐠌	𐠍	𐠎	𐠏
 𐠐	𐠑	𐠒	𐠓	𐠔	𐠕	𐠖	𐠗	𐠘	𐠙	𐠚	𐠛	𐠜	𐠝	𐠞	𐠟
 𐠠	𐠡	𐠢	𐠣	𐠤	𐠥	𐠦	𐠧	𐠨	𐠩	𐠪	𐠫	𐠬	𐠭	𐠮	𐠯
