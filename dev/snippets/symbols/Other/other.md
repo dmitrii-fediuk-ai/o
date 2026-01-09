@@ -21,17 +21,6 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Currency_Symbols
 ₠	₡	₢	₣	₤	₥	₦	₧	₨	₩	₪	₫	€	₭	₮	₯
 ₰	₱	₲	₳	₴	₵	₶	₷	₸	₹	₺	₻	₼	₽	₾	₿
 
-# Domino Tiles 
-https://en.wikipedia.org/wiki/Domino_Tiles
-https://en.wikipedia.org/wiki/Template:Unicode_chart_Domino_Tiles
-🀰	🀱	🀲	🀳	🀴	🀵	🀶	🀷	🀸	🀹	🀺	🀻	🀼	🀽	🀾	🀿
-🁀	🁁	🁂	🁃	🁄	🁅	🁆	🁇	🁈	🁉	🁊	🁋	🁌	🁍	🁎	🁏
-🁐	🁑	🁒	🁓	🁔	🁕	🁖	🁗	🁘	🁙	🁚	🁛	🁜	🁝	🁞	🁟
-🁠	🁡	🁢	🁣	🁤	🁥	🁦	🁧	🁨	🁩	🁪	🁫	🁬	🁭	🁮	🁯
-🁰	🁱	🁲	🁳	🁴	🁵	🁶	🁷	🁸	🁹	🁺	🁻	🁼	🁽	🁾	🁿
-🂀	🂁	🂂	🂃	🂄	🂅	🂆	🂇	🂈	🂉	🂊	🂋	🂌	🂍	🂎	🂏
-🂐	🂑	🂒	🂓
-
 # Halfwidth and Fullwidth Forms
 https://en.wikipedia.org/wiki/Halfwidth_and_Fullwidth_Forms_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Halfwidth_and_Fullwidth_Forms
