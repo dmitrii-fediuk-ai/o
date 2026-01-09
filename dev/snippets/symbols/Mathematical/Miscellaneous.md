@@ -8,6 +8,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Miscellaneous_Mathematical_
 
 # B
 https://en.wikipedia.org/wiki/Miscellaneous_Mathematical_Symbols-B
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Miscellaneous_Mathematical_Symbols-B
 
 ⦀	⦁	⦂	⦃	⦄	⦅	⦆	⦇	⦈	⦉	⦊	⦋	⦌	⦍	⦎	⦏
 ⦐	⦑	⦒	⦓	⦔	⦕	⦖	⦗	⦘	⦙	⦚	⦛	⦜	⦝	⦞	⦟
