@@ -91,3 +91,7 @@ https://en.wikipedia.org/wiki/Supplemental_Punctuation
 ⸠	⸡	⸢	⸣	⸤	⸥	⸦	⸧	⸨	⸩	⸪	⸫	⸬	⸭	⸮	ⸯ
 ⸰	⸱	⸲	⸳	⸴	⸵	⸶	⸷	⸸	⸹	⸼	⸽	⸾	⸿
 ⹀	⹁	⹂	⹃	⹄
+
+# Vertical_Forms
+https://en.wikipedia.org/wiki/Vertical_Forms
+︐	︑	︒	︓	︔	︕	︖	︗	︘	︙
