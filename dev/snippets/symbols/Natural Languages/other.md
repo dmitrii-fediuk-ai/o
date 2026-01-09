@@ -405,6 +405,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Khmer_Symbols
 
 # Lao
 https://en.wikipedia.org/wiki/Lao_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Lao
 ກ	ຂ	ຄ	ງ	ຈ	ຊ	ຍ
 ດ	ຕ	ຖ	ທ	ນ	ບ	ປ	ຜ	ຝ	ພ	ຟ
 ມ	ຢ	ຣ	ລ	ວ	ສ	ຫ	ອ	ຮ	ຯ
