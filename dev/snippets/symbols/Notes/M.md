@@ -67,6 +67,11 @@ https://en.wikipedia.org/wiki/Gurmukhi_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Gurmukhi
 ਅ	ਆ	ਐ	ਔ
 
+# Inscriptional Pahlavi
+https://en.wikipedia.org/wiki/Inscriptional_Pahlavi_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Inscriptional_Pahlavi
+𐭺
+
 # Letterlike 
 https://en.wikipedia.org/wiki/Letterlike_Symbols
 ℳ
