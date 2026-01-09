@@ -91,6 +91,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-D
 
 # Latin Extended-E
 https://en.wikipedia.org/wiki/Latin_Extended-E
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-E
 ꬰ	ꬱ	ꬲ	ꬳ	ꬴ	ꬵ	ꬶ	ꬷ	ꬸ	ꬹ	ꬺ	ꬻ	ꬼ	ꬽ	ꬾ	ꬿ
 ꭀ	ꭁ	ꭂ	ꭃ	ꭄ	ꭅ	ꭆ	ꭇ	ꭈ	ꭉ	ꭊ	ꭋ	ꭌ	ꭍ	ꭎ	ꭏ
 ꭐ	ꭑ	ꭒ	ꭓ	ꭔ	ꭕ	ꭖ	ꭗ	ꭘ	ꭙ	ꭚ	꭛	ꭜ	ꭝ	ꭞ	ꭟ
