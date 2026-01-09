@@ -446,6 +446,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Malayalam
 
 # Meetei Mayek
 https://en.wikipedia.org/wiki/Meetei_Mayek_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Meetei_Mayek
 ꯀ	ꯁ	ꯂ	ꯃ	ꯄ	ꯅ	ꯆ	ꯇ	ꯈ	ꯉ	ꯊ	ꯋ	ꯌ	ꯍ	ꯎ	ꯏ
 ꯐ	ꯑ	ꯒ	ꯓ	ꯔ	ꯕ	ꯖ	ꯗ	ꯘ	ꯙ	ꯚ	ꯛ	ꯜ	ꯝ	ꯞ	ꯟ
 ꯠ	ꯡ	ꯢ	꯫	
