@@ -553,6 +553,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_South_Arabian
 
 # Old Turkic
 https://en.wikipedia.org/wiki/Old_Turkic_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Old_Turkic
 𐰀	𐰁	𐰂	𐰃	𐰄	𐰅	𐰆	𐰇	𐰈	𐰉	𐰊	𐰋	𐰌	𐰍	𐰎	𐰏
 𐰐	𐰑	𐰒	𐰓	𐰔	𐰕	𐰖	𐰗	𐰘	𐰙	𐰚	𐰛	𐰜	𐰝	𐰞	𐰟
 𐰠	𐰡	𐰢	𐰣	𐰤	𐰥	𐰦	𐰧	𐰨	𐰩	𐰪	𐰫	𐰬	𐰭	𐰮	𐰯
