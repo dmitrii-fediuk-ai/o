@@ -592,6 +592,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Osmanya
 
 # Phags-pa
 https://en.wikipedia.org/wiki/Phags-pa_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Phags-pa
 ꡀ	ꡁ	ꡂ	ꡃ	ꡄ	ꡅ	ꡆ	ꡇ	ꡈ	ꡉ	ꡊ	ꡋ	ꡌ	ꡍ	ꡎ	ꡏ
 ꡐ	ꡑ	ꡒ	ꡓ	ꡔ	ꡕ	ꡖ	ꡗ	ꡘ	ꡙ	ꡚ	ꡛ	ꡜ	ꡝ	ꡞ	ꡟ
 ꡠ	ꡡ	ꡢ	ꡣ	ꡤ	ꡥ	ꡦ	ꡧ	ꡨ	ꡩ	ꡪ	ꡫ	ꡬ	ꡭ	ꡮ	ꡯ
