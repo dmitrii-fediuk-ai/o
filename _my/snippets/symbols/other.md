@@ -107,12 +107,6 @@ https://gemini.google.com/share/313eeacd4fd2
 ꮖ ꮗ ꮘ ꮙ ꮚ ꮛ ꮜ ꮝ ꮞ ꮟ ꮠ ꮡ ꮢ ꮣ ꮤ ꮥ ꮦ ꮧ ꮨ ꮩ ꮪ ꮫ ꮬ ꮭ ꮮ ꮯ ꮰ ꮱ ꮲ ꮳ ꮴ ꮵ ꮶ ꮷ ꮸ ꮹ ꮺ 
 ꮻ ꮼ ꮽ ꮾ ꮿ
 
-## Оседж (Wazhazhe)
-### Uppercase
-𐒰 𐒱 𐒲 𐒳 𐒴 𐒵 𐒶 𐒷 𐒸 𐒹 𐒺 𐒻 𐒼 𐒽 𐒾 𐒿 𐓀 𐓁 𐓂 𐓃 𐓄 𐓅 𐓆 𐓇 𐓈 𐓉 𐓊 𐓋 𐓌 𐓍 𐓎 𐓏 𐓐 𐓑 𐓒 𐓓
-### Lowercase
-𐓘 𐓙 𐓚 𐓛 𐓜 𐓝 𐓞 𐓟 𐓠 𐓡 𐓢 𐓣 𐓤 𐓥 𐓦 𐓧 𐓨 𐓩 𐓪 𐓫 𐓬 𐓭 𐓮 𐓯 𐓰 𐓱 𐓲 𐓳 𐓴 𐓵 𐓶 𐓷 𐓸 𐓹 𐓺 𐓻
-
 ## Равнинный Кри (Plains Cree)
 ᐁ ᐯ ᑌ ᑫ ᒉ ᒣ ᓀ ᓭ ᔦ ᐃ ᐱ ᑎ ᑭ ᒋ ᒥ ᓂ ᓯ ᔨ ᐅ ᐳ ᑐ ᑯ ᒍ ᒧ ᓄ ᓱ ᔪ ᐊ ᐸ ᑕ ᑲ ᒐ ᒪ ᓇ ᓴ ᔭ 
 ᐄ ᐲ ᑏ ᑮ ᒌ ᒦ ᓃ ᓰ ᔩ ᐆ ᐴ ᑑ ᑰ ᒎ མཱུ ᓅ ᓲ ᔫ ᐋ ᐹ ᑖ ᑳ ᒑ ᒫ ᓈ ᓵ ᔮ ᐧ ᐨ ᑊ ᐟ ᐠ ᐨ ᒼ ᐣ ᐢ ᕀ ᐦ
@@ -583,6 +577,17 @@ https://en.wikipedia.org/wiki/Oriya_(Unicode_block)
 ଡ଼	ଢ଼	ୟ
 ୠ	ୡ	୦	୧	୨	୩	୪	୫	୬	୭	୮	୯
 ୰	ୱ	୲	୳	୴	୵	୶	୷	
+
+# Osage
+https://en.wikipedia.org/wiki/Osage_(Unicode_block)
+## Uppercase
+𐒰	𐒱	𐒲	𐒳	𐒴	𐒵	𐒶	𐒷	𐒸	𐒹	𐒺	𐒻	𐒼	𐒽	𐒾	𐒿
+𐓀	𐓁	𐓂	𐓃	𐓄	𐓅	𐓆	𐓇	𐓈	𐓉	𐓊	𐓋	𐓌	𐓍	𐓎	𐓏
+𐓐	𐓑	𐓒	𐓓		
+## Lowercase
+𐓘	𐓙	𐓚	𐓛	𐓜	𐓝	𐓞	𐓟	𐓠	𐓡	𐓢	𐓣	𐓤	𐓥	𐓦	𐓧	
+𐓨	𐓩	𐓪	𐓫	𐓬	𐓭	𐓮	𐓯	𐓰	𐓱	𐓲	𐓳	𐓴	𐓵	𐓶	𐓷	
+𐓸	𐓹	𐓺	𐓻
 
 # ᛡ
 https://gemini.google.com/share/0dde63bbb812
