@@ -693,6 +693,12 @@ https://en.wikipedia.org/wiki/Tifinagh_(Unicode_block)
 ⵠ	ⵡ	ⵢ	ⵣ	ⵤ	ⵥ	ⵦ	ⵧ								ⵯ
 ⵰
 
+# Ugaritic
+https://en.wikipedia.org/wiki/Ugaritic_(Unicode_block)
+𐎀	𐎁	𐎂	𐎃	𐎄	𐎅	𐎆	𐎇	𐎈	𐎉	𐎊	𐎋	𐎌	𐎍	𐎎	𐎏
+𐎐	𐎑	𐎒	𐎓	𐎔	𐎕	𐎖	𐎗	𐎘	𐎙	𐎚	𐎛	𐎜	𐎝	𐎟
+
+
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ
