@@ -67,6 +67,13 @@ https://en.wikipedia.org/wiki/Musical_Symbols_(Unicode_block)
 𝇐	𝇑	𝇒	𝇓	𝇔	𝇕	𝇖	𝇗	𝇘	𝇙	𝇚	𝇛	𝇜	𝇝	𝇞	𝇟
 𝇠	𝇡	𝇢	𝇣	𝇤	𝇥	𝇦	𝇧	𝇨			
 
+# Number Forms
+https://en.wikipedia.org/wiki/Number_Forms
+
+⅐	⅑	⅒	⅓	⅔	⅕	⅖	⅗	⅘	⅙	⅚	⅛	⅜	⅝	⅞	⅟
+Ⅰ	Ⅱ	Ⅲ	Ⅳ	Ⅴ	Ⅵ	Ⅶ	Ⅷ	Ⅸ	Ⅹ	Ⅺ	Ⅻ	Ⅼ	Ⅽ	Ⅾ	Ⅿ
+ⅰ	ⅱ	ⅲ	ⅳ	ⅴ	ⅵ	ⅶ	ⅷ	ⅸ	ⅹ	ⅺ	ⅻ	ⅼ	ⅽ	ⅾ	ⅿ
+ↀ	ↁ	ↂ	Ↄ	ↄ	ↅ	ↆ	ↇ	ↈ	↉	↊	↋
 
 # Technical
 https://en.wikipedia.org/wiki/Miscellaneous_Technical
