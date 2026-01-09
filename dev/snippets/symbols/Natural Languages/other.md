@@ -495,6 +495,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Myanmar_Extended-A
 
 ## Extended B
 https://en.wikipedia.org/wiki/Myanmar_Extended-B
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Myanmar_Extended-B
 ꧠ	ꧡ	ꧢ	ꧣ	ꧤ	ꧥ	ꧦ	ꧧ	ꧨ	ꧩ	ꧪ	ꧫ	ꧬ	ꧭ	ꧮ	ꧯ
 ꧰	꧱	꧲	꧳	꧴	꧵	꧶	꧷	꧸	꧹	ꧺ	ꧻ	ꧼ	ꧽ	ꧾ
 
