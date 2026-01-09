@@ -28,6 +28,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Geometric_Shapes
 
 ## Extended
 https://en.wikipedia.org/wiki/Geometric_Shapes_Extended
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Geometric_Shapes_Extended
 🞀	🞁	🞂	🞃	🞄	🞅	🞇	🞉	🞌	🞍
 🞑	🞒	🞓	🞔	🞕	🞖	🞗	🞘	🞚	🞛	🞜	🞝	🞞
 🞠	🞡	🞢	🞣	🞤	🞥	🞦	🞧	🞨	🞩	🞪	🞫	🞬	🞭	🞮	🞯
