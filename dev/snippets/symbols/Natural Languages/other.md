@@ -327,21 +327,22 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Gurmukhi
 ੦	੧	੨	੩	੪	੫	੬	੭	੮	੯
 ੲ	ੳ	ੴ	ੵ	੶
 
-# Hiragana
-https://en.wikipedia.org/wiki/Hiragana_(Unicode_block)
-ぁ	あ	ぃ	い	ぅ	う	ぇ	え	ぉ	お	か	が	き	ぎ	く
-ぐ	け	げ	こ	ご	さ	ざ	し	じ	す	ず	せ	ぜ	そ	ぞ	た
-だ	ち	ぢ	っ	つ	づ	て	で	と	ど	な	に	ぬ	ね	の	は
-ば	ぱ	ひ	び	ぴ	ふ	ぶ	ぷ	へ	べ	ぺ	ほ	ぼ	ぽ	ま	み
-む	め	も	ゃ	や	ゅ	ゆ	ょ	よ	ら	り	る	れ	ろ	ゎ	わ
-ゐ	ゑ	を	ん	ゔ	ゕ	ゖ	゙	゚	゛	゜	ゝ	ゞ	ゟ
-
 # Hebrew
 https://en.wikipedia.org/wiki/Hebrew_(Unicode_block)
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Hebrew
 א	ב	ג	ד	ה	ו	ז	ח	ט	י	ך	כ	ל	ם	מ	ן
 נ	ס	ע	ף	פ	ץ	צ	ק	ר	ש	ת	ׯ
 װ	ױ	ײ	׳	״			
+
+# Hiragana
+https://en.wikipedia.org/wiki/Hiragana_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Hiragana
+ぁ	あ	ぃ	い	ぅ	う	ぇ	え	ぉ	お	か	が	き	ぎ	く
+ぐ	け	げ	こ	ご	さ	ざ	し	じ	す	ず	せ	ぜ	そ	ぞ	た
+だ	ち	ぢ	っ	つ	づ	て	で	と	ど	な	に	ぬ	ね	の	は
+ば	ぱ	ひ	び	ぴ	ふ	ぶ	ぷ	へ	べ	ぺ	ほ	ぼ	ぽ	ま	み
+む	め	も	ゃ	や	ゅ	ゆ	ょ	よ	ら	り	る	れ	ろ	ゎ	わ
+ゐ	ゑ	を	ん	ゔ	ゕ	ゖ	゙	゚	゛	゜	ゝ	ゞ	ゟ
 
 # Imperial Aramaic
 https://en.wikipedia.org/wiki/Imperial_Aramaic_(Unicode_block)
