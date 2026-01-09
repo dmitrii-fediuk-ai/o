@@ -1,3 +1,4 @@
+# Symbols
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols
 
 ☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏
@@ -16,3 +17,21 @@ https://en.wikipedia.org/wiki/Miscellaneous_Symbols
 ⛐	⛑	⛒	⛓	⛕	⛖	⛗	⛘	⛙	⛚	⛛	⛜	⛝	⛞	⛟
 ⛠	⛡	⛢	⛣	⛤	⛥	⛦	⛧	⛨	⛩	⛫	⛬	⛭	⛮	⛯
 ⛰	⛱	⛶	⛷	⛸	⛹	⛻	⛼	⛾	⛿
+
+
+# Symbols and Arrows
+https://en.wikipedia.org/wiki/Miscellaneous_Symbols_and_Arrows
+⬀	⬁	⬂	⬃	⬄	⬅	⬆	⬇	⬈	⬉	⬊	⬋	⬌	⬍	⬎	⬏
+⬐	⬑	⬒	⬓	⬔	⬕	⬖	⬗	⬘	⬙	⬚	⬛	⬜	⬝	⬞	⬟
+⬠	⬡	⬢	⬣	⬤	⬥	⬦	⬧	⬨	⬩	⬪	⬫	⬬	⬭	⬮	⬯
+⬰	⬱	⬲	⬳	⬴	⬵	⬶	⬷	⬸	⬹	⬺	⬻	⬼	⬽	⬾	⬿
+⭀	⭁	⭂	⭃	⭄	⭅	⭆	⭇	⭈	⭉	⭊	⭋	⭌	⭍	⭎	⭏
+⭐	⭑	⭒	⭓	⭔	⭕	⭖	⭗	⭘	⭙	⭚	⭛	⭜	⭝	⭞	⭟
+⭠	⭡	⭢	⭣	⭤	⭥	⭦	⭧	⭨	⭩	⭪	⭫	⭬	⭭	⭮	⭯
+⭰	⭱	⭲	⭳	⭶	⭷	⭸	⭹	⭺	⭻	⭼	⭽	⭾	⭿
+⮀	⮁	⮂	⮃	⮄	⮅	⮆	⮇	⮈	⮉	⮊	⮋	⮌	⮍	⮎	⮏
+⮐	⮑	⮒	⮓	⮔	⮕	⮖	⮗	⮘	⮙	⮚	⮛	⮜	⮝	⮞	⮟
+⮠	⮡	⮢	⮣	⮤	⮥	⮦	⮧	⮨	⮩	⮪	⮫	⮬	⮭	⮮	⮯
+⮰	⮱	⮲	⮳	⮴	⮵	⮶	⮷	⮸	⮹	⮽	⮾	⮿
+⯀	⯁	⯂	⯃	⯄	⯅	⯆	⯇	⯈	⯉	⯊	⯋	⯌	⯍	⯎	⯏
+⯐	⯬	⯭	⯮	⯯
