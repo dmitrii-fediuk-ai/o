@@ -62,7 +62,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Letterlike_Symbols
 
 # Miscellaneous
 https://en.wikipedia.org/wiki/Miscellaneous_Symbols
-
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Miscellaneous_Symbols
 ☀	☁	☂	☃	☄	★	☆	☇	☈	☉	☊	☋	☌	☍	☎	☏
 ☐	☑	☒	☓	☖	☗	☘	☙	☚	☛	☜	☝	☞	☟
 ☠	☡	☢	☣	☤	☥	☦	☧	☨	☩	☪	☫	☬	☭	☮	☯
