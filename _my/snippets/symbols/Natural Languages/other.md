@@ -90,12 +90,12 @@ https://en.wikipedia.org/wiki/Cyrillic_(Unicode_block)
 Ӡ	ӡ	Ӣ	ӣ	Ӥ	ӥ	Ӧ	ӧ	Ө	ө	Ӫ	ӫ	Ӭ	ӭ	Ӯ	ӯ
 Ӱ	ӱ	Ӳ	ӳ	Ӵ	ӵ	Ӷ	ӷ	Ӹ	ӹ	Ӻ	ӻ	Ӽ	ӽ	Ӿ	ӿ
 
-# Extended-A
+## Extended-A
 https://en.wikipedia.org/wiki/Cyrillic_Extended-A
  ⷠ	 ⷡ	 ⷢ	 ⷣ	 ⷤ	 ⷥ	 ⷦ	 ⷧ	 ⷨ	 ⷩ	 ⷪ	 ⷫ	 ⷬ	 ⷭ	 ⷮ	 ⷯ
  ⷰ	 ⷱ	 ⷲ	 ⷳ	 ⷴ	 ⷵ	 ⷶ	 ⷷ	 ⷸ	 ⷹ	 ⷺ	 ⷻ	 ⷼ	 ⷽ	 ⷾ	 ⷿ
 
-# Extended-B
+## Extended-B
 https://en.wikipedia.org/wiki/Cyrillic_Extended-B
 Ꙁ	ꙁ	Ꙃ	ꙃ	Ꙅ	ꙅ	Ꙇ	ꙇ	Ꙉ	ꙉ	Ꙋ	ꙋ	Ꙍ	ꙍ	Ꙏ	ꙏ
 Ꙑ	ꙑ	Ꙓ	ꙓ	Ꙕ	ꙕ	Ꙗ	ꙗ	Ꙙ	ꙙ	Ꙛ	ꙛ	Ꙝ	ꙝ	Ꙟ	ꙟ
@@ -104,6 +104,11 @@ https://en.wikipedia.org/wiki/Cyrillic_Extended-B
 Ꚁ	ꚁ	Ꚃ	ꚃ	Ꚅ	ꚅ	Ꚇ	ꚇ	Ꚉ	ꚉ	Ꚋ	ꚋ	Ꚍ	ꚍ	Ꚏ	ꚏ
 UꚐ	ꚑ	Ꚓ	ꚓ	Ꚕ	ꚕ	Ꚗ	ꚗ	Ꚙ	ꚙ	Ꚛ	ꚛ	ꚜ	ꚝ	 ꚞ	 ꚟ
 
+## Supplement
+https://en.wikipedia.org/wiki/Cyrillic_Supplement
+Ԁ	ԁ	Ԃ	ԃ	Ԅ	ԅ	Ԇ	ԇ	Ԉ	ԉ	Ԋ	ԋ	Ԍ	ԍ	Ԏ	ԏ
+Ԑ	ԑ	Ԓ	ԓ	Ԕ	ԕ	Ԗ	ԗ	Ԙ	ԙ	Ԛ	ԛ	Ԝ	ԝ	Ԟ	ԟ
+Ԡ	ԡ	Ԣ	ԣ	Ԥ	ԥ	Ԧ	ԧ	Ԩ	ԩ	Ԫ	ԫ	Ԭ	ԭ	Ԯ	ԯ
 
 # Deseret
 https://en.wikipedia.org/wiki/Deseret_(Unicode_block)
