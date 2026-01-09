@@ -624,6 +624,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Shavian
 
 # Sinhala
 https://en.wikipedia.org/wiki/Sinhala_(Unicode_block)
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Sinhala
 අ	ආ	ඇ	ඈ	ඉ	ඊ	උ	ඌ	ඍ	ඎ	ඏ
 ඐ	එ	ඒ	ඓ	ඔ	ඕ	ඖ	ක	ඛ	ග	ඝ	ඞ	ඟ
 ච	ඡ	ජ	ඣ	ඤ	ඥ	ඦ	ට	ඨ	ඩ	ඪ	ණ	ඬ	ත	ථ	ද
