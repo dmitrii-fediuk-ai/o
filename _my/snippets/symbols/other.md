@@ -638,6 +638,12 @@ https://en.wikipedia.org/wiki/Syriac_(Unicode_block)
 ܠ	ܡ	ܢ	ܣ	ܤ	ܥ	ܦ	ܧ	ܨ	ܩ	ܪ	ܫ	ܬ	ܭ	ܮ	ܯ
 ݍ	ݎ	ݏ
 
+# Tai Le
+https://en.wikipedia.org/wiki/Tai_Le_(Unicode_block)
+ᥐ	ᥑ	ᥒ	ᥓ	ᥔ	ᥕ	ᥖ	ᥗ	ᥘ	ᥙ	ᥚ	ᥛ	ᥜ	ᥝ	ᥞ	ᥟ
+ᥠ	ᥡ	ᥢ	ᥣ	ᥤ	ᥥ	ᥦ	ᥧ	ᥨ	ᥩ	ᥪ	ᥫ	ᥬ	ᥭ		
+ᥰ	ᥱ	ᥲ	ᥳ	ᥴ
+
 # Ϯ
 https://gemini.google.com/share/e85e11e11e7c
 Ⲁ Ⲃ Ⲅ Ⲇ Ⲉ Ⲋ Ⲍ Ⲏ Ⲑ Ⲓ Ⲕ Ⲗ Ⲙ Ⲛ Ⲝ Ⲟ Ⲡ Ⲣ Ⲥ Ⲧ Ⲩ Ⲫ Ⲭ Ⲯ Ⲱ Ϣ Ϥ Ϧ Ϩ Ϫ Ϭ Ϯ
