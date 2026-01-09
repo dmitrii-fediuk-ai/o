@@ -110,6 +110,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Miscellaneous_Symbols_and_P
 
 # Small Form Variants
 https://en.wikipedia.org/wiki/Small_Form_Variants
+https://en.wikipedia.org/wiki/Template:Unicode_chart_Small_Form_Variants
 ﹐	﹑	﹒		﹔	﹕	﹖	﹗	﹘	﹙	﹚	﹛	﹜	﹝	﹞	﹟
 ﹠	﹡	﹢	﹣	﹤	﹥	﹦	﹨	﹩	﹪	﹫
 
