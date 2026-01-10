@@ -7,12 +7,6 @@ One of:
 - ⟪ «declarative sentences themselves rather than their meanings» ⟫ ⟨ Ⱳ Proposition∷statement ⟩
 ```
 
-# ꑌꕤ
-`ꑌꕤ` ≔ ⟨ Ⱳ Meaning_(philosophy) ⟩
-
-#
-`ꑌ𐏕` ≔ Ⱳ Terminology∷term
-
 # ꑌꘙ
 `ꑌꘙ` ≔ ⟨ Причина (источник) беспокойства ⟩
 

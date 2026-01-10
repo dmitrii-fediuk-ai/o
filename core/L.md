@@ -378,7 +378,7 @@ A₂ ≔ B₂
 † A
 ~~~
 ## Meaning
-`A` is a `ꑌProblem`.
+`A` is a `ꑌ†`
 
 # 29. ▶
 ## Syntax
