@@ -1,0 +1,10 @@
+https://en.wikipedia.org/wiki/Form_(document)#Placeholders
+https://en.wikipedia.org/wiki/JavaScript_templating
+https://en.wikipedia.org/wiki/PHP
+https://en.wikipedia.org/wiki/Smarty_(template_engine)
+https://en.wikipedia.org/wiki/String_interpolation
+https://en.wikipedia.org/wiki/String_interpolation
+https://en.wikipedia.org/wiki/String_literal
+https://en.wikipedia.org/wiki/Template_processor
+https://en.wikipedia.org/wiki/Variable_(high-level_programming)
+https://en.wikipedia.org/wiki/Web_template_system
