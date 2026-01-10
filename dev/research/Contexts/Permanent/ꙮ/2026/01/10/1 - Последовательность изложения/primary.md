@@ -4,6 +4,11 @@
 - `Prerequisite-based sequencing`
 - `Topological sort`
 
+- "**Prerequisite Sequencing**" (последовательность пререквизитов), 
+- "**Logical Order**" (логический порядок), 
+- "**Definition Before Use**" (определение перед использованием) 
+- "**Synthetic Method**" (синтетический метод изложения).
+
 https://en.wikipedia.org/wiki/Ontological_priority
 
 ## A2
