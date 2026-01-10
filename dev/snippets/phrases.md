@@ -6,6 +6,8 @@
 `STUBᵢ` ᗉ `STUB⠿`
 #
 `STUB` ≔ ⦿ ⟨ STUB ⟩
+#
+`STUB` ≔ ꖿ ⟨ STUB ⟩
 # `G↑`
 Я хочу ...
 # `᛭T`

@@ -2,16 +2,16 @@
 `ꑌ𝔼` ≔ Ⱳ Entity
 
 # ꑌ†
-`ꑌ†` ≔ ⟨ Ⱳ Problem_solving∷problem ⟩
+`ꑌ†` ≔ Ⱳ Problem_solving∷problem
 
 # ꑌꕤ
-`ꑌꕤ` ≔ ⟨ Ⱳ Meaning_(philosophy) ⟩
+`ꑌꕤ` ≔ Ⱳ Meaning_(philosophy)
 
 #
 `ꑌ𐏕` ≔ Ⱳ Terminology∷term
 
 # ꑌO
-`ꑌO` ≔ ⟨ Ⱳ Ontology_(information_science) ⟩
+`ꑌO` ≔ Ⱳ Ontology_(information_science)
 
 
 
