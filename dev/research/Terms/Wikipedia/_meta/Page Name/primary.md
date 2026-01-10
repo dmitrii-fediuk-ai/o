@@ -8,4 +8,7 @@ https://en.wikipedia.org/wiki/Wikipedia:Page_name
 The **page name** is **normally the same** as the **displayed title**, shown on the title line, near the top of the page, in a large font size.
 
 ##
-The displayed title can, however, be altered slightly from the page name without affecting things much; see Changing the displayed title below.
+The **displayed title** can, however, be **altered slightly** from the page name without affecting things much.
+
+# Changing the displayed title
+https://en.wikipedia.org/wiki/Wikipedia:Page_name#Changing_the_displayed_title
