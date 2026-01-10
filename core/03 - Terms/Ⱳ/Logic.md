@@ -20,9 +20,6 @@ One of:
 - Ⱳ Ontology_components#Classes  
 ```
 
-# `ꑌ𝔼`
-`ꑌ𝔼` ≔ Ⱳ Entity
-
 # ꑌℙ
 `ꑌℙ` ≔ 
 ```markdown
