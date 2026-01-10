@@ -378,7 +378,7 @@ A₂ ≔ B₂
 † A
 ~~~
 ## Meaning
-`A` is a ⟨ Ⱳ Problem_solving∷problem ⟩.
+`A` is a `ꑌProblem`.
 
 # 29. ▶
 ## Syntax
