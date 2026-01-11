@@ -1,9 +1,12 @@
 #
 `STUB` ≔ ⟨ STUB ⟩ 
+
 #
 `STUB` ≔ ⟨ Ⱳ STUB ⟩ 
+
 #
 `STUB⠿` ≔ ⠿ ⟨ STUB ⟩ 
+
 #
 `STUB⠿` ≔ ⠿~ ⟨ STUB ⟩ 
 ```examples  
@@ -11,12 +14,22 @@
 - Example 2
 - Example 3
 ```
+
 #
 `STUBᵢ` ᗉ `STUB⠿`
+
 #
 `STUB` ≔ ⦿ ⟨ STUB ⟩
+
 #
 `STUB` ≔ ꖿ ⟨ STUB ⟩
+
+# 
+`S⌖1` ≔⌖ ⟦§STUB∷§STUB.STUB⟧ 
+```
+STUB
+```
+
 # `G↑`
 Я хочу ...
 # `᛭T`
@@ -64,12 +77,6 @@ Key challenges
 # STUB. Анализ `߷STUB` №STUB (выполнен Gemini Deep Think)
 (анализ выполнен Gemini Deep Think)
 (анализ выполнен Gemini Deep Research)
-
-# STUB. 
-`S⌖1` ≔⌖ ⟦§STUB∷§STUB.STUB⟧ 
-```
-STUB
-```
 
 # STUB. 
 `Q1⌖1` ≔ ⟨ Опция «STUB» в контексте `Q1⁎` ⟩ 
