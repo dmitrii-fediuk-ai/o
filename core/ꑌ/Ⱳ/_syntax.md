@@ -34,7 +34,10 @@ This syntax is used when there is no standalone `ꑌⱳ_Article` for the `ꑌ�
 Ⱳ T₀∷T
 ~~~
 ## Meaning
-The `ꑌ𝔼` `T` in the context of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>`.  
+The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` `T` in the context of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>`.
+### Parameters    
+- <var>T</var> — the `ꑌ𐏕`.
+- <var>T₀</var> — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.  
 ## Example
 ~~~code
 ⟨ Ⱳ Theory_of_categories∷category ⟩
