@@ -20,7 +20,6 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of
 ### Parameters    
 - `T` — the `ꑌURI_Fragment_Identifier` of the section.
 - `T₀` — the `ꑌURI_Last_Path_Segment` of the `ꑌⱳ_Article`'s `ꑌURI`.
-
 ## Example
 ⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ `ꑌ𝔼` «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
 ## Rationale
