@@ -6,7 +6,7 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 ### Parameters   
 - <var>T</var> — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
 ## Example
-<kbd>Ⱳ Ontology_(information_science)</kbd>  
+<kbd>Ⱳ <var>Ontology_(information_science)</var></kbd>  
 ≡   
 <samp>
 	An **ontology**:   
