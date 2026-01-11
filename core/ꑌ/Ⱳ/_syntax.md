@@ -15,9 +15,9 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 	</blockquote>
 </samp>
 
-# Ⱳ T₀#T
+# Ⱳ <var>T₀</var>#<var>T</var>
 ## Syntax
-<kbd>T₀#T</kbd> 
+<kbd>Ⱳ <var>T₀</var>#<var>T</var></kbd> 
 ## Meaning
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of a particular section of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>#<T>`.
 ### Parameters    
