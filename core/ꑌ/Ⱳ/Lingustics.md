@@ -21,3 +21,6 @@
 
 # ꑌꮑ_Standard_Language
 `ꑌꮑ_Standard_Language` ≔ Ⱳ Standard_language
+
+# ꑌꮑ_Vocabulary
+`ꑌꮑ_Vocabulary` ≔ Ⱳ Vocabulary
