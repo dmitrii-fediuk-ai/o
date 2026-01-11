@@ -15,7 +15,9 @@ https://html.spec.whatwg.org/#the-header-element
 The header element represents a group of introductory or navigational aids.
 
 # headingoffset
+https://html.spec.whatwg.org/#attr-headingoffset
 https://html.spec.whatwg.org/#heading-levels-&-offsets:attr-headingoffset
+The headingoffset content attribute allows authors to offset heading levels for descendants.
 
 # kbd
 https://html.spec.whatwg.org/#the-kbd-element
