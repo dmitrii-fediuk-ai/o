@@ -48,7 +48,6 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` `T` in the context of t
 		To investigate the categories of being, or simply <mark>categories</mark> <…> 
 	</cite>
 </samp>
-
 ## Rationale
 Я использую этот синтаксис в тех случаях, когда для описываемого мной `ꑌ𝔼` отсутствует и standalone `ꑌⱳ_Article`, и даже standalone section (with a Fragment Identifier) of a `ꑌⱳ_Article`.
 
