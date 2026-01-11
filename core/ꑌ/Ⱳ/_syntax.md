@@ -19,10 +19,9 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 ## Syntax
 <kbd>Ⱳ <var>T₀</var>∷<var>T</var></kbd>
 ## Meaning
-The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` <var>T</var> in the context of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>`.
-### Parameters    
-- <var>T</var> — the `ꑌ𐏕`.
-- <var>T₀</var> — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.  
+<kbd>⟨ Ⱳ <var>T₀</var> ⟩∷<var>T</var></kbd>
+### Clarification
+Это — частный случай применения оператора `∷`. 
 ## Examples
 ### 1.
 <kbd>Ⱳ <var>Theory_of_categories</var>∷<var>category</var></kbd>  
@@ -39,6 +38,15 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` <var>T</var> in the con
 ≡  
 <samp>
 	The `ꑌ𝔼` **interval** in the context:   
+	<blockquote>
+	This definition generalizes the definition of <mark>intervals</mark> of real numbers.
+	</blockquote>
+</samp>
+### 3.
+<kbd>Ⱳ <var>Wikipedia:Official_names</var>∷⟨ <var>official name</var> ⟩</kbd>  
+≡  
+<samp>
+	The `ꑌ𝔼` **official name** in the context:   
 	<blockquote>
 	This definition generalizes the definition of <mark>intervals</mark> of real numbers.
 	</blockquote>
