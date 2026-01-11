@@ -14,6 +14,9 @@ The element may be used to group an h1–h6 element with one or more p elements 
 https://html.spec.whatwg.org/#the-header-element
 The header element represents a group of introductory or navigational aids.
 
+# headingoffset
+https://html.spec.whatwg.org/#heading-levels-&-offsets:attr-headingoffset
+
 # kbd
 https://html.spec.whatwg.org/#the-kbd-element
 The kbd element represents user input (typically keyboard input, although it may also be used to represent other input, such as voice commands).
