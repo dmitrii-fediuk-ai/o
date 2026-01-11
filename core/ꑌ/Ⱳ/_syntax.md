@@ -1,8 +1,6 @@
 # Ⱳ T
 ## Syntax
-~~~code
-Ⱳ T
-~~~
+<code>Ⱳ <var>T</var></code>
 ## Meaning
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.
 ### Parameters   
