@@ -15,7 +15,10 @@
 `ꑌꮑ_Natural` ≔ Ⱳ Natural_language
 
 # ꑌꮑ_OfficialName
-`ꑌꮑ_OfficialName` ≔ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
+`ꑌꮑ_OfficialName` ≔ ⟨
+	Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
+	||	⟨ the name of an `ꑌ𝔼` in a `ꑌꮑ_Standard_Language` ⟩
+⟩
 
 # ꑌꮑ_RU
 `ꑌꮑ_RU` ≔ Ⱳ Russian_language
