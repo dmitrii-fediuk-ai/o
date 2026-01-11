@@ -19,7 +19,7 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of a particular section of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>#<T>`.
 ### Parameters    
 - `T` — the `ꑌURI_Fragment_Identifier` of the section.
-- `T₀` — the Last Path Segment of the `ꑌⱳ_Article`'s `ꑌURI`.
+- `T₀` — the `ꑌURI_Last_Path_Segment` of the `ꑌⱳ_Article`'s `ꑌURI`.
 
 ## Example
 ⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨ `ꑌ𝔼` «**interval**» в контексте «an **interval** in a poset `P` is a subset that can be defined with interval notation <…>» ⟩
