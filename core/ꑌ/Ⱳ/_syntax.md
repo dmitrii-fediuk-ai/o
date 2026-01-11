@@ -40,12 +40,14 @@ The `ꑌ𝔼` `T` in the context of the `ꑌⱳ_Article` at `https://en.wikipedi
 ⟨ Ⱳ Theory_of_categories∷category ⟩
 ~~~
 ≡ 
-~~~~markdown
-The `ꑌ𝔼` `category` in the context: 
-<cite>
-In ontology, the theory of categories concerns itself with the **categories** of being: the highest genera or kinds of entities.   
-To investigate the categories of being, or simply **categories** <…> 
-</cite>
+<code>
+	The `ꑌ𝔼` `category` in the context: 
+	<cite>
+		In ontology, the theory of categories concerns itself with the <mark>categories</mark> of being: the highest genera or kinds of entities.   
+		To investigate the categories of being, or simply <mark>categories</mark> <…> 
+	</cite>
+</code>
+
 ~~~~
 ## Rationale
 Я использую этот синтаксис в тех случаях, когда для описываемого мной `ꑌ𝔼` отсутствует и standalone `ꑌⱳ_Article`, и даже standalone section (with a Fragment Identifier) of a `ꑌⱳ_Article`.
