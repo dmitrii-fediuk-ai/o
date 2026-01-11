@@ -12,7 +12,7 @@
 
 # ꑌꮑ_OfficialName
 `ꑌꮑ_OfficialName` ≔ ⟨
-	Ⱳ Wikipedia:Official_names∷⟨ official name ⟩
+	⟨ Ⱳ Wikipedia:Official_names∷⟨ official name ⟩ ⟩
 	∨ ⟨ the name of an `ꑌ𝔼` in a `ꑌꮑ_Standard_Language` ⟩
 ⟩
 

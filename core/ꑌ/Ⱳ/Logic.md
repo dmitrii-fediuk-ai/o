@@ -1,11 +1,10 @@
 # ꑌꖿ
 `ꑌꖿ` ≔ 
-```markdown
-One of:
-- ⟨ Ⱳ Proposition ⟩
-- ⟪ «a substantive statement about a thing» ⟫ ⟨ Ⱳ Claim_(philosophy) ⟩ 
-- ⟪ «declarative sentences themselves rather than their meanings» ⟫ ⟨ Ⱳ Proposition∷statement ⟩
-```
+	⟨ Ⱳ Proposition ⟩
+	∨ ⟨ Ⱳ Claim_(philosophy)∷⟨ a substantive statement about a thing ⟩⟩
+	∨ ⟨ Ⱳ Proposition∷statement∷⟨ 
+		declarative sentences themselves rather than their meanings 
+	⟩⟩ 
 
 # ꑌꘙ
 `ꑌꘙ` ≔ ⟨ Причина (источник) беспокойства ⟩
@@ -14,16 +13,10 @@ One of:
 `ꑌ𝒞` ≔ Ⱳ Theory_of_categories∷category 
  
 # ꑌℂ
-`ꑌℂ` ≔ 
-```markdown
-- Ⱳ Class_(knowledge_representation)
-- Ⱳ Ontology_components#Classes  
-```
+`ꑌℂ` ≔ ⟨ Ⱳ Class_(knowledge_representation) ⟩ ∨ ⟨ Ⱳ Ontology_components∷class ⟩  
 
 # ꑌℙ
 `ꑌℙ` ≔ 
-```markdown
-- Ⱳ Predicate_(logic) 
-- Ⱳ First-order_logic∷predicate 
-- Ⱳ Function_symbol∷predicate 
-```
+	⟨ Ⱳ Predicate_(logic) ⟩ 
+	∨ ⟨ Ⱳ First-order_logic∷predicate ⟩ 
+	∨ ⟨ Ⱳ Function_symbol∷predicate ⟩ 
