@@ -4,6 +4,11 @@ https://html.spec.whatwg.org/multipage
 
 # article
 https://html.spec.whatwg.org/#the-article-element
+The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. 
+This could be a forum post, a magazine or newspaper article, a blog entry, a user-submitted comment, an interactive widget or gadget, or any other independent item of content.
+
+When article elements are nested, the inner article elements represent articles that are in principle related to the contents of the outer article. 
+For instance, a blog entry on a site that accepts user-submitted comments could represent the comments as article elements nested within the article element for the blog entry.
 
 # h1, h2, h3, h4, h5, h6
 https://html.spec.whatwg.org/#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements
