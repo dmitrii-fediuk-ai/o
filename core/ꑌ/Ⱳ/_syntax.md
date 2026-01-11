@@ -6,7 +6,7 @@
 ## Meaning
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_Topic` of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T>`.
 ### Parameters   
-- `T` — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
+- <var>T</var> — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
 ## Example
 ⟨ Ⱳ Ontology_(information_science) ⟩ ≡ ⟨ An ontology: a representation, formal naming, and definitions of the categories, properties, and relations between the concepts, data, or entities ⟩
 
@@ -18,8 +18,8 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 ## Meaning
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the heading of a particular section of the `ꑌⱳ_Article` at `https://en.wikipedia.org/wiki/<T₀>#<T>`.
 ### Parameters    
-- `T` — the `ꑌURI_Fragment_Identifier` of the section of the `ꑌⱳ_Article`.
-- `T₀` — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
+- <var>T</var> — the `ꑌURI_Fragment_Identifier` of the section of the `ꑌⱳ_Article`.
+- <var>T₀</var> — the `ꑌURI_Last_Path_Segment` of the `ꑌURI` of the `ꑌⱳ_Article`.
 ## Example
 ⟨ Ⱳ Partially_ordered_set#Intervals ⟩ ≡ ⟨   
 	The `ꑌ𝔼` `interval` in the context:   
