@@ -1,5 +1,5 @@
 #
-<math class="doc" alttext="f_1, f_2, ..., f_n">
+<math>
 	<msub>
 		<mi>f</mi>
 		<mn>1</mn>
