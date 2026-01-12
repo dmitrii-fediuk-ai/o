@@ -18,6 +18,24 @@
 
 # ꑌꖿ
 `ꑌꖿ` ≔ 
+```
+	`ꑌProposition`
+	∨ ⟨ Ⱳ Claim_(philosophy) 
+	∨ `ꑌProposition`∷statement  
+	∨ `ꑌHypothesis`
+```
+
+# ꑌꖿ
+`ꑌꖿ` ≔ 
+```text
+	`ꑌProposition`
+	∨ ⟨ Ⱳ Claim_(philosophy) 
+	∨ `ꑌProposition`∷statement  
+	∨ `ꑌHypothesis`
+```
+
+# ꑌꖿ
+`ꑌꖿ` ≔ 
 ```markdown
 	`ꑌProposition`
 	∨ ⟨ Ⱳ Claim_(philosophy) 
