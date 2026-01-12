@@ -1,5 +1,4 @@
 #
-```markdown
 <math>
 	<mfrac>
 		<msup>
@@ -19,7 +18,6 @@
 	<mo>=</mo>
 	<mtext>constant</mtext>
 </math>
-```
 
 # ∷
 ## Syntax
