@@ -1,3 +1,23 @@
+#
+<math class="doc" alttext="f_1, f_2, ..., f_n">
+	<msub>
+		<mi>f</mi>
+		<mn>1</mn>
+	</msub>
+	<mo>,</mo>
+	<msub>
+		<mi>f</mi>
+		<mn>2</mn>
+	</msub>
+	<mo>,</mo> 
+	<mo>…</mo>
+	<mo>,</mo>
+	<msub>
+		<mi>f</mi>
+		<mi>n</mi>
+	</msub>
+</math>
+
 # ∷
 ## Syntax
 ~~~code
