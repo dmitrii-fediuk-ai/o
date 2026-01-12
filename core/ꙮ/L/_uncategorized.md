@@ -10,6 +10,11 @@
 $k_{n+1}$
 
 #
+$$
+f(n) = n^5 + 4n^2 + 2 |_{n=17}
+$$
+
+#
 ```math
 \begin{equation} 
 	f(x)=(x+a)(x+b)
