@@ -21,7 +21,7 @@ The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` which is the `ꑌⱳ_To
 ## Meaning
 <kbd>⟨ Ⱳ <var>T₀</var> ⟩∷<var>T</var></kbd>
 ### Clarification
-Это — частный случай применения оператора `∷`. 
+This is a particular case of the `∷` operator usage. 
 ## Rationale
 This syntax is used when there is no standalone `ꑌⱳ_Article` for the `ꑌ𝔼`. 
 ## Examples
