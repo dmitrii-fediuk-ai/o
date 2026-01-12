@@ -1,3 +1,24 @@
+#
+<math>
+	<mfrac>
+		<msup>
+			<mi>v</mi>
+			<mn>2</mn>
+		</msup>
+		<mn>2</mn>
+	</mfrac>
+	<mo>+</mo>
+	<mi>g</mi>
+	<mi>z</mi>
+	<mo>+</mo>
+	<mfrac>
+		<mi>p</mi>
+		<mi>ρ</mi>
+	</mfrac>
+	<mo>=</mo>
+	<mtext>constant</mtext>
+</math>
+
 # ∷
 ## Syntax
 ~~~code
