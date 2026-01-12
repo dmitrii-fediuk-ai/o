@@ -28,12 +28,24 @@ This could be a forum post, a magazine or newspaper article, a blog entry, a use
 When article elements are nested, the inner article elements represent articles that are in principle related to the contents of the outer article. 
 For instance, a blog entry on a site that accepts user-submitted comments could represent the comments as article elements nested within the article element for the blog entry.
 
+# data
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-data-element
+The data element represents its contents, along with a machine-readable form of those contents in the value attribute.
+The value attribute must be present. Its value must be a representation of the element's contents in a machine-readable format.
+
+##
+When combined with microformats or the microdata attributes defined in this specification, the element serves to provide both a machine-readable value for the purposes of data processors, and a human-readable value for the purposes of rendering in a web browser. 
+In this case, the format to be used in the value attribute is determined by the microformats or microdata vocabulary in use.
+
 # dd
 https://html.spec.whatwg.org/multipage/grouping-content.html#the-dd-element
 The dd element represents the description, definition, or value, part of a term-description group in a description list (dl element).
 
 # dfn
 https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-dfn-element
+The dfn element represents the defining instance of a term. 
+The paragraph, description list group, or section that is the nearest ancestor of the dfn element must also contain the definition(s) for the term given by the dfn element.
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#defining-term
 
 # dl
 https://html.spec.whatwg.org/multipage/grouping-content.html#the-dl-element
@@ -91,6 +103,15 @@ https://html.spec.whatwg.org/#the-kbd-element
 The kbd element represents user input (typically keyboard input, although it may also be used to represent other input, such as voice commands).
 
 When the kbd element is nested inside another kbd element, it represents an actual key or other single unit of input as appropriate for the input mechanism.
+
+# mark
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-mark-element
+##
+The mark element represents a run of text in one document marked or highlighted for reference purposes, due to its relevance in another context. 
+##
+When used in a quotation or other block of text referred to from the prose, it indicates a highlight that was not originally present but which has been added to bring the reader's attention to a part of the text that might not have been considered important by the original author when the block was originally written, but which is now under previously unexpected scrutiny. 
+##
+When used in the main prose of a document, it indicates a part of the document that has been highlighted due to its likely relevance to the user's current activity.
 
 # meta
 https://html.spec.whatwg.org/#the-meta-element
