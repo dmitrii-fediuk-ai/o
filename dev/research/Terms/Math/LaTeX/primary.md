@@ -17,6 +17,15 @@ https://en.wikibooks.org/wiki/LaTeX/Theorems
 # Brackets, braces and delimiters
 https://en.wikibooks.org/wiki/LaTeX/Mathematics#Brackets,_braces_and_delimiters
 
+# Above and below
+https://en.wikibooks.org/wiki/LaTeX/Advanced_Mathematics#Above_and_below
+$$
+z = \overbrace{
+	\underbrace{x}_\text{real} + i
+	\underbrace{y}_\text{imaginary}
+}^\text{complex number}
+$$
+
 # Accents
 https://en.wikibooks.org/wiki/LaTeX/Mathematics#Accents
 $\overrightarrow{ꕤ}$
