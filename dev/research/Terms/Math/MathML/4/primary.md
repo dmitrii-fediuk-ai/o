@@ -21,3 +21,13 @@ These are defined for compatibility with legacy MathML, as well as to cover 3.1.
 	<mrow>...</mrow>
 </math>
 ```
+
+```html
+<body xmlns:m="http://www.w3.org/1998/Math/MathML">
+	...
+	<m:math>
+		<m:mrow>...</m:mrow>
+	</m:math>
+	...
+</body>
+```
