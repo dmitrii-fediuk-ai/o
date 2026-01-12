@@ -8,40 +8,7 @@
 `ꑌ≡` ≔ Ⱳ Logical_biconditional
 
 # ꑌꖿ
-`ꑌꖿ` ≔ 
-<pre>
-	`ꑌProposition`
-	∨ ⟨ Ⱳ Claim_(philosophy) 
-	∨ `ꑌProposition`∷statement  
-	∨ `ꑌHypothesis`
-</pre>
-
-# ꑌꖿ
-`ꑌꖿ` ≔ 
-```
-	`ꑌProposition`
-	∨ ⟨ Ⱳ Claim_(philosophy) 
-	∨ `ꑌProposition`∷statement  
-	∨ `ꑌHypothesis`
-```
-
-# ꑌꖿ
-`ꑌꖿ` ≔ 
-```text
-	`ꑌProposition`
-	∨ ⟨ Ⱳ Claim_(philosophy) 
-	∨ `ꑌProposition`∷statement  
-	∨ `ꑌHypothesis`
-```
-
-# ꑌꖿ
-`ꑌꖿ` ≔ 
-```markdown
-	`ꑌProposition`
-	∨ ⟨ Ⱳ Claim_(philosophy) 
-	∨ `ꑌProposition`∷statement  
-	∨ `ꑌHypothesis`
-```
+`ꑌꖿ` ≔ `ꑌProposition` ∨ `ꑌProposition`∷statement  ∨ `ꑌHypothesis`	 ∨ `ꑌClaim`
 
 # ꑌꘙ
 `ꑌꘙ` ≔ ⟨ Причина (источник) беспокойства ⟩
@@ -62,6 +29,9 @@
 
 # ꑌAxiom
 `ꑌAxiom` ≔ Ⱳ Axiom
+
+# ꑌHypothesis
+`ꑌClaim` ≔ Ⱳ Claim_(philosophy) 
 
 # ꑌHypothesis
 `ꑌHypothesis` ≔ Ⱳ Hypothesis
