@@ -10,11 +10,9 @@
 # ꑌꖿ
 `ꑌꖿ` ≔ 
 <pre>
-	⟨ Ⱳ Proposition ⟩  
+	`ꑌProposition`
 	∨ ⟨ Ⱳ Claim_(philosophy)∷⟨ a substantive statement about a thing ⟩⟩  
-	∨ ⟨ Ⱳ Proposition∷statement∷⟨   
-		declarative sentences themselves rather than their meanings   
-	⟩⟩  
+	∨ `ꑌProposition`∷statement∷⟨declarative sentences themselves rather than their meanings  
 	∨ `ꑌHypothesis`
 </pre>
 
@@ -40,3 +38,6 @@
 
 # ꑌHypothesis
 `ꑌHypothesis` ≔ Ⱳ Hypothesis
+
+# ꑌProposition
+`ꑌProposition` ≔ Ⱳ Proposition
