@@ -8,7 +8,7 @@
 
 #
 $$
-\begin{array}1 & 2\end{array}
+\begin{matrix}1 & 2\end{matrix}
 $$
 
 #
