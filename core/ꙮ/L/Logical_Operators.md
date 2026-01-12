@@ -1,8 +1,6 @@
 # ⊤
 ## Syntax
-~~~code
 <code>⊤ <var>A</var></code> 
-~~~
 ## Meaning
 <var>`A`</var> is an `ꑌAxiom`.
 ## Rationale
