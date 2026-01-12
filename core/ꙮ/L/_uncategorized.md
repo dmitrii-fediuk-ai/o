@@ -8,7 +8,7 @@
 
 #
 $$
-\begin{matrix}1 & 2\end{matrix}
+\overrightarrow{ꕤ}
 $$
 
 #
