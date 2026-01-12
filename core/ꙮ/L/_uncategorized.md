@@ -1,4 +1,21 @@
 #
+<math title="x/y" xmlns="http://www.w3.org/1998/Math/MathML">
+	<mstyle 
+		mathcolor="#000" 
+		fontsize="1.2em" 
+		mathsize="1.2em" 
+		fontfamily="serif" 
+		mathvariant="serif" 
+		displaystyle="true"
+	>
+		<mfrac>
+			<mi>x</mi>
+			<mi>y</mi>
+		</mfrac>
+	</mstyle>
+</math>
+
+#
 <math xmlns="http://www.w3.org/1998/Math/MathML">
 	<msub>
 		<mi>f</mi>
