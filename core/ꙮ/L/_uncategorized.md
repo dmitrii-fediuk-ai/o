@@ -7,11 +7,11 @@
 ```
 
 #
-\[
+```math
 \begin{equation} 
 	f(x)=(x+a)(x+b)
 \end{equation}
-\]
+```
 
 #
 $$
