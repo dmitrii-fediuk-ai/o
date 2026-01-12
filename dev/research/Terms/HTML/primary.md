@@ -28,10 +28,25 @@ This could be a forum post, a magazine or newspaper article, a blog entry, a use
 When article elements are nested, the inner article elements represent articles that are in principle related to the contents of the outer article. 
 For instance, a blog entry on a site that accepts user-submitted comments could represent the comments as article elements nested within the article element for the blog entry.
 
+# dd
+https://html.spec.whatwg.org/multipage/grouping-content.html#the-dd-element
+The dd element represents the description, definition, or value, part of a term-description group in a description list (dl element).
+
+# dfn
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-dfn-element
+
 # dl
 https://html.spec.whatwg.org/multipage/grouping-content.html#the-dl-element
 In order to annotate groups with microdata attributes, or other global attributes that apply to whole groups, or just for styling purposes, each group in a dl element can be wrapped in a div element. 
 This does not change the semantics of the dl element.
+
+# dt
+https://html.spec.whatwg.org/multipage/grouping-content.html#the-dt-element
+##
+The dt element represents the term, or name, part of a term-description group in a description list (dl element).
+##
+The dt element itself, when used in a dl element, does not indicate that its contents are a term being defined, but this can be indicated using the dfn element.
+
 
 # h1, h2, h3, h4, h5, h6
 https://html.spec.whatwg.org/#the-h1,-h2,-h3,-h4,-h5,-and-h6-elements
