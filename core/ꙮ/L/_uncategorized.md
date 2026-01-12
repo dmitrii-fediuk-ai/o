@@ -8,12 +8,9 @@
 
 #
 ```math
-\begin{proof}
-Here is my proof:
-\[
-a^2 + b^2 = c^2 \qedhere
-\]
-\end{proof}
+\begin{theorem}
+  If $A$ is positive definite symmetric, 
+\end{theorem}
 ```
 
 # ∷
