@@ -4,9 +4,7 @@
 ## Meaning 
 The `ꑌ𝔼` representing the `ꑌꕤ` of the `ꑌ𐏕` <var>`B`</var> in the context <var>`A`</var>.
 ## Example
-<code>A∷⟨ пункт 3 ⟩</code> 
-≡   
-<output>**Пункт 3** документа `A`</output>
+<code>A∷⟨ пункт 3 ⟩</code> ≡ <output>**пункт 3** документа `A`</output>
 # ꕤ⧙T⧘
 `ꕤ⧙T⧘` ≔ ⟨ the `ꑌꕤ` of `T` ⟩ ⸨ `T` is a `ꑌ𐏕`⸩
 
