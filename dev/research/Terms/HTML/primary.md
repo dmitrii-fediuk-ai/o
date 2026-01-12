@@ -20,6 +20,13 @@ https://whatwg.org/faq#living-standard
 # HTML should support a way for anyone to invent new elements!
 https://github.com/whatwg/html/blob/main/FAQ.md#html-should-support-a-way-for-anyone-to-invent-new-elements
 
+# abbr
+https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-abbr-element
+The abbr element represents an abbreviation or acronym, optionally with its expansion. 
+##
+The title attribute may be used to provide an expansion of the abbreviation. 
+The attribute, if specified, must contain an expansion of the abbreviation, and nothing else.
+
 # article
 https://html.spec.whatwg.org/#the-article-element
 The article element represents a complete, or self-contained, composition in a document, page, application, or site and that is, in principle, independently distributable or reusable, e.g. in syndication. 
@@ -40,6 +47,10 @@ In this case, the format to be used in the value attribute is determined by the 
 # dd
 https://html.spec.whatwg.org/multipage/grouping-content.html#the-dd-element
 The dd element represents the description, definition, or value, part of a term-description group in a description list (dl element).
+
+# details
+https://html.spec.whatwg.org/multipage/interactive-elements.html#the-details-element
+The details element represents a disclosure widget from which the user can obtain additional information or controls.
 
 # dfn
 https://html.spec.whatwg.org/multipage/text-level-semantics.html#the-dfn-element
@@ -98,6 +109,10 @@ The headingoffset content attribute allows authors to offset heading levels for 
 https://html.spec.whatwg.org/#the-hr-element
 The hr element represents a paragraph-level thematic break, e.g., a scene change in a story, or a transition to another topic within a section of a reference book; alternatively, it represents a separator between a set of options of a select element.
 
+# ins
+https://html.spec.whatwg.org/multipage/edits.html#the-ins-element
+The ins element represents an addition to the document.
+
 # kbd
 https://html.spec.whatwg.org/#the-kbd-element
 The kbd element represents user input (typically keyboard input, although it may also be used to represent other input, such as voice commands).
@@ -139,6 +154,10 @@ The section element represents a generic section of a document or application.
 A section, in this context, is a thematic grouping of content, typically with a heading.
 
 A general rule is that the section element is appropriate only if the element's contents would be listed explicitly in the document's outline.
+
+# summary
+https://html.spec.whatwg.org/multipage/interactive-elements.html#the-summary-element
+The summary element represents a summary, caption, or legend for the rest of the contents of the summary element's parent details element, if any.
 
 # var
 https://html.spec.whatwg.org/#the-var-element
