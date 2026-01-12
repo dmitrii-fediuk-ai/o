@@ -2,8 +2,16 @@ https://html.spec.whatwg.org
 https://html.spec.whatwg.org/multipage#toc-semantics
 https://html.spec.whatwg.org/multipage
 https://en.wikipedia.org/wiki/HTML5
+https://github.com/whatwg/html
 
+#
 **HTML 5.1**, **HTML 5.2** and **HTML 5.3** were **all retired** on 28 January 2021, in favour of the **HTML living standard**.
+
+# Why are there no stable snapshots, or versions, of the standard?
+https://github.com/whatwg/html/blob/main/FAQ.md#why-are-there-no-stable-snapshots-or-versions-of-the-standard
+
+# What does “Living Standard” mean?
+https://whatwg.org/faq#living-standard
 
 # article
 https://html.spec.whatwg.org/#the-article-element
