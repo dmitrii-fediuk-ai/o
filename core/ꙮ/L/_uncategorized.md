@@ -7,6 +7,9 @@
 ```
 
 #
+$k_{n+1}$
+
+#
 ```math
 \begin{equation} 
 	f(x)=(x+a)(x+b)
@@ -20,8 +23,7 @@ $$
 \end{equation}
 $$
 
-#
-$k_{n+1}$
+
 
 # ∷
 ## Syntax
