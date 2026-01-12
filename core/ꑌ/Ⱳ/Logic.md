@@ -29,9 +29,11 @@
 
 # ꑌℙ
 `ꑌℙ` ≔ 
+<pre>
 	⟨ Ⱳ Predicate_(logic) ⟩ 
 	∨ ⟨ Ⱳ First-order_logic∷predicate ⟩ 
 	∨ ⟨ Ⱳ Function_symbol∷predicate ⟩ 
+</pre>
 
 # ꑌAxiom
 `ꑌAxiom` ≔ Ⱳ Axiom
