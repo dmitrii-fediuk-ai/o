@@ -1,8 +1,4 @@
-# 1
-test
-
-
-# 2
+#
 $\overrightarrow{ꕤ}$
 $\breve{ꕤ}$
 $\widehat{ꕤ}$
@@ -19,22 +15,22 @@ $\underline{ꕤ}$
 #
 $k = {\color{red}x} \mathbin{\color{blue}-} 2$
 
-# 3
+#
 $k_{n+1}$
 
-# 4
+#
 $$
 f(n) = n^5 + 4n^2 + 2 |_{n=17}
 $$
 
-# 5
+#
 ```math
 \begin{equation} 
 	f(x)=(x+a)(x+b)
 \end{equation}
 ```
 
-# 6
+#
 $$
 \begin{equation} 
 	f(x)=(x+a)(x+b)
