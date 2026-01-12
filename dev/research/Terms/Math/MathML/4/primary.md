@@ -22,6 +22,8 @@ These are defined for compatibility with legacy MathML, as well as to cover 3.1.
 </math>
 ```
 
+The HTML parser has in-built knowledge of the HTML, SVG, and MathML namespaces.
+
 ```html
 <body xmlns:m="http://www.w3.org/1998/Math/MathML">
 	...
