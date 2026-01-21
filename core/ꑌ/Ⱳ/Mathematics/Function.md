@@ -1,3 +1,6 @@
+# ꑌʍ_Codomain
+`ꑌʍ_Codomain` ≔ Ⱳ Codomain
+
 # ꑌʍ_Domain
 `ꑌʍ_Domain` ≔ Ⱳ Domain_of_a_function
 
