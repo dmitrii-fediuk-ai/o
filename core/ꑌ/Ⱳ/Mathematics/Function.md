@@ -10,5 +10,8 @@
 # ꑌʍ_Functor
 `ꑌʍ_Functor` ≔ Ⱳ Functor
 
+# ꑌʍ_Image
+`ꑌʍ_Image` ≔ Ⱳ Image_(mathematics)
+
 # ꑌʍ_Map
 `ꑌʍ_Map` ≔ Ⱳ Map_(mathematics)
