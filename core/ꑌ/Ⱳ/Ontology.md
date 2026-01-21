@@ -1,3 +1,9 @@
+# ꑌ𝒞
+`ꑌ𝒞` ≔ Ⱳ Theory_of_categories∷category 
+ 
+# ꑌℂ
+`ꑌℂ` ≔ ⟨ Ⱳ Class_(knowledge_representation) ⟩ ∨ ⟨ Ⱳ Ontology_components∷class ⟩  
+
 # `ꑌ𝔼`
 `ꑌ𝔼` ≔ Ⱳ Entity
 
