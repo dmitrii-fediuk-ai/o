@@ -1,3 +1,9 @@
+# ꑌւ_Formula
+`ꑌւ_Formula` ≔ `ꑌւ_Propositional_Formula` ∨ `ꑌւ_Well_Formed_Formula`
+
+# ꑌւ_Propositional_Formula
+`ꑌւ_Propositional_Formula` ≔ Ⱳ Propositional_formula
+
 # ꑌւ_Substitution
 `ꑌւ_Substitution` ≔ Ⱳ Substitution_(logic)
 
