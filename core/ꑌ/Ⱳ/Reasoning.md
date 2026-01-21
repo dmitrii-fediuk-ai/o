@@ -1,5 +1,5 @@
 # ꑌꙄ
-`ꑌꙄ` ≔ `ꑌProposition` ∨ `ꑌProposition`∷statement  ∨ `ꑌHypothesis` ∨ `ꑌւ_Claim` 
+`ꑌꙄ` ≔ `ꑌProposition` ∨ `ꑌւ_Statement`  ∨ `ꑌHypothesis` ∨ `ꑌւ_Claim` 
 
 # ꑌ†
 `ꑌ†` ≔ Ⱳ Problem_solving∷problem
