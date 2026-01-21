@@ -24,7 +24,7 @@
 # ꑌAxiom
 `ꑌAxiom` ≔ Ⱳ Axiom
 
-# ꑌHypothesis
+# ꑌClaim
 `ꑌClaim` ≔ Ⱳ Claim_(philosophy) 
 
 # ꑌHypothesis
