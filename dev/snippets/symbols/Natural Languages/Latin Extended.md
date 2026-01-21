@@ -55,7 +55,7 @@ https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-A
 # Latin Extended-B
 https://en.wikipedia.org/wiki/Latin_Extended-B
 https://en.wikipedia.org/wiki/Template:Unicode_chart_Latin_Extended-B
-ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ 	Ɔ	Ƈ	ƈ Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə
+ƀ	Ɓ	Ƃ	ƃ	Ƅ	ƅ 	Ɔ	Ƈ	ƈ	Ɖ	Ɗ	Ƌ	ƌ	ƍ	Ǝ	Ə
 Ɛ	Ƒ	ƒ	Ɠ	Ɣ	ƕ	Ɩ	Ɨ	Ƙ	ƙ	ƚ	ƛ	Ɯ	Ɲ	ƞ	Ɵ
 Ơ	ơ	Ƣ	ƣ	Ƥ	ƥ	Ʀ	Ƨ	ƨ	Ʃ	ƪ	ƫ	Ƭ	ƭ	Ʈ	Ư
 ư	Ʊ	Ʋ	Ƴ	ƴ	Ƶ	ƶ	Ʒ	Ƹ	ƹ	ƺ	ƻ	Ƽ	ƽ	ƾ	ƿ
