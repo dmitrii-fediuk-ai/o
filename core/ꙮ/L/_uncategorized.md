@@ -65,7 +65,7 @@
 
 ## Meaning
 Правила `<rules>` действуют временно: только в рамках `S`.  
-`S` — это ⟨ Ⱳ Scope_(computer_programming) ⟩ для `<rules>`.  
+`S` — это `ꑌᴘ_Scope` для `<rules>`.  
 Вне `S` правила `<rules>` не действительны. 
 
 ## Главный Use Case: введение local variables

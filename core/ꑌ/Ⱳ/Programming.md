@@ -6,3 +6,6 @@
 
 # ꑌᴘ_Parameter
 `ꑌᴘ_Parameter` ≔ Ⱳ Parameter_(computer_programming)
+
+# ꑌᴘ_Scope
+`ꑌᴘ_Scope` ≔ Ⱳ Scope_(computer_programming)
