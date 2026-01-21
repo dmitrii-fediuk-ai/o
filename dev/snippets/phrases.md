@@ -8,12 +8,13 @@
 `STUB⠿` ≔ ⠿ ⟨ STUB ⟩ 
 
 #
-`STUB⠿` ≔ ⠿~ ⟨ STUB ⟩ 
+`STUB⠿` ≔ ⠿~ ⟨ STUB ⟩ ⟪
 ```examples  
 - Example 1
 - Example 2
 - Example 3
 ```
+⟫
 
 #
 `STUBᵢ` ᗉ `STUB⠿`
