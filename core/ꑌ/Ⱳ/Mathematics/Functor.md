@@ -1,5 +1,8 @@
+# ꑌʍ_Function
+`ꑌʍ_Function` ≔ Ⱳ Function_(mathematics)
+
 # ꑌFunctor
 `ꑌFunctor` ≔ Ⱳ Functor
 
-# ꑌMap
-`ꑌMap` ≔ Ⱳ Map_(mathematics)
+# ꑌʍ_Map
+`ꑌʍ_Map` ≔ Ⱳ Map_(mathematics)
