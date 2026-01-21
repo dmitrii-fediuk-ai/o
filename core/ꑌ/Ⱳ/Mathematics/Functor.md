@@ -1,0 +1,2 @@
+# ꑌFunctor
+`ꑌFunctor` ≔ Ⱳ Functor
