@@ -86,6 +86,18 @@ Key challenges
 # STUB.
 `A1ᚖ⠿-T` ≔ (Анализ `Aᚖ⠿`, выполненный Gemini Deep Think)
 
+# `Q1ᨀ`
+`Q1ᨀ` ≔ ⟪ My initial question to you ⟫
+```
+STUB
+```
+
+# `A1ᨀ`
+`A1ᨀ` ≔ ⟪ Your answer to `Q1ᨀ` ⟫
+```
+STUB
+```
+
 # Содержание `A1ᚖ⠿-T`
 
 S⌖1
