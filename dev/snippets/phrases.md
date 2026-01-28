@@ -20,7 +20,7 @@
 `STUBᵢ` ᗉ `STUB⠿`
 
 #
-`STUB` ≔ ⦿ ⟨ STUB ⟩
+`STUB` ⦿ ⟨ STUB ⟩
 
 #
 `STUB` ≔ ꖿ ⟨ STUB ⟩
